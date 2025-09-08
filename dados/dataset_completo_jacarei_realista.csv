@@ -1,0 +1,2001 @@
+bairro,tipo_imovel,area_construida,area_terreno,quartos,banheiros,preco
+Chácaras Reunidas Igarapés,Terreno,0,164,0,0,50000
+Vila Zilda,Terreno,0,198,0,0,50000
+Chácaras Reunidas Igarapés,Terreno,0,201,0,0,50561
+Vila São Jorge,Terreno,0,211,0,0,58489
+Vila Zilda,Terreno,0,294,0,0,59623
+Jardim Paraíba,Terreno,0,222,0,0,66156
+Vila Nossa Senhora Aparecida,Terreno,0,172,0,0,74716
+Vila Santa Isabel,Terreno,0,296,0,0,75420
+Chácaras Reunidas Igarapés,Apartamento,38,0,1,1,76248
+Jardim São José,Terreno,0,156,0,0,79138
+Jardim Novo Horizonte,Casa,48,100,1,1,80304
+Jardim Nova Esperança,Terreno,0,276,0,0,87133
+Jardim Nova Esperança,Terreno,0,152,0,0,87992
+Jardim Novo Horizonte,Apartamento,53,0,3,2,89644
+Vila Zilda,Apartamento,46,0,2,2,89759
+Vila Elvira,Apartamento,41,0,1,1,90036
+Vila Zezinho,Terreno,0,357,0,0,91106
+Vila Zilda,Casa,47,100,1,1,92038
+Jardim Flórida,Terreno,0,186,0,0,97705
+Vila Machado,Apartamento,37,0,2,2,98268
+Vila Nossa Senhora Aparecida,Apartamento,35,0,2,1,98756
+Jardim das Oliveiras,Terreno,0,174,0,0,100502
+Jardim Primavera,Apartamento,39,0,1,1,104555
+Jardim Novo Horizonte,Terreno,0,212,0,0,104812
+Vila São Jorge,Apartamento,37,0,2,2,104861
+Jardim América,Terreno,0,245,0,0,107910
+Chácaras Reunidas Igarapés,Terreno,0,407,0,0,108465
+Vila Formosa,Apartamento,35,0,1,1,109768
+Jardim das Oliveiras,Apartamento,36,0,1,1,110260
+Vila Elvira,Apartamento,36,0,2,2,111283
+Chácaras Reunidas Igarapés,Apartamento,35,0,1,1,113090
+Vila Elvira,Casa,50,168,1,1,117336
+Jardim das Indústrias,Terreno,0,484,0,0,117612
+Jardim Novo Horizonte,Apartamento,49,0,1,1,118276
+Jardim Primavera,Apartamento,41,0,1,1,119303
+Jardim Novo Horizonte,Casa,49,150,1,1,120884
+Vila Zezinho,Terreno,0,472,0,0,122342
+Vila Formosa,Casa,51,100,3,2,122796
+Jardim Novo Horizonte,Apartamento,69,0,3,2,124821
+Vila São Jorge,Apartamento,38,0,2,2,124898
+Vila Nossa Senhora Aparecida,Terreno,0,169,0,0,125060
+Jardim América,Terreno,0,254,0,0,128231
+Chácaras Reunidas Igarapés,Apartamento,51,0,2,2,128887
+Jardim Novo Horizonte,Casa,69,106,2,2,130025
+Vila Garcia,Apartamento,46,0,2,2,131219
+Jardim São José,Terreno,0,302,0,0,131974
+Cidade Salvador,Terreno,0,172,0,0,132354
+Jardim Primavera,Apartamento,45,0,1,1,133209
+Chácaras Reunidas Igarapés,Apartamento,36,0,1,1,134035
+Vila Elvira,Terreno,0,779,0,0,134611
+Chácaras Reunidas Igarapés,Casa,52,117,3,2,134954
+Chácaras Reunidas Igarapés,Apartamento,65,0,2,2,136256
+Jardim Nova Esperança,Casa,60,112,2,1,138303
+Jardim do Lago,Terreno,0,364,0,0,139557
+Parque Residencial Flamboyant,Apartamento,53,0,2,2,142124
+Vila Machado,Apartamento,39,0,1,1,143067
+Chácaras Reunidas Igarapés,Apartamento,39,0,1,1,143379
+Jardim Novo Horizonte,Apartamento,80,0,2,1,143952
+Jardim Paraíba,Terreno,0,257,0,0,144691
+Jardim das Indústrias,Terreno,0,505,0,0,145440
+Vila Industrial,Apartamento,56,0,2,2,146182
+Jardim Califórnia,Apartamento,42,0,2,2,146315
+Vila Nossa Senhora Aparecida,Apartamento,50,0,1,1,147560
+Jardim Primavera,Casa,52,100,3,2,147565
+Parque Meia Lua,Apartamento,38,0,2,1,147643
+Vila Elvira,Casa,73,135,3,3,148363
+Jardim Novo Horizonte,Terreno,0,213,0,0,148503
+Jardim Flórida,Apartamento,55,0,3,3,149319
+Vila Formosa,Casa,52,116,2,2,150168
+Parque Meia Lua,Terreno,0,161,0,0,151492
+Vila Elvira,Apartamento,49,0,2,1,152174
+Jardim Panorama,Terreno,0,688,0,0,152185
+Jardim das Indústrias,Apartamento,36,0,1,1,153279
+Vila Elvira,Casa,69,114,2,1,153891
+Jardim Alvorada,Apartamento,41,0,1,1,155144
+Jardim Nova Esperança,Casa,56,144,2,2,156066
+Vila Zilda,Apartamento,65,0,3,2,156071
+Jardim Nova Esperança,Apartamento,74,0,2,1,158197
+Jardim Novo Horizonte,Terreno,0,531,0,0,159300
+Jardim Nova Esperança,Apartamento,56,0,2,2,160249
+Vila Zezinho,Apartamento,61,0,2,1,160308
+Vila Nossa Senhora Aparecida,Casa,45,100,1,1,160376
+Parque dos Príncipes,Apartamento,36,0,2,1,160833
+Vila Garcia,Terreno,0,744,0,0,161894
+Jardim Novo Horizonte,Apartamento,51,0,2,1,161996
+Chácaras Reunidas Igarapés,Casa,52,137,2,1,162953
+Jardim São José,Apartamento,46,0,2,1,163044
+Jardim Novo Horizonte,Terreno,0,557,0,0,163758
+Jardim Nova Esperança,Apartamento,42,0,1,1,164404
+Chácaras Reunidas Igarapés,Apartamento,50,0,2,2,165620
+Jardim Novo Horizonte,Apartamento,69,0,2,2,166179
+Vila Zezinho,Casa,47,136,2,1,166827
+Vila Zilda,Apartamento,78,0,3,2,167310
+Jardim Novo Horizonte,Terreno,0,765,0,0,167535
+Jardim Panorama,Terreno,0,262,0,0,168728
+Centro,Terreno,0,190,0,0,168862
+Parque Residencial Flamboyant,Casa,55,120,2,2,169816
+Jardim Santa Maria,Terreno,0,379,0,0,170171
+Jardim das Indústrias,Apartamento,48,0,2,2,170208
+Jardim Nova Esperança,Terreno,0,286,0,0,170370
+Cidade Salvador,Terreno,0,265,0,0,170527
+Jardim Alvorada,Apartamento,49,0,1,1,170676
+Jardim Nova Esperança,Apartamento,58,0,2,2,171981
+Vila Santa Isabel,Casa,58,183,2,1,172882
+Vila Zilda,Apartamento,69,0,3,3,172986
+Condomínio Portal de Jacareí,Terreno,0,204,0,0,173338
+Vila Industrial,Casa,64,115,2,2,173494
+Cidade Salvador,Apartamento,43,0,2,2,173763
+Vila Nossa Senhora Aparecida,Apartamento,72,0,2,1,174297
+Parque Imperial,Terreno,0,387,0,0,174962
+Chácaras Reunidas Igarapés,Apartamento,73,0,2,1,179218
+Jardim Panorama,Apartamento,77,0,2,1,179487
+Jardim Califórnia,Casa,50,121,1,1,182518
+Jardim das Oliveiras,Apartamento,40,0,1,1,182628
+Vila Garcia,Casa,67,154,2,1,182765
+Vila Formosa,Casa,55,100,2,1,183124
+Vila Garcia,Apartamento,60,0,2,1,183243
+Jardim das Indústrias,Casa,49,103,1,1,183576
+Vila São Paulo,Terreno,0,446,0,0,184644
+Jardim Panorama,Terreno,0,233,0,0,184955
+Chácaras Reunidas Igarapés,Apartamento,48,0,2,2,187480
+Jardim Panorama,Casa,51,149,2,2,187721
+Vila Industrial,Apartamento,53,0,2,1,188298
+Chácaras Reunidas Igarapés,Apartamento,97,0,3,2,188708
+Vila Elvira,Casa,63,217,3,2,188777
+Jardim Alvorada,Terreno,0,208,0,0,189363
+Jardim Novo Horizonte,Casa,59,182,2,1,189541
+Vila São Paulo,Casa,64,214,2,2,190092
+Vila Garcia,Apartamento,35,0,1,1,190340
+Vila São Jorge,Apartamento,59,0,3,3,191584
+Vila Formosa,Terreno,0,526,0,0,191805
+Chácaras Reunidas Igarapés,Apartamento,83,0,4,3,192008
+Jardim Flórida,Casa,50,110,1,1,192074
+Vila Industrial,Apartamento,46,0,1,1,192611
+Parque Residencial Flamboyant,Apartamento,57,0,3,2,193070
+Vila Zezinho,Apartamento,46,0,1,1,193200
+Parque Residencial Flamboyant,Terreno,0,886,0,0,193502
+Vila São Paulo,Apartamento,68,0,2,2,193953
+Jardim Panorama,Terreno,0,365,0,0,194435
+Jardim São José,Terreno,0,279,0,0,194546
+Vila São Jorge,Terreno,0,582,0,0,194853
+Jardim Alvorada,Casa,75,114,2,2,196161
+Vila São Paulo,Casa,56,219,2,1,196189
+Parque Residencial Flamboyant,Apartamento,70,0,2,1,196840
+Residencial Villa Lobos,Terreno,0,257,0,0,197170
+Vila Branca,Apartamento,50,0,1,1,197505
+Jardim das Indústrias,Apartamento,42,0,1,1,197820
+Chácaras Reunidas Igarapés,Apartamento,58,0,2,1,198490
+Vila Zilda,Casa,63,155,2,2,198690
+Vila Branca,Casa,56,138,2,2,198701
+Vila Machado,Terreno,0,370,0,0,198801
+Cidade Salvador,Casa,47,177,1,1,199093
+Vila Industrial,Terreno,0,832,0,0,199680
+Jardim São José,Apartamento,47,0,2,1,200165
+Jardim Panorama,Terreno,0,963,0,0,200881
+Jardim Nova Esperança,Terreno,0,282,0,0,201150
+Jardim América,Apartamento,35,0,1,1,202054
+Vila Formosa,Apartamento,100,0,3,3,202605
+Jardim Panorama,Apartamento,94,0,4,2,202795
+Vila São Paulo,Casa,50,117,1,1,203732
+Jardim das Oliveiras,Apartamento,56,0,3,3,204394
+Jardim Paraíba,Casa,50,139,1,1,204576
+Vila Zilda,Casa,88,272,2,2,204843
+Jardim Alvorada,Apartamento,44,0,1,1,205603
+Jardim América,Apartamento,41,0,2,2,205904
+Jardim Flórida,Apartamento,55,0,3,2,205933
+Centro,Terreno,0,150,0,0,206812
+Parque Residencial Flamboyant,Terreno,0,464,0,0,207129
+Vila Elvira,Terreno,0,544,0,0,207590
+Vila Garcia,Terreno,0,918,0,0,208340
+Parque Meia Lua,Apartamento,71,0,3,3,208448
+Jardim Santa Maria,Apartamento,42,0,1,1,208782
+Jardim Flórida,Apartamento,75,0,3,3,211777
+Cidade Salvador,Apartamento,74,0,2,1,212054
+Jardim Santa Maria,Terreno,0,619,0,0,212317
+Vila São Jorge,Apartamento,57,0,2,2,212843
+Sunset Garden,Apartamento,40,0,1,1,212992
+Jardim América,Apartamento,59,0,2,1,213048
+Jardim América,Casa,54,141,2,2,213427
+Vila Santa Isabel,Casa,65,165,2,1,213727
+Vila Industrial,Casa,66,188,2,1,215220
+Jardim Nova Esperança,Casa,77,298,2,1,215541
+Residencial Villa Lobos,Terreno,0,156,0,0,215560
+Vila São Jorge,Terreno,0,514,0,0,216496
+Jardim Flórida,Apartamento,75,0,2,1,217068
+Vila Machado,Apartamento,58,0,2,2,217360
+Vila Industrial,Terreno,0,646,0,0,218089
+Jardim São José,Terreno,0,374,0,0,218154
+Jardim Nova Esperança,Apartamento,64,0,2,2,218265
+Jardim Santa Maria,Apartamento,51,0,2,2,219147
+Vila Garcia,Apartamento,66,0,2,2,219743
+Jardim Flórida,Casa,59,199,2,1,219972
+Vila São Jorge,Terreno,0,258,0,0,222215
+Jardim das Oliveiras,Apartamento,57,0,2,2,222448
+Vila Elvira,Apartamento,103,0,4,3,222727
+Jardim Bela Vista,Casa,54,118,3,2,223129
+Vila Santa Isabel,Casa,71,196,2,1,223235
+Residencial Villa Lobos,Terreno,0,321,0,0,223351
+Jardim Alvorada,Apartamento,51,0,2,1,223624
+Jardim Flórida,Apartamento,66,0,2,1,224287
+Vila São Paulo,Casa,71,215,2,1,225123
+Vila São Paulo,Apartamento,106,0,3,2,226018
+Jardim Nova Esperança,Apartamento,77,0,2,2,226380
+Residencial Terras de São José,Apartamento,39,0,1,1,228501
+Jardim Paraíba,Terreno,0,389,0,0,229121
+Jardim das Oliveiras,Terreno,0,534,0,0,229806
+Vila Industrial,Terreno,0,523,0,0,230538
+Parque dos Príncipes,Terreno,0,207,0,0,231012
+Vila São Paulo,Apartamento,77,0,3,3,231635
+Jardim Santa Maria,Casa,61,119,3,2,231748
+Vila Zezinho,Apartamento,56,0,2,2,231929
+Vila São Paulo,Casa,96,170,3,2,232182
+Vila Formosa,Casa,64,170,3,2,232735
+Parque Meia Lua,Terreno,0,370,0,0,233044
+Vila Santa Isabel,Apartamento,59,0,2,2,234625
+Vila Formosa,Apartamento,108,0,3,2,234748
+Jardim do Lago,Apartamento,41,0,1,1,234960
+Vila Garcia,Apartamento,54,0,2,2,235008
+Jardim São José,Casa,48,100,2,1,235284
+Jardim das Indústrias,Casa,77,234,2,1,235407
+Sunset Garden,Terreno,0,169,0,0,237140
+Cidade Salvador,Terreno,0,259,0,0,237295
+Vila São Paulo,Apartamento,70,0,2,1,238507
+Jardim Panorama,Terreno,0,865,0,0,238566
+Vila Nossa Senhora Aparecida,Terreno,0,973,0,0,238968
+Vila São Paulo,Apartamento,108,0,3,2,239517
+Jardim do Lago,Terreno,0,230,0,0,241569
+Chácaras Reunidas Igarapés,Apartamento,77,0,3,2,241591
+Clube de Campo,Apartamento,50,0,1,1,242032
+Jardim Novo Horizonte,Casa,75,283,3,3,242187
+Vila Machado,Apartamento,93,0,3,3,242395
+Centro,Apartamento,38,0,2,2,242915
+Jardim Primavera,Apartamento,67,0,2,2,243206
+Vila Garcia,Casa,47,137,2,2,243629
+Jardim das Indústrias,Apartamento,93,0,3,3,243985
+Vila Branca,Casa,53,199,3,2,244154
+Jardim Novo Horizonte,Apartamento,66,0,3,2,244252
+Jardim São José,Apartamento,77,0,2,1,244613
+Jardim Nova Esperança,Casa,92,165,3,3,244761
+Vila Nossa Senhora Aparecida,Apartamento,68,0,2,2,245561
+Residencial Terras de São José,Casa,60,100,2,1,246120
+Vila Santa Isabel,Casa,63,131,2,1,246419
+Jardim São José,Apartamento,69,0,3,2,246730
+Jardim Alvorada,Apartamento,63,0,2,1,247111
+Vila Formosa,Terreno,0,448,0,0,247228
+Vila Zezinho,Casa,83,218,2,2,247388
+Jardim das Oliveiras,Casa,70,157,2,1,247468
+Vila Branca,Apartamento,38,0,2,1,247497
+Jardim das Indústrias,Apartamento,60,0,3,2,247590
+Vila Machado,Casa,77,199,2,2,247608
+Vila Zilda,Casa,81,284,3,2,248339
+Jardim Santa Maria,Apartamento,60,0,2,1,248520
+Jardim do Lago,Casa,51,180,2,1,248544
+Jardim América,Terreno,0,341,0,0,248623
+Vila Zezinho,Casa,94,170,4,3,248987
+Vila Zilda,Terreno,0,611,0,0,249410
+Chácaras Reunidas Igarapés,Casa,105,347,3,3,249604
+Vila Branca,Apartamento,42,0,2,1,251974
+Jardim Paraíba,Apartamento,60,0,3,3,252600
+Residencial Terras de São José,Terreno,0,177,0,0,253021
+Sunset Garden,Terreno,0,196,0,0,253075
+Vila Santa Isabel,Casa,59,171,2,1,253561
+Jardim Bela Vista,Casa,52,167,2,1,254194
+Residencial Terras de São José,Apartamento,59,0,2,1,254526
+Parque Meia Lua,Apartamento,64,0,3,2,254755
+Jardim Nova Esperança,Casa,101,330,2,2,255054
+Vila Formosa,Apartamento,81,0,3,2,255089
+Residencial Villa Lobos,Terreno,0,614,0,0,255301
+Vila Zezinho,Apartamento,90,0,3,2,255528
+Jardim Alvorada,Casa,85,193,2,2,256124
+Jardim das Oliveiras,Apartamento,71,0,3,2,256175
+Jardim Primavera,Apartamento,66,0,2,1,256443
+Centro,Apartamento,36,0,1,1,256500
+Chácaras Reunidas Igarapés,Casa,77,215,2,1,256596
+Jardim Bela Vista,Apartamento,97,0,3,3,256749
+Jardim São José,Terreno,0,548,0,0,257176
+Jardim Novo Horizonte,Apartamento,75,0,2,2,257580
+Vila Machado,Apartamento,82,0,3,2,258300
+Vila Garcia,Apartamento,90,0,2,2,258723
+Vila Zilda,Terreno,0,430,0,0,258817
+Parque Meia Lua,Casa,86,146,4,2,259311
+Jardim Nova Esperança,Apartamento,59,0,2,2,259529
+Vila Elvira,Terreno,0,886,0,0,260484
+Jardim América,Casa,58,100,2,1,261123
+Centro,Apartamento,57,0,2,1,261345
+Vila Elvira,Terreno,0,892,0,0,261712
+Jardim Alvorada,Casa,54,137,2,1,261826
+Parque Residencial Flamboyant,Casa,59,148,2,1,261856
+Cidade Salvador,Apartamento,77,0,2,1,262161
+Chácaras Reunidas Igarapés,Casa,130,285,4,4,262499
+Parque Meia Lua,Terreno,0,329,0,0,262591
+Jardim Primavera,Casa,51,186,3,2,262710
+Condomínio Portal de Jacareí,Apartamento,56,0,3,3,263169
+Jardim Paraíba,Casa,59,138,3,2,263323
+Vila Garcia,Casa,58,221,2,2,263508
+Vila Zilda,Casa,80,196,3,3,264893
+Cidade Salvador,Terreno,0,262,0,0,265275
+Jardim Alvorada,Casa,74,254,2,2,265280
+Jardim Alvorada,Casa,118,188,2,2,265425
+Vila Elvira,Terreno,0,898,0,0,265628
+Vila Garcia,Casa,76,150,2,2,266498
+Parque dos Príncipes,Casa,47,176,2,1,266569
+Jardim Panorama,Terreno,0,729,0,0,267907
+Vila Industrial,Casa,76,229,2,1,268153
+Vila Zilda,Casa,114,252,3,3,269166
+Parque Residencial Flamboyant,Apartamento,83,0,3,2,269517
+Vila Formosa,Casa,114,241,2,2,270262
+Vila Zilda,Apartamento,97,0,2,2,270484
+Vila Zilda,Casa,83,277,3,2,270611
+Jardim São José,Casa,80,138,3,2,271150
+Jardim Nova Esperança,Apartamento,136,0,5,4,271224
+Jardim São José,Apartamento,63,0,3,2,272018
+Jardim Califórnia,Apartamento,39,0,2,1,272415
+Jardim Alvorada,Apartamento,110,0,2,1,272448
+Jardim Alvorada,Casa,83,165,3,2,272631
+Vila Elvira,Apartamento,99,0,3,2,273537
+Jardim Paraíba,Apartamento,48,0,2,1,273696
+Centro,Apartamento,39,0,1,1,273877
+Jardim Paraíba,Apartamento,73,0,3,2,273896
+Jardim das Oliveiras,Apartamento,64,0,3,2,275180
+Jardim Panorama,Apartamento,106,0,3,3,275356
+Jardim Panorama,Terreno,0,878,0,0,275955
+Vila São Paulo,Apartamento,64,0,3,3,276048
+Parque Meia Lua,Terreno,0,478,0,0,276284
+Jardim Paraíba,Apartamento,65,0,3,2,276445
+Jardim São José,Apartamento,51,0,2,1,276552
+Parque Residencial Flamboyant,Apartamento,101,0,3,2,276820
+Jardim Primavera,Casa,70,147,2,2,277158
+Vila Formosa,Casa,76,154,2,2,277756
+Jardim Nova Esperança,Casa,77,262,2,1,277828
+Vila Machado,Apartamento,63,0,2,1,278170
+Parque Imperial,Apartamento,45,0,1,1,278586
+Vila São Paulo,Apartamento,127,0,4,3,278606
+Jardim Nova Esperança,Apartamento,132,0,5,2,279048
+Jardim do Lago,Terreno,0,300,0,0,279450
+Jardim Novo Horizonte,Apartamento,132,0,4,3,279576
+Vila Elvira,Apartamento,124,0,4,3,279669
+Vila Nossa Senhora Aparecida,Terreno,0,465,0,0,280116
+Parque Meia Lua,Terreno,0,770,0,0,282089
+Centro,Casa,46,107,1,1,282271
+Vila Branca,Apartamento,90,0,2,1,282645
+Condomínio Portal de Jacareí,Casa,47,138,2,2,282884
+Jardim Paraíba,Casa,53,115,3,3,283194
+Jardim Califórnia,Casa,54,190,2,2,284196
+Clube de Campo,Apartamento,51,0,3,2,284659
+Centro,Apartamento,44,0,1,1,285065
+Parque Imperial,Apartamento,83,0,3,3,285312
+Parque Imperial,Apartamento,80,0,2,1,286352
+Vila Elvira,Apartamento,137,0,3,3,286713
+Jardim Santa Maria,Apartamento,50,0,1,1,286800
+Vila Industrial,Casa,89,204,3,3,286989
+Parque dos Príncipes,Apartamento,64,0,2,1,287001
+Vila Machado,Terreno,0,461,0,0,287525
+Jardim do Lago,Casa,45,119,1,1,287590
+Vila Formosa,Casa,79,292,2,2,287680
+Residencial Villa Lobos,Apartamento,37,0,1,1,287852
+Residencial Villa Lobos,Terreno,0,281,0,0,287968
+Jardim Nova Esperança,Casa,61,232,2,1,288162
+Sunset Garden,Terreno,0,378,0,0,288489
+Jardim do Lago,Terreno,0,713,0,0,288765
+Residencial Villa Lobos,Casa,50,129,1,1,288898
+Vila Formosa,Apartamento,156,0,4,3,289192
+Jardim Paraíba,Apartamento,45,0,2,2,289665
+Vila São Jorge,Apartamento,85,0,2,2,289782
+Cidade Salvador,Casa,84,136,3,2,290160
+Chácaras Reunidas Igarapés,Casa,113,179,4,4,290299
+Jardim São José,Apartamento,91,0,2,2,290385
+Vila Zilda,Casa,107,296,3,2,290694
+Vila São Jorge,Casa,65,231,2,1,291152
+Vila Zezinho,Casa,64,169,2,1,291547
+Jardim Primavera,Casa,63,110,2,1,291564
+Jardim Bela Vista,Apartamento,84,0,3,2,291740
+Parque Meia Lua,Casa,99,221,3,3,291804
+Jardim Panorama,Terreno,0,516,0,0,291849
+Vila Formosa,Casa,115,186,3,3,292867
+Vila Santa Isabel,Terreno,0,842,0,0,292931
+Vila Formosa,Casa,93,245,3,2,293037
+Vila Nossa Senhora Aparecida,Apartamento,110,0,4,3,293656
+Vila Machado,Casa,85,137,3,3,294066
+Vila São Paulo,Apartamento,64,0,2,1,294144
+Vila Santa Isabel,Apartamento,107,0,3,3,294431
+Jardim das Oliveiras,Casa,66,133,3,2,294482
+Jardim América,Terreno,0,782,0,0,294970
+Vila Industrial,Casa,98,166,3,3,295284
+Parque Meia Lua,Casa,86,185,3,3,295354
+Jardim Flórida,Casa,73,207,3,3,295777
+Jardim do Lago,Apartamento,72,0,3,2,296071
+Centro,Terreno,0,211,0,0,296191
+Jardim Panorama,Casa,94,251,3,2,296571
+Chácaras Reunidas Igarapés,Casa,146,416,4,2,297411
+Sunset Garden,Apartamento,49,0,1,1,297920
+Vila Branca,Casa,62,150,2,2,298623
+Vila Industrial,Casa,66,203,2,1,298660
+Vila Nossa Senhora Aparecida,Terreno,0,670,0,0,299088
+Vila Elvira,Terreno,0,804,0,0,299570
+Cidade Salvador,Terreno,0,793,0,0,299754
+Vila Elvira,Casa,144,386,3,2,300279
+Vila Nossa Senhora Aparecida,Casa,120,182,3,2,300352
+Jardim Califórnia,Casa,70,131,2,2,301835
+Jardim Flórida,Terreno,0,597,0,0,301932
+Jardim Paraíba,Apartamento,84,0,3,2,302484
+Residencial Terras de São José,Terreno,0,632,0,0,303360
+Vila Industrial,Apartamento,118,0,3,2,304345
+Jardim do Lago,Terreno,0,499,0,0,304489
+Jardim Califórnia,Terreno,0,945,0,0,304573
+Clube de Campo,Apartamento,53,0,2,1,305022
+Vila Machado,Apartamento,81,0,2,1,305086
+Vila Industrial,Apartamento,128,0,3,3,305459
+Jardim Primavera,Casa,76,212,2,1,307108
+Jardim Bela Vista,Apartamento,102,0,2,1,307713
+Vila Nossa Senhora Aparecida,Casa,58,193,2,1,308640
+Jardim Alvorada,Apartamento,74,0,2,1,309201
+Residencial Terras de São José,Apartamento,58,0,3,3,309633
+Vila Machado,Apartamento,59,0,2,2,309732
+Jardim Alvorada,Apartamento,90,0,3,2,311472
+Vila Branca,Terreno,0,503,0,0,311507
+Jardim das Oliveiras,Terreno,0,896,0,0,311539
+Vila Formosa,Apartamento,93,0,3,2,311861
+Jardim das Oliveiras,Casa,124,196,5,3,311938
+Jardim do Lago,Casa,47,184,2,1,313214
+Chácaras Reunidas Igarapés,Apartamento,85,0,3,3,315422
+Parque dos Príncipes,Apartamento,62,0,2,2,315753
+Vila São Paulo,Apartamento,96,0,3,2,315864
+Jardim Novo Horizonte,Casa,147,581,4,4,315936
+Parque Meia Lua,Terreno,0,418,0,0,316927
+Jardim Panorama,Casa,94,212,3,2,317002
+Vila Elvira,Casa,115,188,3,3,317064
+Jardim Novo Horizonte,Apartamento,90,0,3,2,317250
+Parque dos Príncipes,Apartamento,48,0,2,1,317260
+Jardim do Lago,Apartamento,67,0,2,1,318022
+Parque Meia Lua,Terreno,0,1000,0,0,318750
+Jardim Califórnia,Apartamento,95,0,3,3,319456
+Jardim do Lago,Terreno,0,453,0,0,319840
+Jardim Bela Vista,Casa,113,282,3,2,319990
+Residencial Villa Lobos,Apartamento,74,0,2,1,321056
+Vila Machado,Terreno,0,822,0,0,321813
+Condomínio Portal de Jacareí,Apartamento,38,0,1,1,322004
+Vila Formosa,Casa,109,277,3,2,323141
+Parque Imperial,Apartamento,50,0,1,1,323510
+Parque Meia Lua,Casa,130,285,3,2,323722
+Jardim São José,Apartamento,73,0,2,1,324141
+Vila Zilda,Apartamento,162,0,5,2,324218
+Jardim Flórida,Casa,67,167,2,1,324456
+Jardim Panorama,Casa,119,336,3,2,325252
+Vila Industrial,Terreno,0,516,0,0,325286
+Vila Zilda,Casa,103,311,3,3,325598
+Condomínio Portal de Jacareí,Terreno,0,526,0,0,325672
+Jardim Primavera,Apartamento,61,0,2,1,326200
+Residencial Terras de São José,Apartamento,70,0,2,1,327285
+Jardim das Indústrias,Apartamento,125,0,4,4,327375
+Centro,Casa,54,155,2,1,328251
+Residencial Villa Lobos,Terreno,0,303,0,0,328330
+Vila Nossa Senhora Aparecida,Terreno,0,379,0,0,328668
+Parque Imperial,Apartamento,74,0,3,3,329751
+Vila Zilda,Casa,148,305,3,2,330223
+Jardim Flórida,Apartamento,128,0,4,3,330860
+Jardim das Oliveiras,Apartamento,65,0,2,1,331535
+Jardim Santa Maria,Casa,78,141,2,1,331617
+Jardim das Indústrias,Apartamento,89,0,4,2,332949
+Vila Santa Isabel,Casa,89,326,4,4,333139
+Jardim Novo Horizonte,Terreno,0,738,0,0,333871
+Jardim do Lago,Casa,60,100,2,2,333990
+Jardim Paraíba,Casa,66,119,2,2,334204
+Condomínio Portal de Jacareí,Terreno,0,308,0,0,334503
+Jardim Panorama,Apartamento,151,0,4,3,334751
+Parque dos Príncipes,Apartamento,70,0,2,1,334908
+Parque Residencial Flamboyant,Apartamento,106,0,3,3,334960
+Jardim do Lago,Casa,76,227,3,2,334980
+Clube de Campo,Casa,48,160,1,1,336040
+Jardim Flórida,Terreno,0,731,0,0,337393
+Sunset Garden,Apartamento,47,0,2,1,337497
+Vila Nossa Senhora Aparecida,Casa,73,212,2,2,337656
+Jardim Primavera,Apartamento,119,0,3,3,338019
+Centro,Terreno,0,552,0,0,338100
+Residencial Terras de São José,Apartamento,69,0,2,2,338859
+Vila Branca,Casa,63,160,2,1,338914
+Cidade Salvador,Apartamento,91,0,3,2,338984
+Vila Garcia,Apartamento,115,0,3,2,339192
+Centro,Apartamento,65,0,3,3,340031
+Parque Imperial,Apartamento,56,0,3,2,340093
+Jardim Panorama,Casa,72,241,2,1,340655
+Jardim das Indústrias,Apartamento,77,0,2,2,341360
+Jardim das Indústrias,Apartamento,92,0,3,2,342999
+Vila Santa Isabel,Casa,98,188,2,1,343224
+Condomínio Portal de Jacareí,Casa,67,157,3,2,343331
+Cidade Salvador,Apartamento,132,0,3,2,343688
+Parque Imperial,Casa,56,144,2,1,343904
+Vila Machado,Casa,98,235,3,3,344049
+Vila Machado,Casa,96,231,2,2,345046
+Jardim Panorama,Apartamento,85,0,4,3,345338
+Vila Elvira,Apartamento,115,0,3,3,346104
+Vila Santa Isabel,Casa,130,386,4,2,346313
+Vila Zezinho,Casa,90,293,2,2,346332
+Jardim Santa Maria,Casa,64,208,2,1,346496
+Vila Elvira,Casa,137,233,3,2,347166
+Vila São Jorge,Apartamento,71,0,3,3,348574
+Vila Zilda,Casa,105,405,3,2,348699
+Jardim Califórnia,Apartamento,64,0,2,2,349254
+Vila Nossa Senhora Aparecida,Casa,91,168,3,3,350257
+Vila Elvira,Apartamento,141,0,3,3,350920
+Parque Meia Lua,Apartamento,93,0,2,1,350982
+Parque Residencial Flamboyant,Casa,82,282,3,3,351076
+Jardim Paraíba,Casa,64,149,2,1,351591
+Parque Residencial Flamboyant,Apartamento,140,0,4,2,352576
+Jardim Primavera,Apartamento,121,0,3,2,352896
+Jardim Panorama,Casa,74,287,2,1,353228
+Jardim Nova Esperança,Apartamento,149,0,3,3,353264
+Vila Machado,Apartamento,117,0,4,3,355387
+Residencial Terras de São José,Apartamento,43,0,2,1,355459
+Vila Formosa,Casa,128,391,4,3,355763
+Jardim Novo Horizonte,Apartamento,121,0,3,3,356611
+Jardim América,Apartamento,52,0,3,2,356826
+Vila Branca,Casa,67,230,2,1,357121
+Centro,Apartamento,89,0,2,2,357335
+Vila São Jorge,Casa,106,387,4,4,358107
+Jardim Flórida,Casa,112,380,4,4,358227
+Chácaras Reunidas Igarapés,Apartamento,114,0,2,2,358421
+Vila Zilda,Apartamento,126,0,4,4,359213
+Cidade Salvador,Apartamento,87,0,2,1,359397
+Vila Machado,Casa,111,432,4,3,359831
+Vila Machado,Casa,102,161,3,3,359883
+Cidade Salvador,Apartamento,128,0,4,2,360691
+Vila Garcia,Apartamento,119,0,3,2,361712
+Vila Zezinho,Casa,96,361,2,2,361901
+Sunset Garden,Casa,52,174,3,2,362080
+Vila Industrial,Casa,149,293,3,3,362351
+Parque dos Príncipes,Casa,52,168,3,2,362956
+Vila Elvira,Casa,97,372,2,1,362960
+Jardim do Lago,Apartamento,87,0,2,1,363155
+Vila Garcia,Casa,92,178,3,2,363466
+Jardim Flórida,Casa,67,180,2,2,363902
+Jardim Santa Maria,Apartamento,64,0,3,2,363904
+Sunset Garden,Terreno,0,208,0,0,364083
+Vila Santa Isabel,Terreno,0,645,0,0,364360
+Jardim Flórida,Casa,91,253,3,2,364390
+Vila Machado,Apartamento,126,0,4,3,364467
+Jardim Alvorada,Casa,71,231,2,1,365944
+Jardim Califórnia,Casa,83,275,4,2,366234
+Vila Zilda,Apartamento,140,0,4,2,366275
+Residencial Terras de São José,Apartamento,70,0,2,1,366765
+Residencial Villa Lobos,Apartamento,49,0,2,2,366872
+Vila Zezinho,Casa,103,354,3,3,367083
+Vila São Jorge,Apartamento,78,0,2,1,368479
+Vila São Paulo,Apartamento,98,0,3,2,369117
+Jardim Panorama,Apartamento,117,0,3,2,369450
+Jardim Califórnia,Casa,62,177,2,1,369528
+Vila Zezinho,Casa,112,408,2,2,370464
+Residencial Villa Lobos,Apartamento,66,0,3,3,371170
+Vila Zilda,Apartamento,165,0,3,3,371514
+Parque Meia Lua,Casa,77,137,3,2,371715
+Vila Zezinho,Apartamento,81,0,2,1,371822
+Vila Industrial,Apartamento,141,0,3,2,373142
+Vila Garcia,Apartamento,80,0,3,3,374204
+Vila Elvira,Apartamento,117,0,2,1,375289
+Vila Branca,Casa,104,267,3,2,375315
+Jardim Alvorada,Casa,82,189,2,2,375728
+Vila Garcia,Terreno,0,612,0,0,376624
+Jardim Flórida,Apartamento,81,0,3,2,378468
+Vila Formosa,Terreno,0,675,0,0,378641
+Clube de Campo,Casa,47,117,1,1,379413
+Vila Zilda,Casa,126,474,5,3,380082
+Jardim Primavera,Apartamento,125,0,4,2,380593
+Vila São Jorge,Casa,117,204,3,2,380845
+Jardim Paraíba,Casa,78,180,2,1,381360
+Vila Elvira,Casa,148,222,3,2,381440
+Jardim das Oliveiras,Apartamento,134,0,3,3,381772
+Parque Residencial Flamboyant,Apartamento,113,0,3,2,382211
+Jardim Primavera,Apartamento,64,0,2,1,382310
+Vila Formosa,Terreno,0,517,0,0,382760
+Residencial Terras de São José,Terreno,0,993,0,0,382801
+Jardim Paraíba,Apartamento,105,0,4,2,383040
+Chácaras Reunidas Igarapés,Terreno,0,546,0,0,384001
+Jardim do Lago,Apartamento,74,0,3,3,384415
+Clube de Campo,Apartamento,68,0,2,2,385026
+Jardim das Indústrias,Casa,84,292,4,2,385728
+Jardim Panorama,Casa,151,473,4,3,385953
+Clube de Campo,Apartamento,68,0,3,3,387766
+Parque dos Príncipes,Apartamento,83,0,3,3,387942
+Jardim do Lago,Casa,50,138,1,1,389070
+Jardim Flórida,Casa,102,334,3,2,389436
+Parque Residencial Flamboyant,Apartamento,113,0,3,2,389714
+Jardim São José,Apartamento,102,0,3,2,389731
+Vila Machado,Apartamento,70,0,3,2,390348
+Vila Industrial,Apartamento,79,0,2,1,391081
+Vila Industrial,Apartamento,125,0,4,3,391100
+Clube de Campo,Apartamento,84,0,3,3,391120
+Jardim Alvorada,Apartamento,81,0,3,2,391132
+Vila Garcia,Apartamento,117,0,3,2,391435
+Jardim Califórnia,Casa,73,251,3,3,391704
+Jardim das Oliveiras,Apartamento,78,0,2,1,392063
+Vila Santa Isabel,Terreno,0,892,0,0,392123
+Vila Machado,Terreno,0,370,0,0,393273
+Residencial Villa Lobos,Casa,55,100,2,1,393624
+Vila Branca,Apartamento,62,0,2,1,393650
+Jardim Panorama,Terreno,0,509,0,0,393711
+Condomínio Portal de Jacareí,Apartamento,86,0,2,1,393802
+Centro,Terreno,0,369,0,0,393907
+Condomínio Portal de Jacareí,Casa,56,219,2,1,394288
+Condomínio Portal de Jacareí,Casa,59,195,2,1,394910
+Jardim Califórnia,Apartamento,70,0,2,1,395395
+Cidade Salvador,Casa,83,203,3,2,395799
+Parque dos Príncipes,Apartamento,114,0,3,2,395899
+Parque Residencial Flamboyant,Terreno,0,438,0,0,396302
+Jardim Santa Maria,Apartamento,70,0,2,1,397390
+Jardim Panorama,Casa,195,300,5,3,398076
+Parque Meia Lua,Apartamento,76,0,2,1,398582
+Cidade Salvador,Apartamento,103,0,2,2,399537
+Parque Meia Lua,Apartamento,73,0,2,2,400284
+Jardim Flórida,Apartamento,152,0,5,4,400778
+Vila Santa Isabel,Casa,150,257,4,4,400890
+Jardim das Oliveiras,Apartamento,120,0,2,1,401052
+Chácaras Reunidas Igarapés,Apartamento,165,0,4,2,403045
+Vila Zilda,Apartamento,136,0,5,4,403546
+Vila Elvira,Casa,195,518,3,2,403899
+Vila Nossa Senhora Aparecida,Casa,111,268,3,2,404674
+Jardim Flórida,Apartamento,92,0,4,4,404685
+Jardim das Oliveiras,Apartamento,82,0,3,2,405080
+Vila Formosa,Casa,100,301,2,1,405577
+Vila Zilda,Casa,151,247,4,2,405786
+Vila Santa Isabel,Terreno,0,780,0,0,406224
+Parque Imperial,Apartamento,64,0,2,1,406278
+Jardim Nova Esperança,Apartamento,159,0,4,3,406690
+Vila Garcia,Terreno,0,551,0,0,406996
+Parque Imperial,Casa,55,205,2,2,407121
+Parque dos Príncipes,Apartamento,69,0,3,2,407210
+Vila Elvira,Apartamento,129,0,4,3,407356
+Parque dos Príncipes,Apartamento,81,0,4,4,407656
+Jardim Primavera,Apartamento,97,0,3,3,407855
+Vila São Paulo,Casa,159,553,3,2,408051
+Vila Garcia,Terreno,0,797,0,0,408502
+Residencial Villa Lobos,Terreno,0,245,0,0,408513
+Jardim América,Casa,102,202,3,2,409057
+Parque Residencial Flamboyant,Terreno,0,513,0,0,409168
+Vila Santa Isabel,Casa,111,285,3,2,409462
+Parque Residencial Flamboyant,Apartamento,85,0,3,2,409768
+Jardim Flórida,Apartamento,119,0,3,2,410163
+Vila São Jorge,Casa,95,355,4,3,410688
+Sunset Garden,Casa,50,100,2,1,411440
+Jardim das Oliveiras,Terreno,0,472,0,0,412079
+Jardim Paraíba,Terreno,0,503,0,0,412460
+Jardim São José,Terreno,0,504,0,0,412725
+Vila Garcia,Casa,121,439,4,3,413389
+Vila Zezinho,Apartamento,100,0,3,3,414160
+Jardim das Oliveiras,Apartamento,92,0,4,4,414363
+Jardim Nova Esperança,Casa,112,423,4,2,414530
+Jardim das Indústrias,Apartamento,150,0,4,2,415575
+Vila São Paulo,Apartamento,90,0,3,3,416745
+Jardim Santa Maria,Apartamento,68,0,2,1,416976
+Condomínio Portal de Jacareí,Apartamento,89,0,3,2,417347
+Vila Santa Isabel,Apartamento,128,0,5,3,417625
+Jardim Primavera,Casa,109,197,3,2,417682
+Jardim Santa Maria,Apartamento,104,0,2,2,417872
+Parque dos Príncipes,Apartamento,111,0,3,2,418780
+Jardim Novo Horizonte,Terreno,0,859,0,0,421081
+Condomínio Portal de Jacareí,Terreno,0,542,0,0,421242
+Vila São Jorge,Apartamento,129,0,4,3,422023
+Parque Residencial Flamboyant,Apartamento,124,0,4,3,422195
+Jardim do Lago,Terreno,0,556,0,0,422587
+Condomínio Portal de Jacareí,Apartamento,93,0,4,2,422754
+Jardim Novo Horizonte,Apartamento,133,0,4,2,423259
+Jardim Nova Esperança,Apartamento,132,0,4,2,423376
+Residencial Terras de São José,Apartamento,51,0,3,2,423886
+Jardim Flórida,Apartamento,153,0,4,2,423963
+Vila Formosa,Apartamento,153,0,4,3,424253
+Cidade Salvador,Apartamento,89,0,3,2,425651
+Vila Branca,Apartamento,89,0,3,2,426158
+Parque Residencial Flamboyant,Apartamento,100,0,3,3,426160
+Vila Santa Isabel,Casa,119,405,2,2,426344
+Parque Meia Lua,Casa,114,186,3,2,427104
+Residencial Villa Lobos,Terreno,0,270,0,0,427140
+Jardim Califórnia,Apartamento,75,0,2,1,427185
+Parque Novo Mundo,Casa,104,414,3,2,427632
+Jardim do Lago,Terreno,0,509,0,0,428781
+Vila Zezinho,Apartamento,96,0,3,2,429004
+Cidade Salvador,Terreno,0,596,0,0,429656
+Vila São Jorge,Apartamento,138,0,4,4,430104
+Jardim Paraíba,Apartamento,74,0,3,2,430310
+Jardim Paraíba,Casa,87,170,3,3,430549
+Parque Residencial Flamboyant,Casa,93,328,3,2,430608
+Jardim do Lago,Casa,85,160,4,4,431264
+Vila Machado,Apartamento,155,0,3,2,432031
+Vila Formosa,Apartamento,176,0,4,2,432317
+Jardim Flórida,Apartamento,131,0,5,3,432483
+Vila São Paulo,Terreno,0,723,0,0,432715
+Parque Imperial,Casa,114,398,4,3,433569
+Parque Imperial,Terreno,0,882,0,0,433679
+Condomínio Portal de Jacareí,Terreno,0,735,0,0,434826
+Parque Imperial,Apartamento,136,0,4,4,435036
+Vila Zezinho,Casa,110,311,2,1,435612
+Cidade Salvador,Terreno,0,487,0,0,436108
+Clube de Campo,Apartamento,95,0,3,3,436596
+Residencial Villa Lobos,Apartamento,94,0,2,1,436780
+Jardim São José,Casa,92,364,3,3,438265
+Vila Formosa,Casa,198,712,4,3,438284
+Jardim América,Casa,100,251,3,2,438568
+Jardim Flórida,Casa,132,276,4,4,439038
+Vila Industrial,Apartamento,148,0,4,3,440092
+Jardim América,Apartamento,87,0,3,2,440119
+Vila Machado,Apartamento,113,0,3,2,440767
+Vila Industrial,Apartamento,86,0,2,1,440939
+Jardim Nova Esperança,Apartamento,132,0,3,3,441210
+Jardim América,Casa,62,159,2,2,441528
+Jardim Alvorada,Apartamento,168,0,4,2,441772
+Parque dos Príncipes,Apartamento,58,0,2,1,442029
+Vila São Jorge,Casa,88,211,3,2,444042
+Vila Zezinho,Terreno,0,836,0,0,444083
+Jardim Paraíba,Apartamento,85,0,3,3,444210
+Vila Branca,Casa,78,169,3,2,444401
+Jardim São José,Terreno,0,643,0,0,444698
+Jardim Bela Vista,Casa,96,323,4,3,444928
+Jardim Bela Vista,Apartamento,149,0,3,3,445346
+Vila Zilda,Casa,164,528,3,2,445637
+Clube de Campo,Apartamento,96,0,3,3,446102
+Jardim Bela Vista,Apartamento,79,0,2,1,446721
+Vila São Jorge,Apartamento,111,0,3,2,446752
+Jardim Flórida,Apartamento,89,0,2,2,446940
+Vila Zezinho,Casa,193,499,3,2,447242
+Vila Machado,Casa,118,279,4,3,448382
+Vila Elvira,Apartamento,154,0,4,2,448971
+Jardim Panorama,Casa,116,451,3,3,449077
+Vila São Jorge,Apartamento,85,0,3,2,449437
+Jardim Alvorada,Apartamento,92,0,3,2,449916
+Clube de Campo,Apartamento,52,0,2,1,450473
+Vila São Jorge,Apartamento,115,0,3,3,450742
+Vila São Jorge,Apartamento,130,0,3,2,451035
+Vila Nossa Senhora Aparecida,Casa,141,327,5,3,451912
+Vila São Paulo,Casa,144,390,3,2,451944
+Parque Residencial Flamboyant,Apartamento,101,0,4,2,452076
+Jardim Califórnia,Apartamento,80,0,2,1,452584
+Residencial Villa Lobos,Terreno,0,542,0,0,453003
+Jardim São José,Apartamento,109,0,3,2,453031
+Jardim América,Casa,109,201,3,2,453122
+Jardim Nova Esperança,Casa,124,453,4,4,453450
+Vila Santa Isabel,Casa,101,323,2,2,453711
+Jardim Primavera,Terreno,0,666,0,0,454278
+Condomínio Portal de Jacareí,Casa,62,117,2,1,454437
+Vila Branca,Terreno,0,350,0,0,455070
+Residencial Villa Lobos,Apartamento,102,0,3,2,455532
+Centro,Casa,121,284,4,3,455780
+Parque dos Príncipes,Apartamento,62,0,3,2,456592
+Jardim Nova Esperança,Casa,204,313,4,2,456689
+Vila Nossa Senhora Aparecida,Apartamento,98,0,3,3,456836
+Jardim Flórida,Apartamento,119,0,3,2,457906
+Jardim Panorama,Apartamento,179,0,4,2,457971
+Vila Zezinho,Casa,130,295,4,3,458052
+Parque Meia Lua,Apartamento,138,0,4,3,458408
+Vila Garcia,Terreno,0,470,0,0,459025
+Sunset Garden,Terreno,0,416,0,0,459264
+Jardim Primavera,Casa,130,292,4,4,459733
+Jardim Santa Maria,Apartamento,92,0,3,2,460092
+Jardim Primavera,Casa,84,209,4,3,461303
+Vila São Paulo,Apartamento,156,0,4,3,461682
+Parque Residencial Flamboyant,Apartamento,90,0,4,3,462312
+Jardim das Indústrias,Apartamento,127,0,5,2,463010
+Jardim América,Terreno,0,402,0,0,463686
+Jardim Paraíba,Casa,119,226,2,2,464631
+Vila Nossa Senhora Aparecida,Apartamento,108,0,4,2,465609
+Centro,Apartamento,101,0,3,3,465610
+Vila Zezinho,Casa,167,424,3,3,466414
+Vila Elvira,Casa,170,342,3,2,466471
+Vila Branca,Apartamento,94,0,2,1,467368
+Jardim Panorama,Apartamento,171,0,5,3,467428
+Vila São Jorge,Casa,75,294,2,1,468220
+Parque Residencial Flamboyant,Casa,213,378,4,3,468688
+Jardim Alvorada,Apartamento,152,0,4,3,468768
+Jardim Califórnia,Terreno,0,732,0,0,469431
+Jardim Alvorada,Terreno,0,640,0,0,469504
+Vila Garcia,Casa,133,280,4,2,471882
+Jardim Flórida,Casa,112,176,2,2,472069
+Vila São Paulo,Casa,119,236,3,2,472188
+Jardim das Indústrias,Apartamento,133,0,3,2,472216
+Vila Formosa,Apartamento,139,0,4,2,473885
+Parque Imperial,Casa,116,223,3,2,474511
+Jardim Santa Maria,Casa,112,374,4,3,475512
+Jardim das Indústrias,Casa,102,396,2,1,476437
+Jardim Bela Vista,Casa,93,287,3,2,476580
+Vila Branca,Apartamento,119,0,3,3,476737
+Residencial Villa Lobos,Apartamento,62,0,2,2,477399
+Jardim das Oliveiras,Casa,142,314,4,3,477813
+Vila Zezinho,Terreno,0,656,0,0,478092
+Jardim Bela Vista,Casa,130,439,4,3,478609
+Jardim das Oliveiras,Apartamento,101,0,2,2,478790
+Vila Santa Isabel,Apartamento,117,0,2,2,479933
+Chácaras Reunidas Igarapés,Casa,149,523,5,2,481663
+Jardim das Indústrias,Casa,167,425,3,2,482758
+Sunset Garden,Apartamento,95,0,3,2,482904
+Vila Zilda,Apartamento,168,0,4,4,483210
+Residencial Villa Lobos,Casa,72,201,2,1,483978
+Vila Zilda,Casa,252,582,6,3,484380
+Vila Industrial,Casa,172,375,4,2,484736
+Parque Residencial Flamboyant,Apartamento,119,0,2,1,484853
+Jardim Novo Horizonte,Apartamento,125,0,3,2,485625
+Jardim Santa Maria,Casa,76,190,3,2,486438
+Jardim São José,Casa,93,342,4,3,486438
+Vila Formosa,Casa,148,447,3,2,488371
+Centro,Terreno,0,647,0,0,488485
+Cidade Salvador,Terreno,0,637,0,0,489024
+Residencial Terras de São José,Casa,99,291,3,2,489042
+Jardim Primavera,Apartamento,152,0,4,3,489371
+Clube de Campo,Apartamento,87,0,3,2,489505
+Vila Formosa,Casa,176,548,4,4,489775
+Condomínio Portal de Jacareí,Casa,103,156,3,2,490127
+Vila Nossa Senhora Aparecida,Apartamento,147,0,3,2,490156
+Vila Industrial,Terreno,0,867,0,0,490375
+Condomínio Portal de Jacareí,Casa,84,284,3,2,490772
+Jardim Paraíba,Apartamento,76,0,3,2,491112
+Jardim das Oliveiras,Casa,94,181,3,2,491367
+Chácaras Reunidas Igarapés,Casa,197,300,3,3,491548
+Vila São Paulo,Apartamento,113,0,3,2,491550
+Jardim Nova Esperança,Casa,130,259,5,2,491836
+Clube de Campo,Casa,76,172,2,1,492819
+Jardim das Indústrias,Casa,125,309,3,3,493205
+Vila Garcia,Casa,194,335,4,3,493360
+Jardim Novo Horizonte,Apartamento,178,0,4,3,493950
+Jardim das Indústrias,Casa,129,446,4,4,495328
+Chácaras Reunidas Igarapés,Casa,161,302,4,3,496988
+Jardim Califórnia,Apartamento,72,0,2,1,497534
+Cidade Salvador,Apartamento,122,0,5,2,497613
+Residencial Villa Lobos,Apartamento,79,0,3,2,499137
+Condomínio Portal de Jacareí,Apartamento,122,0,4,4,500096
+Parque dos Príncipes,Casa,89,327,3,3,500338
+Jardim das Indústrias,Apartamento,180,0,3,2,500580
+Jardim Nova Esperança,Casa,162,248,3,2,500830
+Jardim das Indústrias,Terreno,0,672,0,0,502488
+Jardim Santa Maria,Casa,133,433,4,4,503188
+Clube de Campo,Apartamento,106,0,2,2,503415
+Clube de Campo,Casa,73,213,2,1,503595
+Vila São Paulo,Casa,129,389,4,2,503636
+Sunset Garden,Casa,72,287,3,2,503755
+Jardim Alvorada,Apartamento,127,0,3,3,504444
+Parque Meia Lua,Apartamento,119,0,2,1,504738
+Jardim Nova Esperança,Apartamento,156,0,4,3,504940
+Jardim Bela Vista,Apartamento,133,0,3,2,505014
+Parque Meia Lua,Apartamento,130,0,3,2,505095
+Parque Meia Lua,Apartamento,102,0,3,2,505547
+Jardim Novo Horizonte,Apartamento,139,0,5,3,506071
+Jardim Novo Horizonte,Terreno,0,746,0,0,506235
+Condomínio Portal de Jacareí,Casa,65,149,2,2,506411
+Jardim das Indústrias,Terreno,0,744,0,0,507780
+Jardim Primavera,Apartamento,155,0,5,3,508601
+Jardim Novo Horizonte,Casa,274,545,4,4,508726
+Parque dos Príncipes,Casa,123,344,5,3,509894
+Vila Zilda,Casa,159,419,3,2,510105
+Vila Formosa,Casa,143,456,4,3,511054
+Jardim Califórnia,Terreno,0,402,0,0,511183
+Clube de Campo,Casa,60,135,2,2,513476
+Jardim América,Terreno,0,718,0,0,513585
+Vila Zezinho,Apartamento,180,0,3,2,514512
+Residencial Terras de São José,Apartamento,109,0,2,1,514534
+Vila São Paulo,Terreno,0,796,0,0,514614
+Vila Santa Isabel,Casa,253,636,6,4,514801
+Sunset Garden,Apartamento,61,0,2,2,515620
+Cidade Salvador,Casa,94,300,3,3,516623
+Parque Imperial,Apartamento,86,0,3,2,516989
+Jardim Paraíba,Apartamento,127,0,4,3,517017
+Jardim do Lago,Apartamento,89,0,3,2,517966
+Vila Elvira,Casa,156,345,4,4,518032
+Vila Elvira,Casa,205,511,4,3,518091
+Cidade Salvador,Casa,123,209,5,3,518312
+Jardim América,Casa,91,147,2,2,519514
+Jardim Alvorada,Casa,116,268,3,2,520092
+Jardim Santa Maria,Apartamento,101,0,2,1,520251
+Jardim Bela Vista,Apartamento,166,0,5,2,521555
+Vila Industrial,Casa,162,527,4,4,522196
+Vila Formosa,Apartamento,133,0,3,3,522676
+Jardim Alvorada,Apartamento,156,0,3,2,523785
+Vila Formosa,Casa,188,461,4,3,523922
+Jardim Primavera,Apartamento,144,0,3,3,524354
+Jardim Novo Horizonte,Casa,197,671,3,3,524398
+Parque dos Príncipes,Apartamento,70,0,3,2,524916
+Vila Santa Isabel,Casa,177,707,5,3,525711
+Jardim Santa Maria,Apartamento,133,0,5,2,525882
+Jardim Santa Maria,Apartamento,150,0,4,4,525900
+Jardim Santa Maria,Apartamento,149,0,3,2,526566
+Cidade Salvador,Apartamento,164,0,5,2,526932
+Vila São Jorge,Apartamento,137,0,3,3,527354
+Residencial Villa Lobos,Casa,73,240,3,2,528092
+Cidade Salvador,Casa,190,334,3,3,528253
+Vila Zezinho,Apartamento,131,0,4,3,528506
+Vila São Paulo,Casa,161,608,4,2,528915
+Vila Industrial,Casa,186,284,5,3,530033
+Vila Elvira,Casa,181,445,4,2,530057
+Jardim Bela Vista,Apartamento,101,0,3,2,532310
+Parque Residencial Flamboyant,Apartamento,111,0,3,2,532711
+Centro,Apartamento,83,0,2,2,532860
+Jardim Califórnia,Casa,146,484,3,2,532873
+Residencial Villa Lobos,Casa,113,298,4,3,533908
+Jardim São José,Apartamento,114,0,4,2,534027
+Jardim das Oliveiras,Apartamento,119,0,3,3,534952
+Parque Imperial,Casa,98,268,4,3,535117
+Jardim São José,Terreno,0,498,0,0,535549
+Parque dos Príncipes,Casa,141,412,3,3,535718
+Condomínio Portal de Jacareí,Apartamento,100,0,3,3,536500
+Parque Residencial Flamboyant,Casa,123,468,3,3,537127
+Vila São Jorge,Apartamento,139,0,4,3,537554
+Jardim São José,Casa,130,476,4,3,539508
+Parque Imperial,Apartamento,118,0,3,2,539838
+Jardim Bela Vista,Casa,160,506,4,3,540048
+Vila Branca,Casa,97,333,3,3,540108
+Jardim do Lago,Casa,77,153,3,3,540121
+Vila São Jorge,Apartamento,138,0,3,3,541015
+Vila Machado,Terreno,0,550,0,0,541530
+Parque Residencial Flamboyant,Casa,145,297,4,4,542116
+Centro,Casa,75,202,3,2,542220
+Clube de Campo,Terreno,0,897,0,0,543626
+Jardim Bela Vista,Terreno,0,899,0,0,543715
+Cidade Salvador,Apartamento,114,0,3,2,544087
+Jardim Novo Horizonte,Casa,167,393,4,2,544260
+Vila Formosa,Casa,148,575,4,3,544301
+Jardim das Oliveiras,Casa,108,353,2,1,545131
+Vila Santa Isabel,Casa,156,458,5,2,546428
+Residencial Terras de São José,Apartamento,126,0,3,2,547344
+Jardim Primavera,Casa,124,400,5,3,549708
+Vila Zilda,Casa,164,445,4,3,549717
+Vila Zilda,Casa,154,522,4,3,550886
+Jardim Alvorada,Apartamento,131,0,4,2,551143
+Jardim Santa Maria,Casa,155,316,4,2,551468
+Condomínio Portal de Jacareí,Apartamento,115,0,3,2,551942
+Jardim América,Apartamento,76,0,2,2,552455
+Vila São Jorge,Terreno,0,621,0,0,552752
+Parque dos Príncipes,Apartamento,130,0,4,3,552864
+Vila Branca,Casa,109,209,4,2,553370
+Jardim Panorama,Casa,167,567,4,3,553477
+Parque Meia Lua,Casa,131,518,4,4,554404
+Parque dos Príncipes,Apartamento,93,0,2,1,554652
+Jardim Santa Maria,Casa,146,345,4,3,555161
+Jardim Novo Horizonte,Terreno,0,883,0,0,555230
+Vila Branca,Casa,86,299,4,3,555309
+Vila Machado,Apartamento,104,0,4,4,555703
+Jardim das Oliveiras,Apartamento,90,0,4,2,555750
+Vila Elvira,Casa,221,813,5,3,556119
+Residencial Terras de São José,Apartamento,78,0,2,1,556335
+Vila Formosa,Casa,193,635,4,2,558318
+Vila Elvira,Apartamento,173,0,4,3,558547
+Vila Zezinho,Casa,145,257,4,3,558553
+Jardim Alvorada,Casa,143,365,4,2,559108
+Vila Nossa Senhora Aparecida,Casa,221,432,5,3,559264
+Jardim Panorama,Apartamento,150,0,3,2,560385
+Vila Branca,Apartamento,100,0,4,2,560450
+Jardim São José,Apartamento,94,0,3,3,561429
+Jardim Primavera,Casa,107,170,4,3,561998
+Parque dos Príncipes,Terreno,0,458,0,0,562240
+Sunset Garden,Casa,65,237,2,2,562432
+Vila Elvira,Apartamento,175,0,3,2,563010
+Jardim Santa Maria,Casa,145,248,3,2,563738
+Cidade Salvador,Casa,163,297,4,4,564435
+Vila São Paulo,Casa,155,260,3,2,565173
+Condomínio Portal de Jacareí,Apartamento,113,0,2,1,565610
+Jardim Alvorada,Casa,107,353,3,2,565922
+Parque Meia Lua,Apartamento,157,0,4,2,566361
+Vila Industrial,Casa,206,340,6,3,566684
+Jardim Panorama,Terreno,0,919,0,0,568033
+Jardim Flórida,Terreno,0,571,0,0,571256
+Parque dos Príncipes,Casa,133,335,4,4,573427
+Vila São Paulo,Casa,183,377,3,3,574304
+Jardim das Oliveiras,Apartamento,120,0,3,2,574446
+Jardim América,Apartamento,155,0,3,2,574499
+Vila Industrial,Apartamento,150,0,4,3,574800
+Vila Garcia,Apartamento,114,0,3,2,575586
+Vila Nossa Senhora Aparecida,Apartamento,141,0,4,3,576069
+Vila São Jorge,Apartamento,129,0,4,2,576436
+Jardim Bela Vista,Apartamento,119,0,3,2,576626
+Jardim Santa Maria,Apartamento,89,0,3,3,577254
+Vila São Paulo,Casa,139,525,3,2,577512
+Vila Zezinho,Casa,191,489,4,2,577568
+Vila Nossa Senhora Aparecida,Casa,201,714,4,2,577819
+Jardim do Lago,Apartamento,118,0,3,2,579055
+Jardim das Oliveiras,Apartamento,117,0,4,3,579869
+Jardim das Oliveiras,Terreno,0,848,0,0,580032
+Jardim Nova Esperança,Apartamento,145,0,3,2,580783
+Residencial Villa Lobos,Apartamento,130,0,3,2,582036
+Jardim América,Apartamento,104,0,3,2,582212
+Vila Garcia,Apartamento,179,0,3,2,582734
+Vila São Jorge,Terreno,0,885,0,0,583038
+Vila Machado,Terreno,0,743,0,0,583106
+Jardim do Lago,Apartamento,112,0,3,2,583480
+Vila Machado,Casa,125,284,4,4,583524
+Parque Meia Lua,Casa,191,378,3,3,583747
+Jardim América,Apartamento,81,0,3,3,583864
+Jardim Panorama,Casa,129,475,5,3,586002
+Vila Industrial,Casa,173,295,4,2,586522
+Cidade Salvador,Apartamento,119,0,4,2,587657
+Vila Nossa Senhora Aparecida,Casa,150,314,4,2,588984
+Vila Branca,Casa,123,277,4,3,590817
+Parque dos Príncipes,Apartamento,87,0,3,3,590904
+Vila Machado,Apartamento,103,0,3,3,590962
+Residencial Villa Lobos,Apartamento,122,0,4,3,590968
+Clube de Campo,Apartamento,60,0,2,2,591480
+Jardim Alvorada,Casa,156,500,3,2,592230
+Centro,Casa,70,230,3,3,592675
+Vila Zezinho,Casa,129,489,3,2,592944
+Jardim das Oliveiras,Casa,167,352,3,2,593966
+Jardim Novo Horizonte,Casa,201,372,5,2,596669
+Vila Zilda,Casa,218,647,4,2,596884
+Vila Nossa Senhora Aparecida,Casa,129,266,3,2,597896
+Jardim Panorama,Apartamento,143,0,3,2,598698
+Jardim São José,Casa,184,371,5,2,599295
+Jardim Califórnia,Apartamento,102,0,4,2,599372
+Vila Formosa,Casa,205,500,6,2,599537
+Residencial Villa Lobos,Apartamento,118,0,3,2,600171
+Jardim Bela Vista,Apartamento,145,0,5,4,600300
+Cidade Salvador,Casa,134,342,3,2,600885
+Jardim Paraíba,Casa,151,228,3,3,601475
+Jardim Nova Esperança,Casa,139,525,4,3,602268
+Residencial Villa Lobos,Casa,129,301,4,2,603023
+Jardim Panorama,Apartamento,150,0,4,3,604485
+Jardim Alvorada,Casa,157,624,5,4,605176
+Parque Meia Lua,Casa,220,795,4,2,605272
+Jardim das Indústrias,Casa,133,435,5,4,605281
+Jardim América,Apartamento,129,0,3,2,607048
+Condomínio Portal de Jacareí,Casa,72,283,2,2,609140
+Vila Santa Isabel,Casa,198,313,4,2,609260
+Jardim Paraíba,Apartamento,126,0,3,3,609336
+Jardim Primavera,Apartamento,154,0,4,3,609339
+Residencial Terras de São José,Terreno,0,638,0,0,609609
+Jardim Primavera,Casa,142,215,4,3,609826
+Parque Imperial,Casa,145,296,3,2,611826
+Vila Formosa,Casa,242,824,5,2,611846
+Jardim Alvorada,Casa,130,395,4,2,612940
+Parque dos Príncipes,Apartamento,172,0,5,3,613214
+Clube de Campo,Apartamento,74,0,2,1,613645
+Vila Nossa Senhora Aparecida,Casa,158,437,4,2,615028
+Jardim do Lago,Apartamento,105,0,2,1,615053
+Vila Santa Isabel,Casa,217,857,6,3,615943
+Jardim Novo Horizonte,Casa,245,517,4,3,616051
+Vila Industrial,Apartamento,167,0,4,2,616964
+Chácaras Reunidas Igarapés,Apartamento,180,0,4,3,617994
+Jardim Primavera,Apartamento,104,0,4,2,618191
+Jardim Primavera,Casa,140,265,3,3,618431
+Jardim Bela Vista,Apartamento,107,0,3,2,619305
+Jardim América,Casa,145,376,5,3,619571
+Jardim São José,Apartamento,111,0,3,3,619624
+Parque Residencial Flamboyant,Apartamento,138,0,5,3,619675
+Jardim Nova Esperança,Casa,262,739,4,3,620953
+Jardim Alvorada,Casa,121,418,3,2,621236
+Residencial Terras de São José,Casa,98,163,2,1,621813
+Residencial Terras de São José,Casa,120,383,4,3,622060
+Parque dos Príncipes,Casa,130,240,5,3,622140
+Vila Zezinho,Casa,188,426,3,2,622920
+Centro,Apartamento,96,0,3,2,623160
+Vila Santa Isabel,Casa,169,257,5,3,623454
+Jardim Bela Vista,Casa,184,586,5,4,624765
+Jardim das Oliveiras,Apartamento,103,0,3,3,625359
+Jardim Paraíba,Casa,133,397,4,3,626175
+Vila Industrial,Casa,247,668,5,2,626573
+Jardim Panorama,Apartamento,166,0,3,2,626666
+Jardim São José,Casa,177,281,3,2,626770
+Vila Formosa,Casa,264,979,5,2,627004
+Vila Elvira,Casa,280,525,6,3,628173
+Jardim Flórida,Apartamento,128,0,4,4,628972
+Clube de Campo,Casa,88,270,4,4,629399
+Jardim das Indústrias,Casa,147,467,3,3,629848
+Jardim do Lago,Apartamento,133,0,4,3,629861
+Jardim Califórnia,Terreno,0,944,0,0,631347
+Residencial Villa Lobos,Terreno,0,786,0,0,631629
+Vila Formosa,Casa,233,612,5,3,632446
+Jardim São José,Apartamento,111,0,3,2,634281
+Jardim América,Apartamento,156,0,5,4,634358
+Vila Elvira,Casa,350,624,4,3,635190
+Chácaras Reunidas Igarapés,Casa,249,426,4,2,635378
+Jardim do Lago,Apartamento,98,0,3,2,635569
+Sunset Garden,Casa,78,279,2,1,635760
+Vila Garcia,Apartamento,171,0,3,2,635760
+Cidade Salvador,Casa,152,437,3,2,636068
+Vila Santa Isabel,Casa,190,303,5,3,636640
+Jardim Alvorada,Terreno,0,1000,0,0,636800
+Vila Zilda,Casa,217,722,5,4,637275
+Vila São Jorge,Casa,136,336,5,3,637473
+Clube de Campo,Casa,79,257,2,1,637553
+Vila Industrial,Casa,148,387,4,4,639307
+Jardim Califórnia,Terreno,0,804,0,0,639421
+Clube de Campo,Casa,98,155,3,2,640120
+Vila Formosa,Casa,240,450,6,2,640224
+Parque dos Príncipes,Apartamento,101,0,3,2,640542
+Vila Elvira,Casa,208,502,5,2,640838
+Vila Zezinho,Casa,238,385,4,3,641956
+Jardim Flórida,Casa,176,643,4,2,642032
+Jardim Paraíba,Apartamento,116,0,3,3,642524
+Jardim Nova Esperança,Casa,170,454,4,4,642972
+Jardim Santa Maria,Casa,137,509,3,3,643031
+Vila Zilda,Casa,265,478,5,2,644094
+Parque Residencial Flamboyant,Casa,158,616,4,3,644478
+Jardim Bela Vista,Casa,203,455,6,2,646146
+Sunset Garden,Apartamento,143,0,3,2,646588
+Residencial Terras de São José,Casa,84,299,4,3,647523
+Sunset Garden,Terreno,0,468,0,0,647712
+Jardim do Lago,Casa,97,285,2,1,647843
+Jardim Paraíba,Casa,217,424,6,4,649200
+Vila Branca,Apartamento,136,0,3,2,650012
+Vila Elvira,Casa,279,1065,4,2,650124
+Sunset Garden,Apartamento,68,0,2,2,650188
+Condomínio Portal de Jacareí,Apartamento,77,0,2,1,650249
+Sunset Garden,Apartamento,90,0,3,2,650592
+Parque Imperial,Casa,143,550,5,2,650725
+Vila Machado,Apartamento,152,0,3,2,651031
+Jardim Primavera,Terreno,0,787,0,0,651203
+Vila Nossa Senhora Aparecida,Apartamento,159,0,3,2,651772
+Centro,Casa,111,200,4,2,652755
+Condomínio Portal de Jacareí,Apartamento,99,0,3,2,653726
+Vila Zilda,Casa,206,602,4,3,655115
+Clube de Campo,Apartamento,96,0,3,2,655166
+Jardim Paraíba,Apartamento,113,0,4,3,655400
+Vila Garcia,Apartamento,176,0,4,4,656295
+Jardim das Indústrias,Casa,198,429,4,3,656469
+Vila São Jorge,Apartamento,122,0,4,2,656494
+Residencial Terras de São José,Casa,86,213,4,2,658054
+Parque Meia Lua,Casa,152,267,3,2,659362
+Condomínio Portal de Jacareí,Apartamento,154,0,4,2,660074
+Clube de Campo,Apartamento,83,0,2,2,660617
+Jardim Califórnia,Casa,117,347,4,2,660654
+Vila Formosa,Casa,197,571,5,3,661458
+Vila São Jorge,Terreno,0,687,0,0,662199
+Vila Elvira,Casa,254,695,5,2,662258
+Vila Santa Isabel,Apartamento,179,0,3,2,662586
+Centro,Apartamento,93,0,2,1,663555
+Clube de Campo,Apartamento,145,0,5,3,663686
+Vila Garcia,Casa,225,343,5,3,663690
+Parque Imperial,Casa,167,318,5,4,663745
+Vila Santa Isabel,Terreno,0,849,0,0,664427
+Centro,Apartamento,114,0,4,4,664762
+Parque dos Príncipes,Casa,140,297,3,2,665031
+Jardim São José,Casa,146,352,3,2,665385
+Jardim Califórnia,Apartamento,109,0,3,2,666404
+Vila Machado,Terreno,0,682,0,0,667200
+Parque dos Príncipes,Apartamento,95,0,4,2,668496
+Vila Nossa Senhora Aparecida,Casa,156,371,4,2,668844
+Residencial Terras de São José,Casa,89,301,3,2,669408
+Parque Residencial Flamboyant,Apartamento,156,0,4,3,670051
+Jardim do Lago,Apartamento,120,0,2,1,671328
+Jardim São José,Casa,153,292,3,2,671343
+Jardim São José,Casa,146,308,3,2,671712
+Jardim das Indústrias,Casa,178,483,3,2,671761
+Condomínio Portal de Jacareí,Casa,128,287,4,4,672228
+Residencial Villa Lobos,Apartamento,136,0,4,2,672873
+Vila Santa Isabel,Terreno,0,893,0,0,675108
+Jardim das Oliveiras,Apartamento,161,0,5,3,675886
+Vila Zezinho,Casa,183,456,4,4,676238
+Centro,Apartamento,130,0,3,2,678762
+Parque dos Príncipes,Apartamento,141,0,4,3,678999
+Jardim das Indústrias,Casa,159,437,3,2,679002
+Residencial Villa Lobos,Casa,158,475,3,3,679128
+Jardim Bela Vista,Apartamento,162,0,4,2,679282
+Vila Nossa Senhora Aparecida,Casa,161,381,3,3,680370
+Chácaras Reunidas Igarapés,Casa,217,622,4,4,682409
+Vila Garcia,Casa,195,376,4,4,682427
+Vila Formosa,Apartamento,165,0,4,3,682539
+Vila Zezinho,Apartamento,179,0,3,3,683207
+Jardim Novo Horizonte,Casa,236,588,5,3,683524
+Parque Meia Lua,Casa,146,514,3,3,683819
+Vila Industrial,Apartamento,138,0,4,3,684148
+Vila São Jorge,Casa,173,680,4,3,684477
+Jardim do Lago,Apartamento,148,0,3,2,684514
+Vila Garcia,Apartamento,170,0,4,4,684930
+Vila Zezinho,Apartamento,180,0,3,2,686016
+Residencial Terras de São José,Apartamento,73,0,2,1,686346
+Vila Nossa Senhora Aparecida,Apartamento,173,0,3,2,686740
+Jardim Panorama,Casa,164,634,5,3,687591
+Jardim Santa Maria,Casa,149,355,4,2,688627
+Jardim Novo Horizonte,Casa,226,863,4,3,689139
+Vila Formosa,Casa,228,531,5,3,689681
+Vila Branca,Apartamento,178,0,4,3,689803
+Vila São Paulo,Casa,282,626,6,2,690190
+Vila Branca,Casa,167,426,4,3,690754
+Jardim Califórnia,Casa,166,395,4,3,690840
+Vila Zezinho,Casa,161,587,4,3,690864
+Jardim Santa Maria,Casa,166,287,3,3,691129
+Vila Garcia,Casa,198,707,4,4,691594
+Jardim do Lago,Apartamento,84,0,2,1,693214
+Sunset Garden,Apartamento,74,0,2,2,693824
+Vila Santa Isabel,Casa,290,531,4,4,693964
+Jardim Paraíba,Apartamento,161,0,3,3,695359
+Parque Meia Lua,Terreno,0,726,0,0,697940
+Vila Santa Isabel,Casa,255,731,4,4,698220
+Vila Garcia,Casa,249,476,5,3,699737
+Vila São Jorge,Casa,183,484,4,3,700484
+Vila São Jorge,Apartamento,136,0,3,2,700740
+Jardim Flórida,Terreno,0,773,0,0,701072
+Vila Santa Isabel,Casa,291,773,4,3,701722
+Jardim Panorama,Casa,319,796,4,2,702631
+Centro,Apartamento,140,0,4,3,703150
+Jardim América,Terreno,0,534,0,0,704372
+Vila Nossa Senhora Aparecida,Casa,147,480,4,4,704896
+Jardim São José,Apartamento,162,0,4,2,705785
+Cidade Salvador,Apartamento,138,0,4,2,705952
+Parque dos Príncipes,Apartamento,93,0,4,3,706316
+Condomínio Portal de Jacareí,Apartamento,129,0,4,4,706674
+Jardim Primavera,Casa,148,550,4,3,706862
+Vila Machado,Casa,143,436,4,3,707086
+Vila São Paulo,Casa,241,752,5,3,707474
+Vila Nossa Senhora Aparecida,Apartamento,167,0,3,3,709015
+Jardim São José,Apartamento,129,0,3,2,709319
+Vila Garcia,Apartamento,135,0,5,3,709728
+Vila Zilda,Casa,238,664,5,4,710619
+Jardim das Indústrias,Casa,205,771,4,4,711849
+Sunset Garden,Casa,104,275,3,2,711854
+Jardim Novo Horizonte,Casa,317,1187,4,2,713116
+Vila Machado,Casa,143,480,3,2,713502
+Jardim Alvorada,Casa,218,827,6,3,713788
+Centro,Casa,115,453,3,3,714146
+Residencial Terras de São José,Apartamento,112,0,3,2,715176
+Jardim Santa Maria,Apartamento,140,0,3,2,715400
+Residencial Villa Lobos,Apartamento,122,0,3,3,715822
+Jardim Paraíba,Casa,153,282,3,2,716424
+Jardim Alvorada,Terreno,0,982,0,0,718824
+Chácaras Reunidas Igarapés,Casa,241,685,5,3,719489
+Clube de Campo,Apartamento,122,0,5,3,719714
+Parque Imperial,Apartamento,134,0,4,4,720786
+Vila Zezinho,Apartamento,159,0,3,2,721351
+Vila Branca,Casa,173,281,4,4,721741
+Vila Branca,Apartamento,115,0,4,2,721809
+Clube de Campo,Apartamento,94,0,3,2,722234
+Centro,Apartamento,123,0,5,3,723086
+Vila Branca,Casa,165,333,4,3,723234
+Jardim das Oliveiras,Casa,158,402,4,4,724369
+Vila Formosa,Casa,229,863,6,3,724371
+Jardim das Indústrias,Apartamento,160,0,4,2,726000
+Residencial Terras de São José,Casa,143,262,5,2,726150
+Jardim Bela Vista,Apartamento,166,0,3,3,727727
+Jardim das Indústrias,Casa,201,522,4,3,728403
+Clube de Campo,Terreno,0,527,0,0,728630
+Parque Residencial Flamboyant,Terreno,0,901,0,0,728728
+Vila Santa Isabel,Casa,213,396,6,3,729351
+Vila Garcia,Casa,154,554,4,2,730253
+Vila Garcia,Casa,168,358,4,3,730430
+Jardim Panorama,Casa,193,354,3,2,730720
+Vila Industrial,Apartamento,148,0,5,2,730883
+Residencial Villa Lobos,Apartamento,88,0,2,1,730945
+Jardim Nova Esperança,Casa,281,986,4,4,731303
+Jardim Bela Vista,Casa,198,310,4,2,731889
+Jardim Paraíba,Casa,170,584,4,3,732682
+Centro,Casa,143,476,4,3,733467
+Vila Elvira,Casa,248,850,4,3,734275
+Jardim América,Casa,192,510,3,2,734760
+Cidade Salvador,Apartamento,127,0,3,3,736206
+Vila Zilda,Casa,318,499,4,3,736388
+Vila Industrial,Casa,258,605,4,4,736501
+Jardim Alvorada,Apartamento,156,0,3,2,736569
+Vila Machado,Casa,156,556,3,2,737881
+Clube de Campo,Apartamento,95,0,4,4,738753
+Vila Industrial,Casa,288,528,6,3,739200
+Jardim Nova Esperança,Casa,191,719,4,3,739539
+Condomínio Portal de Jacareí,Casa,147,268,4,4,743439
+Jardim Flórida,Casa,232,487,5,4,743986
+Vila Zezinho,Casa,194,424,4,3,744625
+Jardim Santa Maria,Casa,140,254,4,3,745792
+Cidade Salvador,Apartamento,142,0,4,4,746479
+Parque Novo Mundo,Casa,169,637,3,3,746701
+Jardim Panorama,Casa,306,809,5,3,746737
+Vila São Jorge,Casa,178,534,3,2,746852
+Residencial Villa Lobos,Casa,168,322,5,3,749268
+Jardim Nova Esperança,Casa,209,793,4,4,749935
+Centro,Casa,123,277,4,2,750935
+Vila São Paulo,Casa,185,443,4,3,752298
+Jardim São José,Casa,160,384,3,2,754436
+Jardim Novo Horizonte,Casa,231,585,6,3,756255
+Condomínio Portal de Jacareí,Casa,99,377,3,3,756847
+Vila Garcia,Casa,217,777,6,2,757155
+Jardim Panorama,Casa,189,502,4,2,757675
+Jardim Santa Maria,Terreno,0,948,0,0,758400
+Vila Machado,Casa,181,640,4,2,759297
+Vila Branca,Casa,240,492,6,3,759409
+Jardim Primavera,Casa,183,516,4,3,760123
+Sunset Garden,Apartamento,127,0,3,2,761390
+Vila Elvira,Casa,245,811,4,4,761412
+Residencial Terras de São José,Apartamento,92,0,3,2,761760
+Residencial Terras de São José,Apartamento,156,0,4,3,762372
+Jardim Panorama,Apartamento,178,0,4,2,763050
+Jardim do Lago,Casa,147,360,4,2,765194
+Vila Zezinho,Apartamento,179,0,4,3,765404
+Jardim do Lago,Apartamento,143,0,5,3,766601
+Condomínio Portal de Jacareí,Casa,97,160,4,3,766777
+Jardim Califórnia,Apartamento,116,0,3,3,767003
+Chácaras Reunidas Igarapés,Casa,250,492,4,2,767041
+Jardim das Indústrias,Apartamento,167,0,3,2,768659
+Jardim São José,Terreno,0,711,0,0,768662
+Clube de Campo,Casa,77,296,2,1,770456
+Jardim Flórida,Casa,221,458,4,3,770517
+Jardim do Lago,Apartamento,147,0,4,2,770779
+Vila São Jorge,Casa,186,465,4,3,771462
+Sunset Garden,Casa,131,217,3,2,771572
+Jardim das Indústrias,Casa,224,648,5,4,772236
+Cidade Salvador,Casa,139,441,4,2,772461
+Jardim Bela Vista,Apartamento,172,0,4,3,773535
+Vila Zilda,Casa,343,1112,5,2,773845
+Clube de Campo,Apartamento,136,0,5,3,774479
+Vila Machado,Apartamento,161,0,4,3,775070
+Vila Santa Isabel,Casa,172,557,3,2,775711
+Clube de Campo,Apartamento,153,0,4,2,775954
+Jardim das Indústrias,Casa,239,484,4,2,776257
+Jardim Santa Maria,Casa,214,725,5,4,776952
+Vila Santa Isabel,Casa,297,477,5,3,777262
+Jardim América,Apartamento,163,0,5,4,777542
+Vila Elvira,Casa,250,937,6,3,778288
+Jardim Bela Vista,Casa,250,516,6,4,781025
+Vila Santa Isabel,Casa,192,745,4,3,781339
+Vila Nossa Senhora Aparecida,Casa,178,644,4,4,783222
+Jardim das Indústrias,Casa,250,617,6,3,784302
+Jardim Califórnia,Casa,187,353,4,4,786451
+Jardim Flórida,Terreno,0,830,0,0,787338
+Vila São Jorge,Casa,193,382,3,2,788647
+Vila Zezinho,Apartamento,168,0,4,3,789331
+Vila Branca,Apartamento,170,0,5,3,791571
+Vila Nossa Senhora Aparecida,Casa,214,448,6,3,794382
+Parque Residencial Flamboyant,Casa,247,699,4,2,794796
+Jardim Panorama,Casa,170,566,4,3,794966
+Vila Santa Isabel,Apartamento,178,0,3,2,797564
+Jardim Flórida,Casa,229,607,5,3,797831
+Parque Residencial Flamboyant,Casa,227,762,5,4,797880
+Centro,Casa,122,474,4,3,798722
+Jardim das Indústrias,Casa,190,741,4,3,799211
+Condomínio Portal de Jacareí,Casa,142,360,3,2,799254
+Sunset Garden,Casa,86,219,4,4,799275
+Clube de Campo,Apartamento,126,0,3,2,801901
+Jardim Flórida,Casa,173,389,4,2,801980
+Parque Residencial Flamboyant,Casa,186,505,3,3,802604
+Vila Industrial,Casa,266,944,5,2,804510
+Jardim Califórnia,Terreno,0,639,0,0,805523
+Chácaras Reunidas Igarapés,Casa,214,646,4,3,805681
+Vila Elvira,Casa,290,585,5,2,805719
+Cidade Salvador,Casa,149,342,4,4,808155
+Clube de Campo,Apartamento,107,0,3,2,808187
+Jardim das Oliveiras,Casa,201,745,4,2,808208
+Chácaras Reunidas Igarapés,Casa,234,616,4,2,808635
+Jardim Primavera,Casa,231,480,6,2,809006
+Chácaras Reunidas Igarapés,Casa,328,857,4,4,809417
+Vila Formosa,Casa,201,696,6,3,809452
+Jardim América,Apartamento,177,0,4,3,809721
+Jardim do Lago,Casa,144,277,5,2,810913
+Parque Meia Lua,Casa,232,394,5,2,810940
+Jardim das Indústrias,Casa,172,622,4,4,811206
+Parque Meia Lua,Casa,188,633,5,3,811903
+Jardim Bela Vista,Apartamento,177,0,5,2,812111
+Vila Formosa,Casa,237,746,5,3,813933
+Cidade Salvador,Casa,218,547,5,3,813977
+Parque Imperial,Casa,188,599,3,2,815325
+Jardim Santa Maria,Casa,253,843,4,2,816143
+Vila São Paulo,Casa,180,705,4,3,816851
+Jardim São José,Casa,204,350,5,3,816887
+Jardim do Lago,Apartamento,151,0,3,2,817030
+Residencial Villa Lobos,Apartamento,103,0,2,1,817325
+Parque Imperial,Casa,141,515,5,4,817489
+Sunset Garden,Apartamento,128,0,5,3,818176
+Vila Industrial,Apartamento,171,0,5,3,818474
+Vila Branca,Apartamento,149,0,5,2,819008
+Vila Zilda,Casa,267,1028,6,2,819738
+Vila Santa Isabel,Casa,179,585,4,4,820188
+Residencial Terras de São José,Casa,110,211,4,4,822024
+Jardim Alvorada,Casa,215,663,5,3,822117
+Parque Residencial Flamboyant,Casa,223,371,4,3,822424
+Vila Zezinho,Casa,243,576,5,3,823190
+Jardim Bela Vista,Apartamento,148,0,4,4,824774
+Jardim Califórnia,Casa,233,698,4,2,827471
+Vila Industrial,Casa,222,463,5,3,827546
+Vila São Paulo,Casa,309,480,4,3,828956
+Jardim Panorama,Casa,304,522,4,4,830722
+Vila Garcia,Casa,206,559,5,2,830764
+Vila Branca,Apartamento,149,0,4,3,830809
+Jardim das Oliveiras,Casa,257,508,6,3,831795
+Vila Elvira,Casa,261,672,5,3,831918
+Jardim Panorama,Casa,244,570,4,2,832337
+Jardim do Lago,Casa,123,464,4,4,833907
+Vila Zezinho,Casa,277,1038,5,2,834559
+Centro,Terreno,0,583,0,0,835876
+Parque Residencial Flamboyant,Casa,335,517,4,3,836432
+Jardim São José,Casa,254,771,4,3,836856
+Jardim do Lago,Casa,97,270,3,3,840126
+Vila Nossa Senhora Aparecida,Casa,260,500,5,2,840400
+Jardim América,Casa,126,475,4,2,840656
+Jardim Nova Esperança,Casa,325,555,4,4,840787
+Jardim Novo Horizonte,Casa,242,491,4,3,840823
+Residencial Terras de São José,Apartamento,111,0,3,2,841491
+Parque Imperial,Apartamento,163,0,3,3,842351
+Vila Industrial,Apartamento,163,0,4,3,843296
+Vila Zezinho,Casa,208,488,5,4,844102
+Jardim Flórida,Casa,181,671,4,3,844145
+Parque Meia Lua,Casa,176,611,4,2,844146
+Vila Garcia,Apartamento,167,0,5,2,844318
+Jardim do Lago,Apartamento,176,0,4,3,844430
+Jardim Flórida,Casa,329,734,4,3,845777
+Parque Residencial Flamboyant,Casa,277,595,5,3,847780
+Jardim Flórida,Casa,192,670,4,3,847920
+Jardim das Indústrias,Casa,221,866,5,4,848035
+Centro,Apartamento,149,0,3,2,848182
+Jardim São José,Terreno,0,911,0,0,849006
+Vila Nossa Senhora Aparecida,Apartamento,166,0,5,3,849654
+Jardim Nova Esperança,Casa,327,887,5,3,850807
+Sunset Garden,Casa,120,302,2,1,851968
+Jardim das Oliveiras,Casa,179,412,4,2,852029
+Jardim das Oliveiras,Apartamento,148,0,3,2,852598
+Vila Zezinho,Casa,192,751,5,3,852987
+Vila São Jorge,Casa,211,382,5,4,855474
+Parque Imperial,Casa,255,500,6,3,856894
+Jardim Novo Horizonte,Casa,303,885,5,3,857426
+Parque Residencial Flamboyant,Casa,273,743,4,2,857591
+Parque Residencial Flamboyant,Casa,326,749,5,4,858302
+Jardim Panorama,Casa,316,530,5,4,860146
+Jardim das Oliveiras,Casa,261,920,4,3,860564
+Condomínio Portal de Jacareí,Casa,98,279,3,3,860854
+Vila Nossa Senhora Aparecida,Casa,179,597,4,2,864737
+Jardim Bela Vista,Casa,162,565,4,3,865536
+Jardim Califórnia,Casa,198,575,4,4,865565
+Vila Garcia,Apartamento,168,0,4,3,868509
+Cidade Salvador,Casa,232,897,4,2,868614
+Condomínio Portal de Jacareí,Apartamento,111,0,3,3,868808
+Jardim América,Casa,160,522,3,2,868818
+Vila São Jorge,Casa,156,502,5,3,869202
+Jardim Novo Horizonte,Casa,313,1131,5,4,869547
+Jardim das Indústrias,Casa,228,864,6,4,871425
+Jardim Paraíba,Apartamento,146,0,4,2,872350
+Vila Industrial,Casa,185,673,4,3,873233
+Chácaras Reunidas Igarapés,Casa,294,604,4,3,873429
+Jardim das Indústrias,Casa,306,621,4,2,874955
+Vila Zilda,Casa,279,980,5,4,876140
+Parque Imperial,Casa,185,623,4,4,876452
+Clube de Campo,Apartamento,125,0,4,3,876525
+Jardim América,Casa,185,594,5,4,877392
+Vila Zilda,Casa,258,621,4,2,878020
+Jardim Santa Maria,Casa,181,686,5,3,881594
+Vila São Paulo,Casa,272,944,5,3,882264
+Condomínio Portal de Jacareí,Apartamento,162,0,4,3,883224
+Residencial Villa Lobos,Casa,124,478,4,4,883366
+Clube de Campo,Apartamento,97,0,2,1,883606
+Clube de Campo,Terreno,0,535,0,0,883980
+Chácaras Reunidas Igarapés,Casa,217,590,4,3,885322
+Sunset Garden,Apartamento,139,0,3,2,885819
+Residencial Villa Lobos,Apartamento,104,0,3,2,885830
+Vila Industrial,Casa,334,629,4,2,885860
+Vila Branca,Casa,150,274,3,3,886428
+Jardim Nova Esperança,Casa,229,673,4,2,888272
+Jardim Alvorada,Apartamento,174,0,3,3,888931
+Cidade Salvador,Casa,268,631,5,3,889630
+Residencial Terras de São José,Apartamento,98,0,3,2,890085
+Parque Imperial,Casa,159,255,4,3,891214
+Sunset Garden,Casa,133,257,3,2,891664
+Parque Meia Lua,Apartamento,162,0,4,2,891882
+Sunset Garden,Apartamento,99,0,4,2,892267
+Parque Meia Lua,Apartamento,163,0,4,3,896002
+Jardim Primavera,Casa,174,503,4,3,896920
+Cidade Salvador,Casa,208,597,4,3,897810
+Vila Industrial,Casa,265,843,5,3,898662
+Jardim Novo Horizonte,Casa,307,1127,5,3,899148
+Vila São Paulo,Casa,251,481,5,2,900533
+Jardim Califórnia,Terreno,0,923,0,0,900571
+Jardim das Indústrias,Casa,276,659,6,4,901359
+Residencial Terras de São José,Apartamento,99,0,3,2,902880
+Condomínio Portal de Jacareí,Casa,155,581,4,3,903177
+Jardim Bela Vista,Casa,220,505,4,4,903307
+Vila Machado,Terreno,0,868,0,0,903848
+Jardim Califórnia,Apartamento,165,0,3,2,905140
+Jardim do Lago,Casa,144,483,3,3,905612
+Vila Machado,Casa,172,412,3,3,908125
+Residencial Terras de São José,Casa,172,322,4,2,908529
+Jardim Alvorada,Casa,315,592,5,3,908652
+Parque dos Príncipes,Terreno,0,795,0,0,909162
+Jardim Paraíba,Casa,237,608,5,3,909936
+Jardim Califórnia,Terreno,0,715,0,0,910767
+Parque dos Príncipes,Casa,162,545,4,4,911275
+Parque Meia Lua,Casa,250,815,6,3,911965
+Parque Imperial,Terreno,0,715,0,0,913126
+Vila Zilda,Casa,270,700,4,4,914725
+Chácaras Reunidas Igarapés,Casa,342,587,6,4,917411
+Parque dos Príncipes,Apartamento,175,0,3,2,917700
+Jardim do Lago,Casa,150,353,4,4,917962
+Chácaras Reunidas Igarapés,Casa,338,831,5,2,920436
+Jardim Primavera,Apartamento,163,0,5,4,920583
+Condomínio Portal de Jacareí,Casa,112,283,3,2,923905
+Sunset Garden,Apartamento,101,0,3,2,925160
+Residencial Villa Lobos,Apartamento,132,0,4,2,925478
+Jardim Novo Horizonte,Casa,341,606,5,3,925962
+Vila Machado,Apartamento,178,0,4,3,927077
+Sunset Garden,Apartamento,156,0,3,2,927513
+Jardim do Lago,Apartamento,114,0,3,2,928478
+Jardim Primavera,Terreno,0,820,0,0,928568
+Jardim Paraíba,Casa,316,543,4,3,930304
+Vila Elvira,Casa,322,1171,4,4,930319
+Jardim Novo Horizonte,Casa,260,811,4,3,930426
+Residencial Terras de São José,Apartamento,147,0,4,4,930730
+Vila Garcia,Apartamento,174,0,3,2,931178
+Clube de Campo,Casa,135,535,4,2,932898
+Jardim Santa Maria,Casa,208,615,4,3,933372
+Vila Garcia,Casa,171,541,4,3,934801
+Sunset Garden,Apartamento,152,0,5,3,935833
+Sunset Garden,Casa,146,259,4,2,937286
+Vila São Paulo,Casa,233,915,4,2,938021
+Jardim Bela Vista,Casa,215,631,6,2,939898
+Jardim Paraíba,Casa,186,556,3,2,941028
+Jardim Nova Esperança,Casa,312,816,5,3,942866
+Residencial Villa Lobos,Casa,113,294,3,2,944042
+Vila Santa Isabel,Casa,308,873,4,3,944250
+Jardim Flórida,Casa,220,392,5,3,946325
+Jardim Bela Vista,Casa,186,447,3,2,947011
+Jardim Bela Vista,Apartamento,164,0,3,2,948330
+Jardim Flórida,Casa,249,740,4,3,948334
+Parque Meia Lua,Casa,255,575,5,4,949084
+Parque Meia Lua,Casa,281,672,4,3,951207
+Vila Nossa Senhora Aparecida,Casa,337,881,4,3,951594
+Jardim das Oliveiras,Terreno,0,946,0,0,951723
+Clube de Campo,Apartamento,126,0,3,3,952087
+Jardim Califórnia,Casa,234,885,6,4,953528
+Residencial Terras de São José,Casa,138,478,4,4,953703
+Parque Imperial,Casa,177,344,4,3,958133
+Residencial Villa Lobos,Apartamento,173,0,5,3,959111
+Jardim Califórnia,Casa,234,406,5,2,960315
+Vila Elvira,Casa,288,751,6,4,960926
+Vila Branca,Casa,231,441,4,3,961676
+Vila São Paulo,Casa,294,559,6,2,962739
+Jardim Novo Horizonte,Casa,302,616,4,3,963021
+Centro,Apartamento,126,0,3,2,963270
+Chácaras Reunidas Igarapés,Casa,294,1129,5,3,966271
+Vila Branca,Apartamento,155,0,4,2,966564
+Condomínio Portal de Jacareí,Casa,136,399,4,3,967252
+Jardim América,Terreno,0,895,0,0,968524
+Vila Formosa,Casa,345,880,4,4,968675
+Jardim Santa Maria,Apartamento,153,0,5,3,968796
+Parque Imperial,Casa,237,816,4,3,969860
+Jardim Paraíba,Apartamento,150,0,4,2,972750
+Centro,Casa,120,345,3,2,973106
+Vila Nossa Senhora Aparecida,Casa,270,687,4,3,975612
+Parque Imperial,Casa,167,475,3,2,976647
+Residencial Villa Lobos,Casa,162,362,4,3,976782
+Vila Machado,Casa,281,769,4,2,979074
+Clube de Campo,Casa,175,423,5,4,979271
+Parque Meia Lua,Casa,239,611,4,2,979626
+Centro,Casa,197,315,4,2,980660
+Centro,Apartamento,163,0,4,4,981260
+Jardim Panorama,Casa,312,919,4,4,985091
+Vila Nossa Senhora Aparecida,Casa,191,725,5,3,985624
+Jardim Primavera,Casa,253,416,5,3,985675
+Vila Branca,Casa,226,522,5,3,986374
+Jardim do Lago,Casa,157,549,3,3,990052
+Jardim das Oliveiras,Casa,156,603,3,3,990699
+Vila Nossa Senhora Aparecida,Casa,243,875,5,2,991489
+Parque dos Príncipes,Casa,213,393,4,3,992257
+Clube de Campo,Terreno,0,696,0,0,993574
+Sunset Garden,Apartamento,120,0,2,1,993600
+Parque Imperial,Casa,213,818,4,3,996314
+Jardim São José,Casa,278,976,5,2,997327
+Vila Nossa Senhora Aparecida,Casa,245,908,6,3,998609
+Vila São Jorge,Casa,271,495,5,3,1001993
+Jardim do Lago,Casa,213,614,5,2,1004444
+Jardim São José,Casa,287,742,5,4,1007016
+Residencial Villa Lobos,Apartamento,131,0,3,3,1007232
+Jardim Primavera,Terreno,0,912,0,0,1008489
+Vila Branca,Apartamento,170,0,4,3,1010922
+Chácaras Reunidas Igarapés,Casa,299,832,4,4,1011980
+Vila Garcia,Casa,333,596,5,3,1014605
+Jardim do Lago,Apartamento,124,0,4,4,1016955
+Jardim do Lago,Apartamento,160,0,5,3,1018224
+Centro,Apartamento,168,0,4,4,1018710
+Parque dos Príncipes,Apartamento,142,0,4,3,1018821
+Vila Industrial,Casa,285,443,4,3,1019329
+Sunset Garden,Casa,188,684,3,2,1021504
+Jardim América,Apartamento,157,0,5,3,1022815
+Jardim América,Apartamento,140,0,3,3,1025247
+Parque Meia Lua,Casa,240,867,5,3,1027586
+Sunset Garden,Apartamento,144,0,5,2,1030348
+Residencial Terras de São José,Apartamento,147,0,4,3,1031719
+Vila Branca,Casa,227,359,4,3,1035563
+Vila Zilda,Casa,233,916,4,3,1036150
+Jardim América,Casa,178,502,3,2,1038081
+Vila Zilda,Casa,262,883,6,4,1038581
+Residencial Terras de São José,Casa,156,440,5,4,1040454
+Sunset Garden,Casa,205,323,5,2,1040668
+Vila São Paulo,Casa,299,1139,4,2,1041340
+Jardim América,Casa,174,649,5,3,1044393
+Vila Santa Isabel,Casa,296,803,4,4,1044729
+Jardim do Lago,Casa,200,546,4,3,1045029
+Condomínio Portal de Jacareí,Apartamento,161,0,4,3,1046322
+Jardim Nova Esperança,Casa,249,475,4,2,1047038
+Residencial Terras de São José,Apartamento,109,0,2,1,1047217
+Vila Industrial,Casa,287,914,5,3,1047856
+Vila Zilda,Casa,260,947,5,3,1051133
+Vila São Paulo,Casa,333,795,4,3,1053283
+Parque Residencial Flamboyant,Casa,345,557,4,3,1053342
+Condomínio Portal de Jacareí,Casa,174,306,4,3,1054318
+Vila Nossa Senhora Aparecida,Casa,278,612,4,3,1055148
+Jardim das Indústrias,Casa,321,676,5,3,1057434
+Jardim Bela Vista,Casa,321,599,5,4,1059595
+Jardim das Oliveiras,Casa,224,801,5,3,1059896
+Vila Zezinho,Casa,345,879,5,3,1063243
+Jardim do Lago,Apartamento,122,0,4,3,1063303
+Jardim Paraíba,Casa,255,925,5,3,1063845
+Jardim América,Casa,162,554,4,3,1066243
+Residencial Villa Lobos,Casa,149,386,4,4,1066436
+Parque dos Príncipes,Casa,241,447,4,3,1067594
+Vila Garcia,Casa,247,587,4,2,1069529
+Jardim das Indústrias,Casa,230,685,5,3,1069635
+Clube de Campo,Apartamento,131,0,4,3,1072307
+Residencial Terras de São José,Apartamento,141,0,4,2,1073997
+Vila São Paulo,Casa,253,670,4,4,1075506
+Clube de Campo,Casa,167,405,5,3,1078296
+Jardim Califórnia,Casa,183,533,4,3,1079436
+Jardim Santa Maria,Casa,274,468,5,2,1079854
+Centro,Apartamento,176,0,3,3,1080200
+Jardim Nova Esperança,Casa,272,452,4,2,1080382
+Parque dos Príncipes,Casa,240,488,4,4,1081632
+Jardim Paraíba,Casa,307,851,4,4,1085437
+Jardim do Lago,Terreno,0,858,0,0,1087643
+Centro,Casa,219,473,5,3,1088807
+Centro,Casa,197,573,4,2,1090737
+Parque Imperial,Casa,169,481,5,3,1093134
+Parque dos Príncipes,Apartamento,146,0,3,2,1093423
+Parque Imperial,Terreno,0,982,0,0,1095322
+Sunset Garden,Casa,162,591,3,3,1096636
+Jardim das Indústrias,Casa,319,1073,5,3,1099614
+Jardim Santa Maria,Casa,219,848,6,2,1100005
+Parque dos Príncipes,Casa,183,484,4,2,1101084
+Clube de Campo,Apartamento,116,0,3,2,1104151
+Parque dos Príncipes,Casa,259,597,4,3,1105438
+Residencial Villa Lobos,Casa,183,341,3,3,1106400
+Residencial Villa Lobos,Terreno,0,998,0,0,1106582
+Condomínio Portal de Jacareí,Apartamento,120,0,4,4,1106640
+Vila Industrial,Casa,254,996,5,4,1107244
+Sunset Garden,Apartamento,157,0,4,2,1107540
+Vila Santa Isabel,Casa,308,680,5,2,1110373
+Jardim Bela Vista,Casa,330,613,6,4,1115125
+Jardim Califórnia,Casa,193,750,4,3,1115219
+Jardim São José,Casa,292,1112,4,3,1117344
+Jardim Nova Esperança,Casa,340,1200,5,4,1118348
+Residencial Terras de São José,Casa,169,634,5,3,1122657
+Clube de Campo,Casa,128,204,4,3,1123812
+Condomínio Portal de Jacareí,Casa,159,317,4,3,1124647
+Jardim Flórida,Casa,281,946,4,4,1132298
+Residencial Villa Lobos,Casa,163,430,3,2,1135786
+Vila Nossa Senhora Aparecida,Casa,247,530,4,4,1135894
+Jardim Bela Vista,Casa,328,658,5,3,1137258
+Jardim São José,Casa,337,505,4,3,1144038
+Vila Branca,Casa,197,579,3,3,1144641
+Jardim do Lago,Casa,164,393,4,2,1144797
+Parque dos Príncipes,Casa,157,505,4,2,1145959
+Parque dos Príncipes,Apartamento,167,0,4,4,1146688
+Chácaras Reunidas Igarapés,Casa,347,561,5,3,1147300
+Parque Residencial Flamboyant,Casa,316,774,4,4,1148475
+Parque dos Príncipes,Casa,186,446,5,3,1151241
+Jardim América,Casa,268,664,6,3,1153054
+Parque dos Príncipes,Casa,176,618,4,2,1155153
+Centro,Casa,164,367,3,2,1155742
+Parque dos Príncipes,Apartamento,155,0,3,3,1157664
+Clube de Campo,Apartamento,123,0,3,3,1158008
+Jardim América,Apartamento,172,0,5,3,1159108
+Centro,Casa,224,575,5,2,1159520
+Centro,Casa,229,411,4,2,1160581
+Residencial Terras de São José,Apartamento,120,0,3,2,1160640
+Jardim Alvorada,Casa,323,1005,6,3,1162856
+Sunset Garden,Casa,141,554,4,3,1165489
+Parque dos Príncipes,Casa,302,784,6,3,1165610
+Residencial Villa Lobos,Casa,148,526,4,2,1166586
+Jardim Alvorada,Casa,221,874,4,2,1167599
+Cidade Salvador,Casa,286,724,6,4,1172622
+Residencial Terras de São José,Apartamento,139,0,4,3,1173646
+Parque Imperial,Apartamento,173,0,3,3,1174531
+Parque Imperial,Casa,201,591,4,3,1175522
+Sunset Garden,Apartamento,130,0,4,3,1176656
+Cidade Salvador,Casa,272,970,6,3,1177590
+Jardim das Indústrias,Casa,292,727,5,4,1178356
+Jardim Califórnia,Casa,169,622,5,4,1179610
+Vila Formosa,Casa,346,1001,5,3,1182433
+Parque Imperial,Casa,239,619,5,3,1183744
+Jardim Flórida,Casa,277,835,4,3,1186309
+Condomínio Portal de Jacareí,Casa,167,616,5,4,1188794
+Vila São Jorge,Casa,343,904,5,3,1189535
+Residencial Villa Lobos,Casa,250,555,5,3,1190882
+Parque Residencial Flamboyant,Casa,247,975,6,3,1191164
+Residencial Villa Lobos,Casa,160,337,5,3,1193236
+Jardim Santa Maria,Casa,257,513,4,3,1193973
+Jardim do Lago,Casa,243,663,4,3,1196689
+Jardim Bela Vista,Casa,231,605,6,2,1199345
+Vila Zezinho,Casa,302,669,4,2,1200863
+Jardim Bela Vista,Casa,236,728,6,2,1202540
+Jardim Primavera,Casa,306,788,4,3,1203353
+Vila Santa Isabel,Casa,297,914,4,4,1205766
+Vila Industrial,Casa,266,921,6,2,1207500
+Residencial Terras de São José,Casa,150,434,3,3,1211586
+Jardim América,Casa,171,661,4,3,1213036
+Jardim Califórnia,Apartamento,179,0,4,3,1214873
+Condomínio Portal de Jacareí,Apartamento,174,0,3,3,1221132
+Vila Machado,Casa,346,974,4,3,1221168
+Vila Nossa Senhora Aparecida,Casa,295,1154,5,3,1222365
+Residencial Villa Lobos,Casa,167,604,4,4,1222643
+Jardim do Lago,Apartamento,160,0,3,2,1223640
+Sunset Garden,Apartamento,130,0,4,2,1223664
+Jardim Paraíba,Casa,326,1091,4,3,1227685
+Residencial Terras de São José,Casa,281,422,6,4,1229838
+Vila São Paulo,Casa,312,821,4,3,1230803
+Jardim Califórnia,Casa,242,783,4,3,1232016
+Jardim Califórnia,Casa,304,769,4,3,1233650
+Jardim Bela Vista,Casa,319,964,4,3,1233794
+Residencial Terras de São José,Casa,150,522,3,2,1234791
+Vila Santa Isabel,Casa,273,833,4,2,1235162
+Jardim do Lago,Casa,220,540,5,2,1237032
+Condomínio Portal de Jacareí,Casa,230,386,5,3,1238592
+Vila Machado,Casa,235,688,4,3,1239085
+Jardim Flórida,Casa,300,481,4,3,1239332
+Jardim Panorama,Casa,334,561,5,2,1240626
+Parque Meia Lua,Casa,326,671,4,3,1241561
+Parque Imperial,Casa,285,1049,5,2,1241746
+Jardim Califórnia,Casa,162,546,4,4,1243044
+Sunset Garden,Casa,185,277,5,3,1243835
+Jardim Flórida,Casa,334,554,4,2,1246615
+Centro,Casa,201,729,4,4,1246717
+Residencial Villa Lobos,Terreno,0,774,0,0,1249390
+Vila Branca,Casa,335,521,6,2,1250350
+Vila São Paulo,Casa,296,692,6,3,1252434
+Condomínio Portal de Jacareí,Casa,195,628,4,3,1252531
+Vila Santa Isabel,Casa,323,1104,4,3,1253002
+Clube de Campo,Apartamento,128,0,4,3,1257260
+Jardim Primavera,Casa,299,1079,5,3,1260441
+Jardim Califórnia,Casa,197,635,4,2,1261768
+Jardim das Oliveiras,Casa,287,821,6,2,1262077
+Residencial Villa Lobos,Casa,143,543,4,2,1262675
+Chácaras Reunidas Igarapés,Casa,335,651,4,3,1263360
+Condomínio Portal de Jacareí,Casa,189,725,5,3,1264118
+Jardim Bela Vista,Casa,323,896,4,4,1265909
+Condomínio Portal de Jacareí,Casa,140,490,3,3,1267227
+Vila São Jorge,Casa,297,587,5,4,1268513
+Sunset Garden,Casa,162,480,4,4,1269264
+Jardim São José,Casa,308,672,4,4,1273980
+Clube de Campo,Casa,180,607,4,2,1276522
+Parque Meia Lua,Casa,256,880,6,3,1276863
+Jardim Bela Vista,Casa,313,1117,4,2,1277474
+Vila São Paulo,Casa,264,991,5,3,1277950
+Residencial Villa Lobos,Casa,244,797,5,3,1278529
+Vila Formosa,Casa,333,849,5,3,1279804
+Parque Residencial Flamboyant,Casa,270,1010,4,2,1283808
+Vila Machado,Casa,327,627,4,2,1286072
+Residencial Villa Lobos,Casa,240,759,5,4,1286279
+Residencial Villa Lobos,Casa,241,632,4,3,1288810
+Vila Zezinho,Casa,336,840,5,4,1289433
+Sunset Garden,Casa,172,501,3,3,1290664
+Condomínio Portal de Jacareí,Apartamento,173,0,3,2,1291375
+Chácaras Reunidas Igarapés,Casa,334,781,5,3,1292035
+Parque dos Príncipes,Casa,197,536,3,3,1294408
+Vila Branca,Casa,209,775,5,2,1295338
+Vila Machado,Casa,285,882,4,3,1295592
+Jardim Bela Vista,Casa,324,536,4,4,1299679
+Jardim Califórnia,Casa,303,801,5,2,1300556
+Residencial Terras de São José,Casa,150,556,3,2,1300998
+Jardim América,Casa,215,730,4,3,1302363
+Centro,Casa,197,666,4,3,1302383
+Cidade Salvador,Casa,316,849,5,4,1302678
+Jardim Bela Vista,Casa,279,828,5,3,1302812
+Residencial Terras de São José,Casa,155,617,4,3,1303938
+Sunset Garden,Casa,156,510,4,4,1305340
+Residencial Terras de São José,Apartamento,146,0,5,3,1305897
+Jardim do Lago,Casa,240,713,6,2,1308707
+Parque Imperial,Casa,249,390,6,3,1309687
+Cidade Salvador,Casa,253,823,6,3,1312087
+Condomínio Portal de Jacareí,Casa,188,576,4,2,1312534
+Jardim Alvorada,Casa,346,1074,6,3,1312835
+Parque Residencial Flamboyant,Casa,275,758,6,3,1314044
+Jardim América,Casa,209,581,4,4,1315866
+Centro,Casa,291,1152,6,4,1316842
+Vila São Jorge,Casa,265,538,6,4,1317280
+Centro,Terreno,0,944,0,0,1318060
+Condomínio Portal de Jacareí,Casa,157,547,4,2,1318882
+Jardim América,Casa,217,693,5,2,1320868
+Vila Branca,Casa,193,718,3,2,1322938
+Condomínio Portal de Jacareí,Casa,156,335,4,4,1323252
+Jardim São José,Casa,282,605,5,4,1323570
+Jardim Santa Maria,Casa,253,676,6,2,1323721
+Parque Meia Lua,Casa,338,739,6,4,1324159
+Jardim Panorama,Casa,341,1200,5,3,1326326
+Condomínio Portal de Jacareí,Casa,231,385,4,4,1326960
+Jardim Santa Maria,Casa,298,774,4,2,1327202
+Jardim Santa Maria,Casa,284,904,5,3,1328300
+Residencial Villa Lobos,Terreno,0,808,0,0,1331422
+Jardim das Oliveiras,Casa,331,1200,5,3,1332244
+Sunset Garden,Terreno,0,878,0,0,1335964
+Jardim Alvorada,Casa,287,930,5,2,1336792
+Jardim Nova Esperança,Casa,334,903,5,2,1337725
+Clube de Campo,Apartamento,145,0,3,2,1337936
+Vila Garcia,Casa,346,821,4,3,1338736
+Parque Residencial Flamboyant,Casa,277,1047,6,2,1339823
+Centro,Casa,248,765,4,4,1341731
+Jardim América,Casa,243,531,5,3,1345251
+Residencial Terras de São José,Casa,208,633,6,3,1345638
+Jardim Paraíba,Casa,315,760,5,3,1346570
+Vila Zezinho,Casa,336,1078,4,2,1349286
+Jardim Flórida,Casa,293,712,4,4,1349887
+Jardim Alvorada,Casa,277,1088,6,3,1350049
+Vila Nossa Senhora Aparecida,Casa,323,866,5,2,1351565
+Residencial Villa Lobos,Apartamento,176,0,3,2,1352489
+Vila Garcia,Casa,339,902,4,3,1352841
+Parque dos Príncipes,Casa,255,539,4,3,1354651
+Vila São Paulo,Casa,331,860,4,3,1355679
+Jardim Novo Horizonte,Casa,348,1145,4,4,1357678
+Jardim das Oliveiras,Casa,255,676,4,3,1359942
+Residencial Villa Lobos,Casa,237,717,5,3,1359960
+Parque dos Príncipes,Casa,217,655,5,3,1360384
+Jardim Flórida,Casa,251,982,4,4,1363310
+Vila Santa Isabel,Casa,317,1171,5,4,1364999
+Clube de Campo,Apartamento,147,0,3,2,1367783
+Jardim Paraíba,Casa,290,549,4,3,1373211
+Vila São Paulo,Casa,291,940,4,3,1373345
+Jardim América,Casa,217,390,5,2,1375444
+Parque Meia Lua,Casa,340,991,5,3,1381856
+Jardim Paraíba,Casa,261,555,5,3,1383249
+Vila Machado,Casa,272,542,4,3,1384887
+Parque Residencial Flamboyant,Casa,333,1200,5,4,1390300
+Jardim das Oliveiras,Casa,328,1020,4,2,1395329
+Cidade Salvador,Casa,303,780,6,4,1395851
+Jardim do Lago,Casa,240,958,4,3,1397363
+Centro,Casa,196,702,4,4,1398907
+Vila São Paulo,Casa,324,1094,5,2,1401517
+Jardim Santa Maria,Casa,251,575,5,3,1411579
+Clube de Campo,Casa,195,334,5,4,1413207
+Condomínio Portal de Jacareí,Casa,177,346,4,4,1414543
+Jardim Primavera,Casa,337,992,5,3,1419628
+Parque Residencial Flamboyant,Casa,315,759,4,2,1421575
+Clube de Campo,Apartamento,156,0,5,2,1422025
+Vila Zezinho,Casa,326,909,4,3,1422214
+Residencial Terras de São José,Apartamento,163,0,4,3,1426168
+Jardim América,Casa,255,629,4,3,1430258
+Jardim Alvorada,Casa,319,1200,5,3,1431306
+Jardim Primavera,Casa,350,748,4,4,1433517
+Residencial Villa Lobos,Casa,240,895,4,2,1434741
+Clube de Campo,Casa,269,490,4,4,1436185
+Vila Branca,Casa,319,541,4,3,1438537
+Residencial Terras de São José,Casa,201,681,6,3,1440742
+Cidade Salvador,Casa,307,677,5,3,1445193
+Clube de Campo,Casa,174,394,5,2,1448546
+Residencial Terras de São José,Casa,214,678,4,3,1461534
+Condomínio Portal de Jacareí,Casa,187,718,5,3,1464024
+Vila Branca,Casa,255,569,5,2,1466852
+Condomínio Portal de Jacareí,Casa,229,401,4,3,1469773
+Cidade Salvador,Casa,343,1131,5,2,1477134
+Clube de Campo,Apartamento,165,0,5,2,1479258
+Clube de Campo,Terreno,0,805,0,0,1483574
+Condomínio Portal de Jacareí,Casa,225,412,4,4,1486113
+Jardim América,Casa,214,837,5,3,1487493
+Jardim das Indústrias,Casa,326,908,6,4,1487697
+Cidade Salvador,Casa,343,1097,6,4,1490852
+Residencial Villa Lobos,Apartamento,174,0,4,3,1492050
+Sunset Garden,Casa,230,572,4,3,1496060
+Jardim Santa Maria,Casa,245,956,4,2,1505736
+Jardim Nova Esperança,Casa,346,1200,6,4,1506498
+Jardim Paraíba,Casa,332,1200,6,3,1508868
+Residencial Villa Lobos,Casa,231,561,6,3,1510370
+Jardim do Lago,Casa,271,472,5,2,1510691
+Jardim do Lago,Casa,244,871,4,2,1511171
+Jardim Alvorada,Casa,303,1172,4,4,1511280
+Sunset Garden,Casa,179,396,4,4,1517969
+Residencial Terras de São José,Casa,290,673,5,3,1518307
+Jardim Califórnia,Casa,287,904,4,2,1527337
+Clube de Campo,Apartamento,152,0,3,3,1529044
+Jardim das Oliveiras,Casa,316,884,4,3,1535811
+Vila São Jorge,Casa,348,1086,4,3,1540663
+Jardim Santa Maria,Casa,275,592,4,3,1545074
+Parque Imperial,Casa,235,734,4,3,1547397
+Jardim Califórnia,Casa,295,1086,4,3,1548072
+Jardim do Lago,Casa,314,1070,4,3,1549114
+Jardim Bela Vista,Casa,304,720,4,3,1553918
+Residencial Terras de São José,Apartamento,161,0,5,2,1557675
+Jardim Bela Vista,Casa,325,635,4,3,1561977
+Jardim Bela Vista,Casa,252,825,4,3,1562068
+Jardim Primavera,Casa,291,928,6,3,1562377
+Centro,Casa,309,764,6,3,1562812
+Parque Imperial,Casa,240,912,5,2,1563091
+Vila Industrial,Casa,320,733,4,2,1563296
+Jardim América,Casa,279,771,4,2,1567559
+Clube de Campo,Casa,235,829,5,3,1568596
+Jardim São José,Casa,306,917,4,3,1570560
+Vila Garcia,Casa,335,1160,4,3,1576116
+Parque dos Príncipes,Casa,337,882,5,3,1579766
+Vila São Jorge,Casa,341,1200,4,3,1582432
+Jardim Alvorada,Casa,325,1103,4,2,1591140
+Centro,Casa,199,787,3,2,1594787
+Jardim Primavera,Casa,340,680,5,3,1595297
+Jardim Paraíba,Casa,269,621,4,4,1597811
+Residencial Villa Lobos,Casa,238,422,5,3,1598497
+Jardim Santa Maria,Casa,322,661,6,4,1603834
+Parque Meia Lua,Casa,317,664,4,2,1608454
+Sunset Garden,Apartamento,178,0,3,3,1609120
+Parque dos Príncipes,Casa,295,630,4,2,1610046
+Vila Machado,Casa,328,1014,5,3,1624089
+Parque Imperial,Casa,240,849,5,4,1627342
+Clube de Campo,Casa,223,627,4,3,1629277
+Residencial Terras de São José,Apartamento,173,0,5,4,1632255
+Parque dos Príncipes,Casa,301,877,5,3,1635052
+Jardim América,Casa,298,562,4,3,1643612
+Condomínio Portal de Jacareí,Casa,254,743,5,2,1651985
+Jardim do Lago,Casa,208,584,4,4,1655110
+Centro,Casa,290,805,5,4,1659037
+Jardim das Oliveiras,Casa,344,1103,5,3,1660913
+Residencial Terras de São José,Terreno,0,984,0,0,1676736
+Parque Imperial,Casa,256,822,5,4,1677350
+Sunset Garden,Terreno,0,978,0,0,1679030
+Residencial Villa Lobos,Casa,345,588,4,3,1681545
+Parque dos Príncipes,Casa,343,614,5,2,1682790
+Vila Machado,Casa,346,1200,6,4,1684735
+Jardim Primavera,Casa,308,734,4,3,1688733
+Centro,Casa,249,441,4,2,1696792
+Centro,Casa,230,871,4,4,1700563
+Jardim Nova Esperança,Casa,346,1200,6,4,1706765
+Parque Meia Lua,Casa,328,1113,4,3,1707108
+Residencial Terras de São José,Casa,266,519,4,2,1708743
+Residencial Terras de São José,Casa,284,546,6,2,1713405
+Parque Imperial,Casa,304,1073,5,3,1717023
+Clube de Campo,Casa,202,686,5,4,1720989
+Jardim das Oliveiras,Casa,336,1200,4,3,1733119
+Sunset Garden,Casa,208,619,5,3,1735881
+Jardim América,Casa,278,670,5,2,1743183
+Sunset Garden,Casa,260,438,4,4,1744800
+Residencial Terras de São José,Casa,208,799,4,3,1756963
+Vila Branca,Casa,326,819,4,3,1758713
+Condomínio Portal de Jacareí,Casa,269,932,4,2,1759911
+Sunset Garden,Apartamento,179,0,3,2,1761360
+Parque Imperial,Casa,304,693,6,4,1761934
+Residencial Villa Lobos,Casa,247,832,5,2,1767438
+Jardim Primavera,Casa,334,731,5,2,1768210
+Condomínio Portal de Jacareí,Casa,287,878,5,3,1769783
+Jardim Bela Vista,Casa,311,1129,4,3,1776473
+Sunset Garden,Casa,290,510,4,3,1781536
+Condomínio Portal de Jacareí,Casa,222,402,4,2,1785883
+Jardim América,Casa,284,701,4,4,1790820
+Residencial Villa Lobos,Casa,280,898,6,3,1795245
+Jardim Paraíba,Casa,305,926,6,2,1799878
+Residencial Terras de São José,Casa,228,617,6,2,1803172
+Vila Branca,Casa,335,535,4,4,1811469
+Jardim do Lago,Casa,209,747,5,4,1812875
+Clube de Campo,Casa,261,727,5,3,1813992
+Jardim Santa Maria,Casa,331,1200,6,3,1819021
+Sunset Garden,Casa,272,478,5,3,1833065
+Residencial Villa Lobos,Casa,266,428,4,2,1845636
+Vila São Jorge,Casa,307,1200,4,3,1848940
+Parque Imperial,Casa,260,844,4,2,1850736
+Jardim América,Casa,286,628,5,4,1855766
+Condomínio Portal de Jacareí,Casa,305,667,4,3,1856896
+Parque dos Príncipes,Casa,290,918,6,4,1857787
+Jardim do Lago,Casa,250,808,4,3,1868702
+Clube de Campo,Casa,238,443,6,3,1870943
+Jardim São José,Casa,345,900,5,3,1872849
+Jardim América,Casa,294,517,6,3,1897775
+Residencial Villa Lobos,Casa,234,455,5,4,1911982
+Sunset Garden,Casa,325,1200,6,3,1927600
+Jardim Paraíba,Casa,350,1029,4,4,1938069
+Residencial Terras de São José,Casa,247,655,4,4,1946056
+Sunset Garden,Casa,192,730,3,2,1948809
+Parque Meia Lua,Casa,344,1181,5,3,1959006
+Jardim Califórnia,Casa,332,865,4,3,1965869
+Sunset Garden,Casa,248,923,4,4,1980665
+Jardim América,Casa,345,754,5,3,1980917
+Jardim América,Casa,346,1154,5,4,1985652
+Clube de Campo,Casa,245,582,5,3,1995688
+Residencial Villa Lobos,Casa,249,961,6,4,2003978
+Residencial Terras de São José,Casa,285,1042,5,3,2023965
+Residencial Villa Lobos,Casa,274,978,4,2,2030103
+Sunset Garden,Casa,228,857,5,3,2031617
+Clube de Campo,Casa,231,776,5,3,2033011
+Jardim Primavera,Casa,330,1132,6,4,2064997
+Sunset Garden,Casa,234,441,4,2,2072995
+Condomínio Portal de Jacareí,Casa,268,857,6,2,2089471
+Residencial Villa Lobos,Casa,231,850,4,4,2101003
+Jardim do Lago,Casa,276,917,5,3,2124990
+Jardim do Lago,Casa,274,1046,5,3,2132886
+Residencial Terras de São José,Casa,257,998,6,3,2133657
+Parque dos Príncipes,Casa,344,1200,4,3,2134742
+Sunset Garden,Casa,246,714,4,3,2135097
+Sunset Garden,Casa,249,492,5,3,2147553
+Clube de Campo,Casa,256,720,4,3,2148076
+Condomínio Portal de Jacareí,Casa,280,786,4,3,2155578
+Residencial Terras de São José,Casa,237,560,4,4,2158413
+Residencial Villa Lobos,Casa,311,986,5,3,2161275
+Sunset Garden,Casa,238,617,5,3,2175984
+Sunset Garden,Casa,239,742,4,2,2176286
+Jardim do Lago,Casa,267,973,4,4,2206595
+Jardim do Lago,Casa,251,973,5,2,2208544
+Parque Imperial,Casa,347,1200,6,2,2209568
+Jardim do Lago,Casa,338,652,6,2,2217434
+Vila Branca,Casa,337,702,4,4,2218382
+Residencial Terras de São José,Casa,284,1016,4,3,2232822
+Condomínio Portal de Jacareí,Casa,276,575,4,3,2265532
+Clube de Campo,Casa,333,508,4,2,2288455
+Residencial Terras de São José,Casa,276,773,5,2,2300914
+Condomínio Portal de Jacareí,Casa,332,1200,5,2,2316775
+Condomínio Portal de Jacareí,Casa,317,913,5,3,2319082
+Condomínio Portal de Jacareí,Casa,324,798,6,3,2323369
+Clube de Campo,Casa,245,956,4,2,2334450
+Jardim do Lago,Casa,274,930,5,3,2363958
+Jardim do Lago,Casa,296,832,4,3,2364433
+Residencial Terras de São José,Casa,336,988,4,3,2373036
+Jardim Califórnia,Casa,332,1071,5,3,2379199
+Clube de Campo,Casa,267,986,6,3,2419908
+Residencial Terras de São José,Casa,297,924,5,2,2436637
+Condomínio Portal de Jacareí,Casa,324,1200,6,3,2438557
+Residencial Terras de São José,Casa,315,773,5,3,2480157
+Clube de Campo,Casa,345,1132,4,3,2501140
+Sunset Garden,Casa,296,641,4,2,2604025
+Centro,Casa,346,1195,5,3,2615462
+Jardim do Lago,Casa,319,773,5,3,2616399
+Clube de Campo,Casa,310,875,4,4,2652801
+Sunset Garden,Casa,283,1097,5,2,2713574
+Residencial Terras de São José,Casa,308,748,4,4,2716296
+Sunset Garden,Casa,329,565,4,2,2719988
+Jardim do Lago,Casa,317,898,4,4,2764739
+Sunset Garden,Casa,297,757,4,3,2816171
+Condomínio Portal de Jacareí,Casa,339,1200,4,3,2951875
+Residencial Terras de São José,Casa,294,979,4,4,3003043
+Residencial Villa Lobos,Casa,316,1164,5,4,3202987
+Sunset Garden,Casa,333,1098,6,3,3273379

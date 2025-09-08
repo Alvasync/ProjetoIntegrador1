@@ -1,0 +1,2001 @@
+bairro,tipo_imovel,area_construida,area_terreno,quartos,banheiros,preco
+Veraneio Ijal,Terreno,0,168,0,0,63168
+Cidade Salvador,Terreno,0,252,0,0,73584
+Jardim Primavera,Terreno,0,166,0,0,88312
+Portal Alvorada,Terreno,0,287,0,0,99876
+Jardim América,Terreno,0,288,0,0,103910
+Jardim Esperança,Terreno,0,188,0,0,109416
+Jardim Califórnia,Terreno,0,173,0,0,110547
+Jardim Esperança,Terreno,0,334,0,0,116566
+Jardim América,Terreno,0,288,0,0,126720
+Veraneio Ijal,Casa,70,310,6,5,133980
+Sunset Garden,Terreno,0,190,0,0,140049
+Cidade Salvador,Apartamento,55,0,3,2,140404
+Vila Garcia,Terreno,0,321,0,0,141496
+Jardim das Oliveiras,Apartamento,52,0,3,3,142272
+Jardim São José,Apartamento,54,0,4,2,143262
+Cidade Salvador,Terreno,0,411,0,0,147302
+Cidade Salvador,Apartamento,62,0,4,3,149296
+Jardim Primavera,Apartamento,48,0,3,3,152208
+Terras de Santa Clara,Casa,74,360,5,4,153254
+Terras de Santa Clara,Apartamento,50,0,1,3,154600
+Centro,Terreno,0,455,0,0,155155
+Jardim das Oliveiras,Casa,79,282,6,4,161002
+Jardim das Oliveiras,Casa,70,233,3,3,161350
+Vila Garcia,Casa,76,300,6,6,161484
+Clube de Campo,Terreno,0,348,0,0,161959
+Jardim Califórnia,Apartamento,48,0,3,3,162384
+Jardim Paraíba,Casa,72,317,3,4,166464
+Portal Alvorada,Casa,83,460,2,3,168739
+Jardim Califórnia,Apartamento,51,0,3,2,169269
+Jardim São José,Terreno,0,429,0,0,169884
+Centro,Apartamento,49,0,3,3,171455
+Parque Imperial,Apartamento,58,0,2,1,171796
+Jardim São José,Terreno,0,479,0,0,172919
+Jardim das Oliveiras,Casa,87,448,4,3,172956
+Jardim Primavera,Terreno,0,184,0,0,174248
+Vila Machado,Terreno,0,194,0,0,175570
+Vila Machado,Apartamento,52,0,4,2,176176
+Vila Machado,Apartamento,64,0,1,1,177280
+Parque dos Príncipes,Terreno,0,228,0,0,181830
+Vila Machado,Apartamento,56,0,4,2,182224
+Vila Garcia,Casa,89,431,5,2,182485
+Parque Imperial,Terreno,0,468,0,0,182988
+Vila Garcia,Terreno,0,268,0,0,184169
+Jardim Califórnia,Apartamento,66,0,4,2,184800
+Jardim Esperança,Apartamento,69,0,1,3,185610
+Jardim das Oliveiras,Casa,80,501,4,4,185680
+Veraneio Ijal,Terreno,0,217,0,0,186186
+Jardim das Oliveiras,Casa,75,249,3,3,186375
+Jardim Paraíba,Apartamento,63,0,3,1,186795
+Terras de Santa Clara,Apartamento,48,0,4,2,189792
+Jardim América,Apartamento,66,0,2,2,189921
+Villa Branca,Terreno,0,208,0,0,190091
+Vila Machado,Terreno,0,367,0,0,191207
+Vila Garcia,Apartamento,70,0,4,1,192528
+Jardim Primavera,Casa,104,202,7,3,193336
+Jardim Esperança,Casa,89,410,6,1,193931
+Jardim Califórnia,Terreno,0,482,0,0,194246
+Vila Garcia,Apartamento,78,0,1,3,194750
+Vila Garcia,Apartamento,66,0,4,3,194779
+Cidade Salvador,Apartamento,89,0,1,3,195230
+Parque Imperial,Casa,108,388,2,2,197316
+Vila Garcia,Apartamento,62,0,3,3,198499
+Cidade Salvador,Casa,111,541,2,3,198645
+Portal Alvorada,Casa,81,212,3,4,198693
+Vila Garcia,Apartamento,50,0,4,3,199760
+Veraneio Ijal,Casa,80,465,2,3,200080
+Jardim América,Terreno,0,493,0,0,203362
+Portal Alvorada,Terreno,0,534,0,0,203454
+Parque dos Príncipes,Terreno,0,199,0,0,204014
+Vila Garcia,Apartamento,78,0,4,2,205296
+Jardim Califórnia,Apartamento,67,0,2,2,206293
+Nova Jacareí,Apartamento,49,0,1,1,207613
+Clube de Campo,Apartamento,64,0,3,3,208915
+Terras de Santa Clara,Apartamento,55,0,1,1,209385
+Parque dos Príncipes,Terreno,0,630,0,0,210672
+Clube de Campo,Terreno,0,457,0,0,211499
+Villa Branca,Apartamento,55,0,4,1,211568
+Parque dos Príncipes,Casa,74,540,4,2,212047
+Jardim das Oliveiras,Apartamento,67,0,3,2,212122
+Jardim Esperança,Terreno,0,258,0,0,213366
+Parque dos Príncipes,Casa,99,584,6,5,213552
+Jardim Primavera,Casa,89,254,2,4,214134
+Jardim Califórnia,Apartamento,70,0,4,1,214550
+Veraneio Ijal,Apartamento,51,0,1,3,217056
+Jardim Esperança,Apartamento,66,0,4,3,217074
+Terras de Santa Clara,Apartamento,65,0,2,2,218725
+Centro,Casa,100,200,2,1,220770
+Jardim América,Casa,84,595,7,5,220928
+Jardim Califórnia,Apartamento,79,0,1,3,222227
+Jardim América,Apartamento,79,0,3,1,223941
+Terras de Santa Clara,Apartamento,55,0,4,2,224840
+Jardim São José,Casa,72,226,6,4,225288
+Terras de Santa Clara,Apartamento,79,0,1,2,225940
+Parque dos Príncipes,Apartamento,67,0,4,2,225964
+Nova Jacareí,Casa,74,261,3,4,226218
+Terras de Santa Clara,Apartamento,55,0,3,2,226325
+Terras de Santa Clara,Casa,110,219,2,5,226930
+Jardim Califórnia,Apartamento,75,0,3,3,227700
+Jardim América,Apartamento,65,0,3,1,230802
+Parque Imperial,Apartamento,65,0,3,3,231335
+Vila Machado,Apartamento,71,0,1,3,231673
+Jardim América,Apartamento,57,0,2,3,232491
+Portal Alvorada,Terreno,0,376,0,0,232744
+Jardim das Oliveiras,Casa,104,485,4,5,235248
+Jardim Paraíba,Casa,103,378,4,3,236591
+Cidade Salvador,Terreno,0,536,0,0,236697
+Cidade Salvador,Terreno,0,345,0,0,237360
+Jardim São José,Apartamento,53,0,2,3,238871
+Terras de Santa Clara,Apartamento,49,0,1,1,240051
+Veraneio Ijal,Terreno,0,492,0,0,240588
+Centro,Casa,101,348,2,3,242086
+Jardim Primavera,Casa,79,431,5,3,244110
+Portal Alvorada,Casa,89,306,6,4,246619
+Jardim Califórnia,Casa,72,440,6,2,248184
+Cidade Salvador,Apartamento,49,0,2,3,249468
+Jardim Califórnia,Apartamento,80,0,3,3,249760
+Terras de Santa Clara,Apartamento,76,0,1,1,250800
+Sunset Garden,Casa,106,551,6,6,252725
+Cidade Salvador,Apartamento,109,0,1,3,253839
+Terras de Santa Clara,Apartamento,54,0,2,1,255852
+Jardim das Oliveiras,Terreno,0,328,0,0,256496
+Jardim Paraíba,Terreno,0,330,0,0,257070
+Villa Branca,Apartamento,74,0,1,3,258489
+Jardim das Oliveiras,Apartamento,63,0,4,3,259749
+Clube de Campo,Apartamento,58,0,2,3,259903
+Sunset Garden,Casa,108,249,4,3,261003
+Parque Imperial,Terreno,0,585,0,0,262080
+Jardim Esperança,Terreno,0,263,0,0,263000
+Terras de Santa Clara,Apartamento,59,0,4,2,263671
+Jardim Primavera,Casa,94,443,2,5,264986
+Terras de Santa Clara,Apartamento,89,0,4,1,265487
+Vila Garcia,Apartamento,86,0,4,2,265705
+Jardim São José,Casa,135,541,6,4,265950
+Parque Imperial,Terreno,0,500,0,0,266500
+Jardim América,Terreno,0,195,0,0,266838
+Vila Garcia,Casa,93,486,6,4,267393
+Parque Imperial,Casa,119,288,4,3,267750
+Parque Imperial,Casa,73,499,2,5,268421
+Clube de Campo,Apartamento,76,0,4,1,268439
+Vila Garcia,Apartamento,59,0,1,2,268615
+Veraneio Ijal,Casa,127,448,3,6,268986
+Jardim América,Casa,131,272,6,3,269034
+Cidade Salvador,Apartamento,69,0,1,1,269872
+Clube de Campo,Casa,95,435,7,2,271453
+Jardim São José,Casa,115,468,7,1,271860
+Portal Alvorada,Apartamento,52,0,1,1,271960
+Jardim Paraíba,Casa,70,363,5,1,272230
+Jardim Califórnia,Casa,97,520,3,5,272376
+Jardim América,Apartamento,59,0,2,3,272774
+Cidade Salvador,Casa,160,242,2,6,272896
+Nova Jacareí,Casa,100,318,7,3,273200
+Cidade Salvador,Casa,167,539,2,5,274147
+Jardim Paraíba,Casa,145,400,2,1,274920
+Cidade Salvador,Apartamento,75,0,2,3,275340
+Sunset Garden,Terreno,0,194,0,0,276411
+Jardim Califórnia,Apartamento,60,0,3,3,276660
+Nova Jacareí,Apartamento,53,0,2,2,277614
+Vila Garcia,Apartamento,122,0,2,1,278062
+Terras de Santa Clara,Casa,85,353,4,6,278375
+Vila Machado,Apartamento,54,0,4,3,279018
+Vila Garcia,Apartamento,54,0,3,1,279504
+Jardim das Oliveiras,Apartamento,63,0,3,1,280413
+Parque Imperial,Casa,75,391,4,3,280500
+Nova Jacareí,Terreno,0,841,0,0,281735
+Jardim das Oliveiras,Casa,71,365,2,4,282651
+Jardim Califórnia,Apartamento,93,0,3,1,282999
+Jardim São José,Casa,92,450,4,5,285108
+Jardim das Oliveiras,Apartamento,69,0,4,1,285315
+Vila Garcia,Casa,196,420,3,3,285846
+Cidade Salvador,Apartamento,50,0,2,3,286120
+Jardim Califórnia,Apartamento,81,0,2,2,286335
+Jardim das Oliveiras,Apartamento,81,0,3,1,286659
+Jardim Esperança,Casa,107,268,2,5,286760
+Jardim Esperança,Casa,153,446,3,1,286875
+Jardim América,Casa,86,305,7,4,286921
+Clube de Campo,Casa,74,404,5,1,286964
+Nova Jacareí,Apartamento,75,0,3,1,287100
+Villa Branca,Terreno,0,223,0,0,287290
+Jardim Califórnia,Casa,77,518,3,4,287518
+Villa Branca,Casa,87,307,3,2,288178
+Parque Imperial,Apartamento,114,0,2,2,288990
+Jardim das Oliveiras,Apartamento,89,0,3,3,289161
+Vila Garcia,Apartamento,80,0,2,2,289408
+Vila Garcia,Casa,197,430,5,4,289668
+Jardim Primavera,Apartamento,56,0,3,1,290584
+Jardim das Oliveiras,Casa,97,318,5,2,291097
+Villa Branca,Apartamento,63,0,1,3,292137
+Parque dos Príncipes,Apartamento,55,0,4,1,293304
+Clube de Campo,Casa,85,432,3,1,293598
+Cidade Salvador,Apartamento,96,0,2,3,293760
+Vila Machado,Apartamento,100,0,2,3,295100
+Jardim Califórnia,Apartamento,77,0,4,1,295449
+Nova Jacareí,Apartamento,75,0,4,2,295500
+Vila Garcia,Terreno,0,373,0,0,296609
+Vila Garcia,Apartamento,118,0,2,2,297360
+Nova Jacareí,Casa,78,511,7,5,297414
+Jardim das Oliveiras,Terreno,0,361,0,0,298186
+Jardim das Oliveiras,Terreno,0,226,0,0,298320
+Terras de Santa Clara,Apartamento,110,0,1,1,298430
+Vila Machado,Apartamento,80,0,4,1,298640
+Jardim Califórnia,Terreno,0,295,0,0,298835
+Jardim Esperança,Apartamento,108,0,2,1,299160
+Cidade Salvador,Apartamento,73,0,1,3,299942
+Veraneio Ijal,Casa,73,513,4,1,301125
+Villa Branca,Casa,104,442,5,4,301496
+Jardim das Oliveiras,Casa,85,428,3,3,302090
+Jardim São José,Apartamento,95,0,3,1,302290
+Jardim Primavera,Casa,89,589,7,4,302600
+Jardim Califórnia,Casa,125,338,4,1,303375
+Clube de Campo,Apartamento,50,0,4,1,303745
+Cidade Salvador,Casa,70,370,3,1,303912
+Parque Imperial,Casa,161,301,7,3,304129
+Veraneio Ijal,Apartamento,71,0,3,2,305158
+Jardim Esperança,Terreno,0,277,0,0,306085
+Jardim Califórnia,Apartamento,91,0,3,2,308035
+Cidade Salvador,Casa,120,453,6,6,308064
+Nova Jacareí,Terreno,0,578,0,0,308074
+Parque Imperial,Apartamento,93,0,3,1,308388
+Villa Branca,Apartamento,58,0,1,2,308536
+Centro,Apartamento,78,0,3,2,308622
+Jardim Esperança,Casa,79,358,4,5,309759
+Jardim Paraíba,Casa,149,477,2,5,311261
+Jardim São José,Casa,103,390,7,6,311472
+Jardim Paraíba,Casa,93,569,3,6,311736
+Vila Garcia,Casa,88,597,7,5,312224
+Terras de Santa Clara,Casa,111,262,3,3,312243
+Cidade Salvador,Casa,163,264,7,1,312308
+Veraneio Ijal,Terreno,0,719,0,0,312765
+Terras de Santa Clara,Casa,151,499,6,5,314533
+Jardim América,Apartamento,49,0,4,2,316069
+Centro,Terreno,0,431,0,0,316698
+Cidade Salvador,Casa,85,532,3,4,316948
+Portal Alvorada,Apartamento,61,0,3,2,318298
+Centro,Apartamento,88,0,4,1,318375
+Centro,Apartamento,73,0,4,2,319995
+Nova Jacareí,Apartamento,73,0,3,3,320105
+Vila Machado,Apartamento,66,0,3,2,320298
+Centro,Terreno,0,236,0,0,321125
+Veraneio Ijal,Apartamento,63,0,2,2,321867
+Parque dos Príncipes,Casa,81,322,2,2,322809
+Jardim América,Apartamento,58,0,1,2,323147
+Jardim Paraíba,Apartamento,79,0,4,2,323742
+Parque dos Príncipes,Apartamento,53,0,3,3,324148
+Jardim Primavera,Apartamento,76,0,2,3,325660
+Parque dos Príncipes,Apartamento,79,0,2,3,326483
+Jardim Primavera,Casa,153,436,6,5,326655
+Cidade Salvador,Casa,76,269,5,1,326739
+Terras de Santa Clara,Apartamento,48,0,4,2,327024
+Jardim São José,Apartamento,51,0,1,3,327930
+Portal Alvorada,Casa,91,456,6,3,328601
+Jardim Esperança,Casa,103,457,4,2,328673
+Jardim Esperança,Casa,165,337,5,3,328680
+Jardim São José,Apartamento,120,0,2,1,329760
+Clube de Campo,Apartamento,68,0,4,2,329820
+Jardim São José,Casa,121,374,5,3,330451
+Parque Imperial,Apartamento,85,0,1,1,330735
+Jardim das Oliveiras,Casa,115,371,3,3,331545
+Cidade Salvador,Casa,121,517,4,6,331733
+Nova Jacareí,Casa,142,481,4,1,332848
+Veraneio Ijal,Apartamento,87,0,1,1,333471
+Jardim das Oliveiras,Terreno,0,250,0,0,334750
+Jardim Esperança,Casa,91,554,3,4,335335
+Nova Jacareí,Apartamento,49,0,4,1,335503
+Jardim América,Terreno,0,999,0,0,336263
+Parque dos Príncipes,Casa,112,270,6,2,336828
+Parque Imperial,Apartamento,94,0,3,3,336990
+Parque dos Príncipes,Casa,124,417,5,3,337317
+Cidade Salvador,Casa,115,265,3,3,337364
+Vila Garcia,Apartamento,59,0,1,1,337952
+Jardim das Oliveiras,Apartamento,74,0,2,1,338180
+Jardim São José,Apartamento,64,0,2,2,340288
+Portal Alvorada,Casa,170,391,4,4,341190
+Cidade Salvador,Apartamento,77,0,4,1,341633
+Clube de Campo,Casa,99,556,5,5,342213
+Jardim América,Terreno,0,427,0,0,343350
+Jardim Primavera,Apartamento,123,0,3,1,343785
+Cidade Salvador,Apartamento,109,0,3,2,343829
+Jardim das Oliveiras,Apartamento,106,0,3,3,344076
+Jardim Paraíba,Apartamento,69,0,4,2,344103
+Jardim Primavera,Apartamento,75,0,1,2,344325
+Vila Garcia,Casa,205,238,2,3,344728
+Centro,Apartamento,59,0,1,2,345203
+Jardim América,Casa,116,585,6,4,345923
+Nova Jacareí,Casa,74,597,3,3,345950
+Jardim Paraíba,Apartamento,84,0,4,1,346416
+Nova Jacareí,Apartamento,74,0,4,1,346468
+Vila Garcia,Apartamento,99,0,4,2,347450
+Jardim Esperança,Apartamento,109,0,3,3,348146
+Vila Garcia,Terreno,0,935,0,0,348568
+Jardim Esperança,Terreno,0,847,0,0,348964
+Jardim São José,Casa,74,497,2,6,349132
+Jardim Primavera,Casa,102,591,5,4,349146
+Cidade Salvador,Apartamento,81,0,1,2,349401
+Jardim Primavera,Casa,100,593,7,6,349700
+Cidade Salvador,Terreno,0,379,0,0,349892
+Jardim Paraíba,Apartamento,89,0,2,3,351016
+Jardim Califórnia,Terreno,0,402,0,0,351348
+Vila Garcia,Apartamento,85,0,2,1,351424
+Parque Imperial,Casa,164,462,7,2,351616
+Sunset Garden,Apartamento,102,0,2,2,351655
+Cidade Salvador,Casa,178,344,6,4,351728
+Jardim Califórnia,Apartamento,106,0,4,2,351814
+Jardim Esperança,Apartamento,84,0,2,3,352296
+Parque Imperial,Casa,149,388,2,3,352534
+Portal Alvorada,Casa,166,521,4,5,353746
+Clube de Campo,Casa,132,419,7,4,354010
+Jardim Primavera,Casa,108,328,2,6,354240
+Parque Imperial,Apartamento,72,0,4,1,354240
+Parque Imperial,Apartamento,50,0,4,3,354350
+Vila Machado,Apartamento,70,0,3,2,355250
+Veraneio Ijal,Terreno,0,690,0,0,355350
+Villa Branca,Casa,96,400,5,1,356553
+Parque dos Príncipes,Apartamento,57,0,3,2,357703
+Centro,Apartamento,90,0,2,1,358182
+Portal Alvorada,Apartamento,90,0,4,3,360540
+Vila Machado,Casa,87,241,6,4,360876
+Vila Machado,Casa,110,560,5,2,362560
+Portal Alvorada,Apartamento,95,0,2,3,362900
+Jardim São José,Casa,73,252,5,6,363321
+Portal Alvorada,Apartamento,61,0,1,2,363621
+Vila Garcia,Casa,131,525,5,1,363760
+Veraneio Ijal,Apartamento,76,0,3,1,363888
+Centro,Casa,126,493,6,3,364102
+Portal Alvorada,Apartamento,104,0,1,3,364936
+Jardim Primavera,Apartamento,143,0,3,2,364936
+Centro,Apartamento,103,0,2,1,365732
+Cidade Salvador,Apartamento,97,0,3,2,366349
+Centro,Apartamento,64,0,2,1,366713
+Centro,Casa,86,346,4,6,366953
+Jardim Califórnia,Apartamento,125,0,3,3,367375
+Vila Machado,Apartamento,119,0,1,2,367472
+Jardim São José,Apartamento,144,0,4,1,367920
+Portal Alvorada,Terreno,0,353,0,0,368532
+Vila Garcia,Casa,191,235,4,6,369012
+Sunset Garden,Casa,79,521,5,5,369309
+Jardim Califórnia,Apartamento,60,0,1,1,369540
+Jardim América,Terreno,0,618,0,0,369811
+Nova Jacareí,Apartamento,71,0,1,2,370691
+Clube de Campo,Casa,153,389,3,2,370948
+Sunset Garden,Terreno,0,248,0,0,371404
+Centro,Casa,81,553,3,4,371457
+Sunset Garden,Terreno,0,264,0,0,371685
+Centro,Apartamento,48,0,3,2,371764
+Terras de Santa Clara,Casa,101,277,5,2,372791
+Villa Branca,Terreno,0,486,0,0,374657
+Parque dos Príncipes,Apartamento,67,0,1,3,375354
+Veraneio Ijal,Casa,158,246,7,2,375724
+Veraneio Ijal,Apartamento,93,0,1,2,377022
+Veraneio Ijal,Terreno,0,892,0,0,378208
+Jardim América,Terreno,0,597,0,0,378259
+Veraneio Ijal,Casa,129,252,7,1,378357
+Vila Machado,Casa,77,382,5,4,378840
+Parque dos Príncipes,Apartamento,135,0,1,1,378972
+Jardim das Oliveiras,Casa,199,384,6,3,379493
+Villa Branca,Apartamento,71,0,2,3,380460
+Portal Alvorada,Apartamento,62,0,3,2,381610
+Nova Jacareí,Apartamento,59,0,2,3,381671
+Sunset Garden,Casa,74,507,3,5,382010
+Jardim Paraíba,Terreno,0,333,0,0,382284
+Veraneio Ijal,Casa,125,220,2,4,382625
+Jardim das Oliveiras,Apartamento,52,0,2,1,383084
+Jardim Primavera,Apartamento,64,0,4,1,383232
+Jardim Primavera,Casa,175,326,4,4,383250
+Vila Garcia,Apartamento,114,0,1,1,383496
+Jardim Primavera,Apartamento,70,0,2,2,383530
+Villa Branca,Casa,96,375,4,2,383884
+Vila Garcia,Casa,84,324,2,4,384854
+Jardim Paraíba,Casa,151,218,6,2,385654
+Jardim Califórnia,Apartamento,68,0,1,1,386512
+Jardim Primavera,Casa,191,593,6,1,386775
+Centro,Apartamento,60,0,3,3,386826
+Cidade Salvador,Apartamento,75,0,3,3,387000
+Clube de Campo,Apartamento,64,0,3,3,387046
+Vila Garcia,Casa,166,556,6,5,388174
+Vila Garcia,Casa,129,207,3,5,388444
+Centro,Apartamento,67,0,4,1,388472
+Sunset Garden,Apartamento,71,0,3,3,388490
+Jardim Primavera,Apartamento,74,0,4,2,390202
+Jardim Califórnia,Casa,89,559,6,1,390354
+Jardim Esperança,Apartamento,153,0,1,3,390762
+Cidade Salvador,Apartamento,110,0,4,1,391688
+Jardim Califórnia,Casa,159,526,4,1,391935
+Jardim América,Apartamento,48,0,2,3,392990
+Clube de Campo,Casa,80,379,5,5,393432
+Jardim Paraíba,Terreno,0,1032,0,0,394224
+Vila Garcia,Terreno,0,434,0,0,395460
+Clube de Campo,Apartamento,78,0,4,1,396474
+Vila Machado,Casa,74,277,6,4,399230
+Villa Branca,Terreno,0,401,0,0,399315
+Veraneio Ijal,Casa,101,392,4,1,399455
+Jardim Paraíba,Casa,95,561,5,4,399665
+Jardim das Oliveiras,Apartamento,150,0,2,3,399900
+Cidade Salvador,Apartamento,176,0,2,1,400153
+Vila Garcia,Apartamento,136,0,4,1,400492
+Nova Jacareí,Apartamento,140,0,3,2,400540
+Jardim América,Casa,89,437,7,4,400704
+Portal Alvorada,Casa,77,591,6,6,401324
+Parque Imperial,Terreno,0,299,0,0,401557
+Jardim Primavera,Terreno,0,568,0,0,402712
+Terras de Santa Clara,Casa,111,459,6,5,403041
+Villa Branca,Apartamento,108,0,4,2,403369
+Jardim Primavera,Apartamento,104,0,1,2,403624
+Parque dos Príncipes,Apartamento,86,0,3,2,406117
+Jardim das Oliveiras,Casa,207,421,6,1,406341
+Nova Jacareí,Casa,112,215,3,6,407120
+Vila Machado,Casa,97,580,2,2,408273
+Parque dos Príncipes,Apartamento,109,0,4,2,408499
+Nova Jacareí,Apartamento,154,0,2,2,408562
+Cidade Salvador,Casa,167,234,2,3,409083
+Parque Imperial,Apartamento,80,0,3,3,409680
+Terras de Santa Clara,Casa,81,558,4,2,409941
+Jardim América,Casa,197,379,4,6,411296
+Nova Jacareí,Apartamento,128,0,3,2,413312
+Parque Imperial,Terreno,0,467,0,0,413762
+Clube de Campo,Apartamento,51,0,1,1,413778
+Parque Imperial,Casa,155,531,2,3,414315
+Nova Jacareí,Apartamento,72,0,3,2,414504
+Jardim Paraíba,Apartamento,128,0,1,2,415488
+Jardim São José,Casa,79,440,7,5,415935
+Terras de Santa Clara,Apartamento,92,0,1,2,416024
+Jardim Paraíba,Apartamento,139,0,2,3,416027
+Centro,Apartamento,64,0,4,1,417190
+Parque Imperial,Terreno,0,1045,0,0,418000
+Jardim Califórnia,Terreno,0,501,0,0,418335
+Veraneio Ijal,Casa,168,523,7,4,418824
+Jardim Primavera,Casa,140,204,2,6,420980
+Jardim das Oliveiras,Casa,109,574,3,5,421939
+Vila Machado,Casa,92,414,5,2,422004
+Jardim Paraíba,Apartamento,65,0,1,3,422305
+Jardim América,Casa,155,545,6,4,422669
+Terras de Santa Clara,Apartamento,57,0,2,2,423396
+Parque Imperial,Casa,137,464,3,3,423878
+Jardim Califórnia,Apartamento,61,0,2,1,424682
+Jardim Califórnia,Apartamento,139,0,1,3,424923
+Clube de Campo,Apartamento,50,0,4,3,425880
+Parque Imperial,Casa,112,284,2,2,426048
+Cidade Salvador,Casa,162,418,7,5,427161
+Vila Machado,Apartamento,94,0,1,3,428170
+Jardim Primavera,Apartamento,90,0,2,2,428940
+Vila Garcia,Casa,102,474,6,5,429460
+Nova Jacareí,Apartamento,77,0,1,2,429506
+Jardim São José,Casa,120,288,6,5,430320
+Parque dos Príncipes,Casa,112,425,2,1,430830
+Jardim Califórnia,Casa,153,518,2,1,431001
+Portal Alvorada,Casa,158,595,6,5,431340
+Parque dos Príncipes,Apartamento,143,0,1,2,431631
+Nova Jacareí,Casa,167,229,4,4,432697
+Jardim São José,Terreno,0,386,0,0,432706
+Parque Imperial,Apartamento,99,0,3,2,432729
+Jardim América,Casa,125,466,4,1,432987
+Jardim São José,Apartamento,89,0,1,2,433163
+Terras de Santa Clara,Apartamento,73,0,1,2,433693
+Jardim das Oliveiras,Apartamento,108,0,2,1,433728
+Centro,Apartamento,82,0,2,2,433862
+Cidade Salvador,Casa,94,546,6,4,434054
+Parque dos Príncipes,Apartamento,155,0,4,1,434093
+Clube de Campo,Apartamento,130,0,3,1,434330
+Sunset Garden,Casa,115,325,5,5,434596
+Vila Machado,Casa,205,283,4,3,434600
+Jardim Paraíba,Apartamento,140,0,2,2,435680
+Jardim América,Apartamento,83,0,3,2,436322
+Cidade Salvador,Casa,197,236,2,6,437655
+Portal Alvorada,Apartamento,160,0,3,1,438080
+Clube de Campo,Casa,169,206,4,4,438960
+Terras de Santa Clara,Apartamento,111,0,2,2,439227
+Portal Alvorada,Apartamento,164,0,1,2,440832
+Parque Imperial,Casa,134,432,4,5,440860
+Centro,Casa,99,207,3,1,440936
+Clube de Campo,Apartamento,49,0,2,2,441950
+Parque Imperial,Apartamento,118,0,3,3,443090
+Parque dos Príncipes,Apartamento,101,0,4,1,443844
+Jardim Primavera,Casa,134,412,6,4,444076
+Portal Alvorada,Casa,242,406,7,5,444796
+Parque dos Príncipes,Apartamento,73,0,3,1,445905
+Vila Machado,Casa,243,547,3,2,446148
+Veraneio Ijal,Apartamento,110,0,1,2,447040
+Parque dos Príncipes,Casa,197,452,2,3,447052
+Sunset Garden,Apartamento,55,0,2,2,447161
+Portal Alvorada,Terreno,0,952,0,0,447440
+Jardim Primavera,Casa,207,340,5,3,447534
+Terras de Santa Clara,Casa,82,557,5,2,447638
+Cidade Salvador,Apartamento,116,0,1,2,447667
+Jardim América,Apartamento,63,0,4,2,447747
+Jardim Paraíba,Terreno,0,987,0,0,449085
+Veraneio Ijal,Casa,205,443,2,2,449360
+Portal Alvorada,Casa,85,217,5,3,450160
+Jardim Esperança,Apartamento,160,0,3,1,451040
+Vila Machado,Apartamento,87,0,2,2,451356
+Nova Jacareí,Casa,119,550,3,3,451962
+Centro,Apartamento,148,0,1,2,452095
+Cidade Salvador,Casa,128,204,4,1,452096
+Veraneio Ijal,Apartamento,78,0,4,3,452244
+Jardim das Oliveiras,Casa,192,317,3,3,453696
+Jardim São José,Apartamento,123,0,4,2,454485
+Jardim São José,Casa,99,328,7,1,454608
+Sunset Garden,Apartamento,67,0,4,3,455445
+Jardim Califórnia,Terreno,0,440,0,0,455840
+Jardim São José,Apartamento,109,0,2,3,455947
+Veraneio Ijal,Casa,89,331,3,5,456036
+Veraneio Ijal,Casa,134,548,6,6,456404
+Cidade Salvador,Apartamento,77,0,2,3,456825
+Portal Alvorada,Casa,131,563,3,6,456928
+Terras de Santa Clara,Apartamento,125,0,1,1,457375
+Jardim Primavera,Apartamento,169,0,1,2,457483
+Jardim Califórnia,Casa,124,435,2,4,459172
+Villa Branca,Apartamento,72,0,3,3,459295
+Veraneio Ijal,Terreno,0,1003,0,0,459374
+Jardim Primavera,Casa,169,558,2,6,459511
+Villa Branca,Apartamento,119,0,2,2,459768
+Cidade Salvador,Casa,298,292,6,2,460588
+Jardim América,Terreno,0,418,0,0,461639
+Sunset Garden,Casa,133,218,2,2,462161
+Nova Jacareí,Apartamento,140,0,3,3,462420
+Centro,Apartamento,130,0,4,3,462462
+Villa Branca,Casa,93,208,2,2,463772
+Jardim São José,Casa,99,285,3,3,463914
+Portal Alvorada,Apartamento,78,0,1,2,463944
+Vila Garcia,Terreno,0,912,0,0,464025
+Terras de Santa Clara,Apartamento,69,0,2,3,464646
+Jardim das Oliveiras,Apartamento,125,0,1,3,464875
+Jardim Primavera,Apartamento,91,0,3,2,465010
+Cidade Salvador,Apartamento,164,0,2,2,465235
+Jardim São José,Casa,171,292,7,3,466146
+Terras de Santa Clara,Apartamento,108,0,3,3,466236
+Vila Machado,Casa,173,202,7,2,467792
+Jardim Paraíba,Casa,85,373,5,6,467840
+Jardim Paraíba,Casa,112,389,7,1,468160
+Vila Garcia,Apartamento,150,0,4,1,468720
+Parque dos Príncipes,Apartamento,78,0,4,2,469240
+Terras de Santa Clara,Apartamento,176,0,3,3,469920
+Terras de Santa Clara,Terreno,0,642,0,0,472512
+Villa Branca,Casa,102,411,3,3,472719
+Jardim Esperança,Casa,113,423,6,5,473470
+Terras de Santa Clara,Apartamento,85,0,3,3,473790
+Jardim Primavera,Casa,215,330,6,6,474075
+Vila Garcia,Casa,306,573,5,5,474177
+Jardim Paraíba,Apartamento,122,0,2,2,474580
+Jardim Paraíba,Casa,151,453,6,3,474593
+Jardim São José,Casa,257,588,4,2,475964
+Veraneio Ijal,Apartamento,72,0,2,3,476496
+Villa Branca,Casa,128,545,6,3,476902
+Jardim América,Casa,86,214,2,3,478297
+Terras de Santa Clara,Apartamento,148,0,3,2,478632
+Vila Garcia,Casa,241,465,4,1,478915
+Terras de Santa Clara,Casa,139,306,6,1,478994
+Centro,Casa,107,589,2,6,479745
+Centro,Apartamento,61,0,2,2,479899
+Veraneio Ijal,Casa,190,327,2,3,480510
+Jardim América,Terreno,0,490,0,0,480788
+Cidade Salvador,Casa,158,441,6,2,481204
+Vila Garcia,Terreno,0,638,0,0,481307
+Vila Garcia,Casa,162,508,6,5,481334
+Centro,Apartamento,121,0,3,2,481688
+Sunset Garden,Apartamento,76,0,4,2,483033
+Portal Alvorada,Terreno,0,622,0,0,483294
+Villa Branca,Apartamento,90,0,1,1,483444
+Parque Imperial,Apartamento,142,0,3,3,484078
+Cidade Salvador,Apartamento,103,0,3,1,484759
+Sunset Garden,Casa,198,221,7,1,484941
+Terras de Santa Clara,Casa,134,220,5,4,484946
+Jardim América,Terreno,0,686,0,0,485207
+Terras de Santa Clara,Terreno,0,1174,0,0,486036
+Vila Garcia,Apartamento,147,0,2,2,486511
+Portal Alvorada,Apartamento,70,0,3,2,486640
+Parque Imperial,Apartamento,93,0,1,2,487227
+Clube de Campo,Casa,201,210,4,3,487324
+Vila Garcia,Casa,198,338,6,4,488030
+Terras de Santa Clara,Apartamento,81,0,1,2,489078
+Jardim Califórnia,Casa,162,390,3,5,489240
+Vila Machado,Casa,267,595,5,6,489411
+Jardim Califórnia,Casa,151,489,4,4,491203
+Centro,Apartamento,109,0,4,1,491470
+Clube de Campo,Casa,89,514,6,5,492072
+Jardim América,Casa,161,414,6,3,492338
+Vila Garcia,Apartamento,145,0,2,1,493696
+Vila Machado,Casa,121,336,3,5,493801
+Veraneio Ijal,Casa,169,322,2,4,494663
+Parque dos Príncipes,Casa,94,406,6,6,494975
+Villa Branca,Apartamento,90,0,4,1,495144
+Jardim São José,Apartamento,98,0,1,2,495292
+Parque dos Príncipes,Apartamento,115,0,2,3,495753
+Centro,Casa,150,200,7,2,496320
+Portal Alvorada,Casa,275,516,7,5,496375
+Centro,Casa,163,389,4,4,496661
+Jardim São José,Apartamento,89,0,4,2,496709
+Jardim das Oliveiras,Casa,157,464,3,2,496905
+Parque dos Príncipes,Casa,210,434,6,3,497112
+Jardim Esperança,Apartamento,127,0,4,1,497713
+Jardim América,Casa,87,221,3,3,497831
+Jardim América,Casa,163,498,6,4,498454
+Portal Alvorada,Apartamento,68,0,2,1,498508
+Parque Imperial,Casa,157,283,6,4,498632
+Vila Machado,Apartamento,149,0,4,1,498852
+Portal Alvorada,Casa,151,513,5,2,498904
+Jardim Califórnia,Terreno,0,770,0,0,498960
+Jardim Primavera,Casa,107,293,4,5,499048
+Villa Branca,Apartamento,83,0,3,1,499577
+Centro,Apartamento,62,0,2,2,500247
+Cidade Salvador,Casa,317,511,5,2,501113
+Parque dos Príncipes,Apartamento,112,0,4,3,502040
+Villa Branca,Apartamento,56,0,4,2,502174
+Veraneio Ijal,Casa,200,374,7,3,502200
+Centro,Apartamento,115,0,4,1,502331
+Sunset Garden,Casa,109,416,6,5,502468
+Terras de Santa Clara,Apartamento,94,0,2,2,503652
+Parque dos Príncipes,Casa,233,380,2,5,504654
+Parque Imperial,Apartamento,80,0,3,1,505120
+Jardim das Oliveiras,Casa,120,377,6,6,506280
+Jardim São José,Apartamento,147,0,1,1,506415
+Parque Imperial,Casa,148,341,7,5,506900
+Jardim Califórnia,Casa,107,250,7,2,506966
+Centro,Apartamento,158,0,1,1,506974
+Clube de Campo,Terreno,0,683,0,0,506990
+Jardim América,Apartamento,144,0,2,1,508780
+Parque Imperial,Apartamento,147,0,1,3,510237
+Vila Machado,Terreno,0,348,0,0,510516
+Jardim Paraíba,Casa,112,414,3,3,512064
+Jardim Esperança,Casa,118,309,3,3,512238
+Sunset Garden,Apartamento,140,0,1,2,512330
+Cidade Salvador,Apartamento,151,0,2,3,512796
+Vila Garcia,Apartamento,100,0,2,2,512960
+Jardim Esperança,Casa,124,267,2,5,513484
+Jardim América,Casa,105,315,2,1,514090
+Terras de Santa Clara,Apartamento,122,0,3,1,515206
+Centro,Apartamento,120,0,1,1,515328
+Jardim Primavera,Casa,206,513,5,5,516030
+Nova Jacareí,Apartamento,87,0,2,1,516693
+Jardim Primavera,Apartamento,77,0,4,1,516978
+Veraneio Ijal,Casa,191,511,3,2,517992
+Terras de Santa Clara,Apartamento,75,0,1,1,518025
+Villa Branca,Apartamento,57,0,1,3,518625
+Cidade Salvador,Casa,190,595,5,4,519080
+Cidade Salvador,Casa,151,307,5,1,519198
+Jardim Califórnia,Apartamento,129,0,4,1,519225
+Vila Machado,Casa,117,414,6,6,519714
+Centro,Apartamento,74,0,4,1,519983
+Terras de Santa Clara,Apartamento,81,0,3,2,520182
+Parque Imperial,Casa,174,306,4,1,520434
+Sunset Garden,Casa,120,414,3,2,520572
+Cidade Salvador,Casa,136,328,4,2,521152
+Jardim São José,Terreno,0,808,0,0,521160
+Jardim das Oliveiras,Apartamento,91,0,3,2,522158
+Cidade Salvador,Terreno,0,702,0,0,522288
+Jardim São José,Apartamento,144,0,3,1,523296
+Nova Jacareí,Casa,263,206,4,4,523896
+Parque Imperial,Apartamento,78,0,1,2,524238
+Jardim Primavera,Apartamento,142,0,4,1,524264
+Nova Jacareí,Casa,254,335,2,3,524510
+Jardim Califórnia,Casa,107,503,4,3,525584
+Vila Garcia,Apartamento,117,0,3,3,525657
+Villa Branca,Terreno,0,975,0,0,526012
+Cidade Salvador,Casa,232,423,2,3,526176
+Veraneio Ijal,Casa,119,513,5,1,526575
+Jardim das Oliveiras,Apartamento,73,0,2,3,526768
+Terras de Santa Clara,Casa,114,414,3,2,526908
+Terras de Santa Clara,Casa,103,298,6,6,527257
+Vila Machado,Casa,198,283,5,2,527472
+Vila Garcia,Casa,291,338,5,4,527524
+Parque Imperial,Apartamento,79,0,3,1,527878
+Jardim São José,Casa,211,414,6,3,528344
+Clube de Campo,Apartamento,134,0,3,1,528697
+Clube de Campo,Apartamento,121,0,3,3,530101
+Portal Alvorada,Apartamento,109,0,2,1,530503
+Clube de Campo,Casa,133,541,3,3,531494
+Portal Alvorada,Casa,191,542,3,1,531553
+Vila Garcia,Apartamento,94,0,1,2,531964
+Vila Machado,Casa,131,254,3,2,532384
+Veraneio Ijal,Apartamento,96,0,3,1,532992
+Jardim América,Terreno,0,501,0,0,533464
+Veraneio Ijal,Casa,138,309,3,4,534198
+Jardim Esperança,Casa,145,327,2,1,534615
+Nova Jacareí,Casa,129,559,3,3,535608
+Jardim das Oliveiras,Apartamento,100,0,1,2,535700
+Jardim das Oliveiras,Apartamento,94,0,4,3,535800
+Parque Imperial,Apartamento,97,0,3,1,536992
+Vila Machado,Casa,264,496,5,2,537240
+Portal Alvorada,Apartamento,88,0,2,2,537328
+Parque Imperial,Casa,258,452,4,6,537672
+Jardim Paraíba,Apartamento,135,0,3,1,538110
+Jardim Califórnia,Apartamento,163,0,4,3,539041
+Jardim América,Apartamento,67,0,3,2,539705
+Jardim Paraíba,Apartamento,141,0,2,1,540453
+Nova Jacareí,Casa,92,360,3,3,540960
+Clube de Campo,Apartamento,71,0,4,2,540970
+Jardim Califórnia,Casa,111,308,3,4,541125
+Jardim São José,Apartamento,118,0,2,2,541266
+Clube de Campo,Apartamento,64,0,1,2,541548
+Terras de Santa Clara,Casa,227,493,5,3,542757
+Jardim São José,Casa,130,512,2,3,543010
+Nova Jacareí,Casa,159,572,3,1,543780
+Jardim Califórnia,Casa,292,467,4,2,543996
+Jardim Paraíba,Casa,103,517,3,3,544870
+Terras de Santa Clara,Terreno,0,380,0,0,545300
+Centro,Apartamento,99,0,1,2,546460
+Centro,Apartamento,117,0,1,3,546460
+Jardim São José,Casa,108,227,5,3,546696
+Villa Branca,Terreno,0,624,0,0,546748
+Clube de Campo,Casa,167,308,4,2,547309
+Cidade Salvador,Apartamento,123,0,1,3,549662
+Jardim América,Apartamento,120,0,1,2,551232
+Villa Branca,Apartamento,75,0,4,2,551362
+Jardim São José,Casa,245,317,5,3,551495
+Jardim São José,Apartamento,83,0,2,1,551535
+Clube de Campo,Apartamento,75,0,4,3,551655
+Parque dos Príncipes,Casa,270,200,5,1,552420
+Nova Jacareí,Casa,271,285,7,6,552569
+Jardim das Oliveiras,Apartamento,90,0,1,2,553050
+Jardim Primavera,Casa,166,245,6,6,553444
+Vila Machado,Apartamento,88,0,1,2,553608
+Centro,Terreno,0,883,0,0,553641
+Parque dos Príncipes,Casa,269,244,7,5,553924
+Sunset Garden,Casa,149,415,6,5,553982
+Jardim São José,Casa,223,319,7,1,554155
+Portal Alvorada,Casa,136,391,4,1,555968
+Parque Imperial,Casa,118,525,5,3,556606
+Portal Alvorada,Casa,131,416,5,1,556619
+Veraneio Ijal,Casa,304,554,5,2,556928
+Jardim Califórnia,Casa,205,300,3,1,556985
+Portal Alvorada,Apartamento,144,0,1,3,556992
+Jardim das Oliveiras,Casa,207,494,5,6,557244
+Jardim das Oliveiras,Casa,237,548,6,2,557898
+Jardim América,Apartamento,108,0,1,2,559429
+Jardim Paraíba,Apartamento,100,0,1,1,559500
+Parque Imperial,Apartamento,94,0,2,3,559770
+Jardim São José,Casa,109,395,3,1,560042
+Parque dos Príncipes,Terreno,0,574,0,0,560051
+Sunset Garden,Apartamento,127,0,1,2,560184
+Sunset Garden,Casa,88,536,4,1,560445
+Parque dos Príncipes,Casa,244,296,2,1,560956
+Terras de Santa Clara,Casa,148,503,6,6,561068
+Vila Machado,Apartamento,77,0,4,2,561176
+Jardim América,Terreno,0,818,0,0,561475
+Parque Imperial,Casa,280,375,3,5,561680
+Vila Garcia,Casa,144,527,5,5,562521
+Jardim Califórnia,Apartamento,95,0,3,2,562590
+Jardim Califórnia,Apartamento,151,0,2,3,562928
+Vila Garcia,Casa,165,321,6,5,563244
+Vila Machado,Apartamento,112,0,4,3,564032
+Veraneio Ijal,Casa,297,521,3,5,564300
+Terras de Santa Clara,Casa,191,520,2,2,565933
+Sunset Garden,Casa,157,357,3,1,566173
+Jardim Primavera,Apartamento,114,0,3,1,566808
+Centro,Casa,87,328,3,2,567213
+Jardim Esperança,Terreno,0,756,0,0,567756
+Jardim Esperança,Casa,144,302,7,6,567792
+Jardim América,Apartamento,109,0,4,1,567966
+Parque dos Príncipes,Apartamento,98,0,1,3,567998
+Portal Alvorada,Casa,143,576,6,2,568568
+Jardim Califórnia,Casa,249,379,3,4,569961
+Clube de Campo,Apartamento,145,0,2,3,570024
+Veraneio Ijal,Casa,201,206,7,5,570237
+Veraneio Ijal,Casa,118,215,5,6,571474
+Vila Machado,Apartamento,97,0,4,3,571524
+Terras de Santa Clara,Apartamento,144,0,1,1,571536
+Villa Branca,Terreno,0,309,0,0,571619
+Cidade Salvador,Casa,192,295,2,5,571852
+Jardim Primavera,Apartamento,96,0,1,3,572160
+Jardim Primavera,Apartamento,111,0,4,3,573204
+Parque dos Príncipes,Terreno,0,593,0,0,575980
+Jardim Primavera,Apartamento,162,0,4,3,576558
+Jardim Primavera,Casa,109,216,3,2,577155
+Sunset Garden,Apartamento,87,0,2,3,577827
+Jardim América,Apartamento,146,0,1,2,578160
+Centro,Casa,154,381,7,6,580025
+Veraneio Ijal,Apartamento,109,0,4,2,580098
+Centro,Casa,152,428,2,6,580351
+Clube de Campo,Apartamento,163,0,2,3,580394
+Nova Jacareí,Terreno,0,524,0,0,581640
+Jardim Califórnia,Apartamento,90,0,4,2,581760
+Jardim Paraíba,Casa,215,436,7,6,581790
+Jardim Paraíba,Terreno,0,671,0,0,582428
+Parque dos Príncipes,Casa,284,453,6,1,585750
+Jardim Califórnia,Casa,192,371,6,1,586560
+Portal Alvorada,Apartamento,108,0,2,3,587412
+Vila Machado,Apartamento,128,0,1,2,587904
+Veraneio Ijal,Apartamento,121,0,3,2,588423
+Jardim Califórnia,Casa,184,258,4,3,588432
+Terras de Santa Clara,Terreno,0,1055,0,0,588690
+Jardim São José,Casa,259,296,4,1,588707
+Centro,Apartamento,118,0,1,2,589032
+Villa Branca,Casa,179,596,3,6,590127
+Parque dos Príncipes,Casa,231,486,4,2,590274
+Jardim Primavera,Casa,144,505,5,2,590544
+Jardim Esperança,Casa,228,512,5,5,590748
+Parque Imperial,Casa,256,266,2,5,591104
+Jardim das Oliveiras,Apartamento,127,0,3,1,591185
+Jardim São José,Apartamento,168,0,2,2,591192
+Jardim Califórnia,Apartamento,160,0,1,1,591520
+Nova Jacareí,Casa,148,396,4,6,591852
+Jardim São José,Casa,203,583,3,4,592151
+Sunset Garden,Apartamento,171,0,4,3,593763
+Veraneio Ijal,Terreno,0,432,0,0,594000
+Jardim América,Apartamento,84,0,1,2,594039
+Terras de Santa Clara,Apartamento,92,0,2,2,594780
+Centro,Casa,154,342,7,5,594932
+Jardim Califórnia,Terreno,0,475,0,0,595175
+Sunset Garden,Casa,140,300,5,3,595322
+Portal Alvorada,Apartamento,148,0,4,2,595404
+Jardim Primavera,Apartamento,156,0,3,1,596232
+Cidade Salvador,Apartamento,102,0,3,2,596251
+Veraneio Ijal,Apartamento,93,0,1,2,597246
+Portal Alvorada,Apartamento,118,0,4,2,599204
+Veraneio Ijal,Casa,333,360,2,3,599400
+Jardim Primavera,Casa,120,588,3,3,599400
+Jardim América,Casa,120,503,2,6,599544
+Jardim Paraíba,Apartamento,112,0,4,3,600096
+Parque Imperial,Apartamento,146,0,2,1,600644
+Centro,Casa,108,446,2,6,601009
+Jardim Califórnia,Casa,163,386,7,3,601144
+Terras de Santa Clara,Casa,301,576,3,1,602602
+Parque Imperial,Casa,155,526,3,6,603105
+Jardim Esperança,Apartamento,114,0,1,2,603174
+Vila Machado,Apartamento,131,0,4,3,603386
+Jardim América,Terreno,0,1035,0,0,603405
+Clube de Campo,Terreno,0,379,0,0,603557
+Nova Jacareí,Casa,249,371,5,1,603576
+Jardim América,Casa,280,258,6,2,603988
+Vila Garcia,Apartamento,128,0,3,2,605286
+Terras de Santa Clara,Casa,195,449,3,4,606645
+Jardim das Oliveiras,Casa,276,360,4,5,607200
+Jardim América,Apartamento,98,0,1,2,607237
+Veraneio Ijal,Casa,241,347,6,6,607320
+Vila Machado,Casa,222,287,7,6,607836
+Terras de Santa Clara,Terreno,0,415,0,0,607975
+Sunset Garden,Casa,111,591,4,3,608224
+Parque Imperial,Apartamento,165,0,1,2,608355
+Centro,Casa,295,535,6,1,609411
+Terras de Santa Clara,Casa,133,453,7,3,611002
+Cidade Salvador,Apartamento,130,0,2,1,611104
+Jardim São José,Apartamento,111,0,2,1,611832
+Sunset Garden,Casa,160,265,6,2,612144
+Terras de Santa Clara,Casa,112,204,5,5,613312
+Jardim Esperança,Casa,140,447,6,2,613340
+Cidade Salvador,Apartamento,138,0,2,2,614044
+Sunset Garden,Apartamento,69,0,4,3,614086
+Centro,Casa,110,493,2,3,614801
+Portal Alvorada,Casa,191,423,5,5,615211
+Veraneio Ijal,Terreno,0,418,0,0,615714
+Jardim Califórnia,Casa,104,213,5,4,615888
+Vila Machado,Casa,214,542,6,1,615892
+Jardim Paraíba,Casa,158,406,7,2,616990
+Terras de Santa Clara,Terreno,0,496,0,0,617024
+Vila Garcia,Apartamento,170,0,4,1,617168
+Jardim das Oliveiras,Casa,168,424,2,3,617904
+Veraneio Ijal,Terreno,0,873,0,0,618084
+Parque dos Príncipes,Apartamento,169,0,3,2,618489
+Terras de Santa Clara,Casa,172,453,3,5,618684
+Nova Jacareí,Casa,169,532,2,3,620568
+Clube de Campo,Apartamento,118,0,3,1,622957
+Clube de Campo,Apartamento,126,0,1,2,623095
+Veraneio Ijal,Casa,284,501,3,5,623380
+Sunset Garden,Apartamento,168,0,4,1,625060
+Portal Alvorada,Casa,153,224,5,1,625311
+Jardim Primavera,Casa,179,219,3,3,625426
+Vila Garcia,Casa,250,342,4,2,625800
+Parque Imperial,Casa,268,584,6,5,626316
+Vila Garcia,Casa,417,204,4,6,626834
+Villa Branca,Apartamento,165,0,3,2,627198
+Vila Garcia,Terreno,0,1029,0,0,627278
+Centro,Apartamento,123,0,2,1,627521
+Sunset Garden,Casa,209,337,5,5,628170
+Cidade Salvador,Casa,376,205,5,5,628371
+Jardim São José,Casa,244,582,5,2,628544
+Jardim Paraíba,Terreno,0,429,0,0,629343
+Jardim Paraíba,Casa,179,432,2,5,629543
+Clube de Campo,Casa,193,403,3,6,630009
+Terras de Santa Clara,Apartamento,162,0,4,3,630504
+Portal Alvorada,Casa,176,258,3,3,630608
+Jardim das Oliveiras,Casa,140,487,2,2,632800
+Jardim Primavera,Casa,127,273,5,2,633095
+Jardim São José,Terreno,0,769,0,0,633656
+Vila Garcia,Apartamento,136,0,3,1,633977
+Jardim Califórnia,Casa,153,392,7,6,635409
+Sunset Garden,Casa,89,224,7,4,636002
+Portal Alvorada,Apartamento,107,0,1,2,636222
+Terras de Santa Clara,Casa,119,479,2,1,636293
+Parque dos Príncipes,Apartamento,155,0,3,1,636306
+Veraneio Ijal,Casa,181,231,2,6,636396
+Cidade Salvador,Apartamento,147,0,2,2,636568
+Villa Branca,Casa,113,507,3,4,636664
+Jardim Paraíba,Terreno,0,533,0,0,638534
+Jardim Califórnia,Casa,264,493,2,4,639144
+Parque dos Príncipes,Apartamento,103,0,1,1,641051
+Jardim Califórnia,Terreno,0,1159,0,0,642086
+Parque dos Príncipes,Casa,115,261,5,1,642746
+Terras de Santa Clara,Terreno,0,776,0,0,644080
+Terras de Santa Clara,Casa,184,356,6,2,644552
+Veraneio Ijal,Casa,326,315,7,1,645154
+Terras de Santa Clara,Casa,302,225,6,3,645374
+Villa Branca,Apartamento,130,0,4,1,645580
+Jardim Primavera,Apartamento,149,0,4,1,646064
+Villa Branca,Casa,217,295,3,1,646291
+Vila Machado,Casa,124,279,6,4,647032
+Nova Jacareí,Apartamento,149,0,1,3,647107
+Jardim Primavera,Casa,290,452,6,5,647570
+Jardim Califórnia,Casa,352,305,4,6,648032
+Villa Branca,Apartamento,121,0,1,2,649491
+Veraneio Ijal,Apartamento,152,0,3,2,650408
+Portal Alvorada,Apartamento,137,0,2,2,650613
+Jardim das Oliveiras,Apartamento,103,0,3,3,650857
+Parque dos Príncipes,Casa,110,348,4,1,650980
+Vila Garcia,Casa,148,434,7,4,651318
+Portal Alvorada,Casa,137,218,6,2,652257
+Nova Jacareí,Casa,120,238,5,1,652320
+Centro,Apartamento,93,0,1,1,652980
+Villa Branca,Apartamento,80,0,4,1,653016
+Nova Jacareí,Apartamento,113,0,3,3,655061
+Clube de Campo,Apartamento,147,0,1,2,656619
+Jardim Primavera,Apartamento,137,0,2,1,657463
+Parque dos Príncipes,Casa,213,328,3,2,657680
+Jardim América,Apartamento,100,0,1,1,657690
+Jardim Paraíba,Apartamento,144,0,3,3,658656
+Jardim Paraíba,Apartamento,127,0,1,1,659638
+Parque dos Príncipes,Apartamento,103,0,1,2,662125
+Cidade Salvador,Casa,338,517,3,6,662209
+Villa Branca,Casa,113,278,5,5,662665
+Parque dos Príncipes,Casa,136,567,4,4,665121
+Jardim das Oliveiras,Casa,216,556,6,1,665712
+Nova Jacareí,Apartamento,173,0,1,3,667088
+Jardim América,Casa,308,333,6,6,668113
+Parque Imperial,Casa,247,592,4,5,668135
+Jardim Primavera,Apartamento,94,0,4,2,668434
+Nova Jacareí,Casa,218,201,4,5,669696
+Vila Garcia,Casa,207,365,3,5,670348
+Vila Machado,Casa,186,419,4,6,670716
+Centro,Casa,188,221,4,5,670859
+Vila Garcia,Casa,370,559,5,6,671032
+Centro,Apartamento,123,0,1,1,671088
+Cidade Salvador,Apartamento,172,0,4,2,672038
+Jardim Primavera,Apartamento,102,0,3,2,673098
+Jardim Primavera,Casa,131,511,7,3,673733
+Jardim Esperança,Casa,349,434,7,5,674268
+Jardim Primavera,Apartamento,113,0,4,2,674271
+Cidade Salvador,Casa,203,586,5,2,674447
+Jardim Esperança,Terreno,0,727,0,0,674656
+Terras de Santa Clara,Terreno,0,1043,0,0,674821
+Veraneio Ijal,Casa,340,527,3,5,674900
+Nova Jacareí,Casa,216,452,5,1,675864
+Jardim Paraíba,Casa,251,589,4,1,675943
+Centro,Terreno,0,744,0,0,675998
+Jardim Esperança,Apartamento,109,0,3,2,676236
+Parque dos Príncipes,Apartamento,165,0,3,1,676450
+Jardim América,Casa,319,280,3,3,677587
+Jardim São José,Apartamento,119,0,2,3,679371
+Nova Jacareí,Casa,346,542,2,3,679544
+Villa Branca,Terreno,0,496,0,0,679619
+Jardim Califórnia,Casa,156,502,6,5,681408
+Clube de Campo,Apartamento,71,0,4,1,682373
+Jardim Esperança,Casa,119,478,5,2,682822
+Veraneio Ijal,Casa,329,572,3,6,683333
+Cidade Salvador,Casa,320,425,5,2,683776
+Jardim Primavera,Casa,230,284,7,3,684250
+Jardim Esperança,Casa,140,238,5,2,686560
+Villa Branca,Apartamento,92,0,1,1,687102
+Villa Branca,Apartamento,128,0,4,2,687232
+Centro,Casa,242,466,5,3,687860
+Veraneio Ijal,Casa,127,370,3,3,688721
+Jardim São José,Casa,174,410,7,1,689214
+Nova Jacareí,Casa,295,507,4,2,690005
+Veraneio Ijal,Casa,199,250,6,6,691127
+Jardim América,Terreno,0,890,0,0,691174
+Jardim Califórnia,Casa,385,427,2,2,694540
+Jardim América,Apartamento,100,0,1,1,694760
+Jardim Primavera,Apartamento,97,0,3,2,695878
+Terras de Santa Clara,Casa,368,509,2,1,696624
+Jardim América,Terreno,0,1144,0,0,697153
+Jardim Paraíba,Casa,288,292,7,4,697824
+Vila Machado,Casa,273,408,2,5,698061
+Villa Branca,Casa,112,515,6,1,700044
+Vila Garcia,Casa,342,347,3,1,700689
+Jardim Esperança,Apartamento,101,0,1,2,701344
+Parque dos Príncipes,Casa,137,520,5,5,702412
+Jardim São José,Casa,312,202,7,6,702936
+Nova Jacareí,Apartamento,118,0,1,1,703398
+Jardim América,Apartamento,166,0,3,1,703557
+Vila Garcia,Casa,190,437,2,6,704520
+Sunset Garden,Casa,174,377,2,1,705517
+Jardim Paraíba,Casa,120,239,4,6,705960
+Jardim Esperança,Casa,195,393,4,5,706485
+Villa Branca,Apartamento,107,0,1,3,707184
+Vila Garcia,Casa,328,308,3,3,707430
+Sunset Garden,Terreno,0,371,0,0,707534
+Cidade Salvador,Apartamento,127,0,2,3,707948
+Parque Imperial,Apartamento,162,0,1,1,708912
+Vila Machado,Casa,365,270,6,2,709195
+Jardim das Oliveiras,Casa,257,479,6,3,709320
+Jardim Paraíba,Casa,188,371,5,1,709512
+Cidade Salvador,Casa,154,434,3,1,710248
+Jardim Paraíba,Casa,331,438,6,6,710326
+Parque dos Príncipes,Casa,175,463,5,2,710710
+Sunset Garden,Apartamento,149,0,2,1,710879
+Jardim Primavera,Casa,296,554,2,4,710992
+Veraneio Ijal,Casa,299,247,6,5,712218
+Jardim Califórnia,Casa,193,224,6,5,712749
+Nova Jacareí,Casa,269,364,7,1,712850
+Jardim América,Casa,176,270,3,4,713028
+Jardim América,Casa,110,350,3,5,713174
+Centro,Apartamento,128,0,4,3,713715
+Jardim Esperança,Casa,128,364,2,6,714368
+Sunset Garden,Casa,196,370,3,4,717007
+Vila Machado,Casa,185,451,7,4,717245
+Sunset Garden,Casa,296,254,2,6,718421
+Jardim América,Casa,109,375,5,3,718920
+Jardim das Oliveiras,Apartamento,159,0,2,1,719157
+Jardim Califórnia,Casa,126,577,2,6,719964
+Parque dos Príncipes,Apartamento,155,0,4,2,722238
+Vila Machado,Casa,140,391,3,1,722540
+Vila Machado,Casa,368,234,6,1,723488
+Parque dos Príncipes,Apartamento,95,0,1,2,724289
+Cidade Salvador,Casa,319,509,6,4,724512
+Jardim Primavera,Apartamento,158,0,2,2,724588
+Clube de Campo,Terreno,0,1199,0,0,724795
+Parque Imperial,Apartamento,113,0,2,1,725121
+Jardim das Oliveiras,Apartamento,136,0,1,1,725288
+Portal Alvorada,Apartamento,140,0,3,2,725480
+Jardim Califórnia,Apartamento,144,0,4,2,726480
+Jardim Esperança,Casa,172,229,7,4,727560
+Centro,Casa,318,241,3,3,727584
+Portal Alvorada,Casa,202,471,4,6,728210
+Portal Alvorada,Casa,277,495,7,1,728233
+Jardim das Oliveiras,Casa,181,557,3,3,729249
+Jardim Califórnia,Apartamento,133,0,4,2,729904
+Sunset Garden,Casa,203,461,2,6,730211
+Villa Branca,Apartamento,113,0,4,2,730680
+Jardim Esperança,Apartamento,174,0,2,1,730800
+Terras de Santa Clara,Casa,359,259,7,5,732360
+Jardim Esperança,Casa,217,270,4,5,732375
+Cidade Salvador,Casa,334,446,6,6,732662
+Terras de Santa Clara,Apartamento,114,0,1,3,733020
+Jardim Califórnia,Apartamento,152,0,3,2,733096
+Villa Branca,Casa,113,421,7,2,733177
+Cidade Salvador,Casa,395,222,2,2,735016
+Terras de Santa Clara,Apartamento,125,0,4,1,735375
+Jardim das Oliveiras,Casa,326,359,5,6,736108
+Veraneio Ijal,Apartamento,148,0,4,2,736152
+Villa Branca,Terreno,0,843,0,0,736444
+Jardim Califórnia,Apartamento,107,0,4,1,736481
+Jardim São José,Apartamento,101,0,2,1,736492
+Sunset Garden,Apartamento,137,0,4,2,738936
+Veraneio Ijal,Casa,183,301,4,5,738954
+Centro,Casa,149,522,7,6,739189
+Terras de Santa Clara,Casa,378,266,5,4,739368
+Jardim das Oliveiras,Casa,159,287,3,5,739827
+Centro,Casa,132,350,6,5,740229
+Jardim América,Apartamento,100,0,3,2,740960
+Jardim Esperança,Apartamento,100,0,3,3,741100
+Clube de Campo,Terreno,0,1174,0,0,741733
+Nova Jacareí,Terreno,0,789,0,0,742449
+Cidade Salvador,Casa,414,532,3,6,743544
+Vila Machado,Apartamento,127,0,3,2,744093
+Vila Machado,Casa,266,588,2,1,745066
+Jardim Primavera,Casa,178,333,6,4,746532
+Parque Imperial,Casa,279,496,5,3,746604
+Centro,Casa,175,551,4,5,746707
+Jardim Primavera,Apartamento,116,0,4,3,746924
+Clube de Campo,Casa,102,406,6,6,746935
+Portal Alvorada,Casa,235,554,7,1,747535
+Vila Machado,Casa,222,529,7,1,747918
+Jardim Primavera,Apartamento,167,0,4,1,748327
+Clube de Campo,Casa,199,454,2,5,748677
+Vila Machado,Casa,160,330,4,5,750240
+Centro,Casa,231,509,2,1,750357
+Parque Imperial,Casa,378,341,5,1,752598
+Parque Imperial,Casa,306,283,2,3,753066
+Jardim Califórnia,Terreno,0,1030,0,0,753960
+Jardim Esperança,Casa,259,525,6,2,754726
+Terras de Santa Clara,Apartamento,150,0,3,2,756000
+Jardim Esperança,Casa,140,454,2,5,757260
+Cidade Salvador,Casa,342,239,6,3,757324
+Clube de Campo,Casa,122,585,2,3,758425
+Centro,Casa,119,427,3,5,758434
+Vila Garcia,Apartamento,135,0,3,2,759564
+Sunset Garden,Terreno,0,887,0,0,759892
+Vila Machado,Apartamento,102,0,4,3,760716
+Jardim Esperança,Casa,220,451,2,2,761200
+Jardim Esperança,Casa,127,453,6,1,762000
+Parque dos Príncipes,Casa,161,250,6,6,762238
+Vila Garcia,Casa,172,394,4,5,762304
+Vila Garcia,Casa,244,293,7,1,763036
+Jardim das Oliveiras,Apartamento,158,0,4,3,763298
+Vila Machado,Casa,243,356,7,6,764235
+Cidade Salvador,Casa,192,278,3,2,765235
+Parque dos Príncipes,Casa,140,417,4,4,765996
+Vila Garcia,Apartamento,169,0,3,2,767665
+Jardim das Oliveiras,Terreno,0,665,0,0,768075
+Portal Alvorada,Casa,136,370,2,5,768808
+Sunset Garden,Casa,244,464,7,5,769844
+Centro,Apartamento,154,0,1,3,770261
+Centro,Casa,217,552,6,3,770762
+Jardim São José,Casa,172,588,7,1,773140
+Jardim Paraíba,Apartamento,139,0,2,3,774230
+Jardim Califórnia,Casa,155,546,7,2,774690
+Jardim Paraíba,Apartamento,167,0,1,2,775715
+Parque Imperial,Apartamento,164,0,2,3,775720
+Parque dos Príncipes,Apartamento,119,0,3,3,776498
+Veraneio Ijal,Apartamento,126,0,3,3,776538
+Clube de Campo,Apartamento,150,0,2,3,776685
+Veraneio Ijal,Casa,286,403,6,3,776776
+Villa Branca,Casa,328,329,6,3,776900
+Jardim Califórnia,Casa,352,324,5,1,777216
+Jardim das Oliveiras,Apartamento,170,0,4,3,778090
+Jardim Califórnia,Apartamento,164,0,4,1,778672
+Vila Machado,Apartamento,113,0,4,3,779135
+Vila Machado,Casa,160,587,7,5,780160
+Jardim Califórnia,Casa,173,571,6,2,780576
+Villa Branca,Apartamento,130,0,1,3,780611
+Centro,Casa,295,381,6,3,781071
+Vila Machado,Casa,166,327,2,3,781694
+Veraneio Ijal,Casa,188,220,2,5,781704
+Cidade Salvador,Apartamento,156,0,1,3,781996
+Parque dos Príncipes,Casa,127,492,2,5,782180
+Veraneio Ijal,Casa,315,366,2,2,782460
+Portal Alvorada,Casa,356,453,2,5,786404
+Villa Branca,Casa,121,279,4,1,787915
+Parque Imperial,Apartamento,155,0,3,2,788795
+Vila Machado,Casa,342,393,7,1,788994
+Parque dos Príncipes,Casa,134,330,6,5,790064
+Jardim Primavera,Casa,140,261,2,2,790160
+Jardim São José,Apartamento,112,0,1,1,792960
+Parque dos Príncipes,Casa,327,596,4,6,793138
+Jardim Primavera,Casa,281,203,5,4,793544
+Jardim São José,Casa,193,369,4,2,793616
+Terras de Santa Clara,Apartamento,113,0,1,1,794503
+Jardim São José,Casa,223,363,5,1,794772
+Jardim Califórnia,Casa,157,401,4,5,794891
+Clube de Campo,Apartamento,151,0,4,2,795407
+Veraneio Ijal,Casa,173,324,2,1,795627
+Centro,Apartamento,113,0,3,1,796887
+Jardim Primavera,Casa,284,258,4,6,798324
+Terras de Santa Clara,Casa,290,543,7,2,798950
+Jardim Esperança,Casa,171,532,5,2,799425
+Jardim Esperança,Apartamento,135,0,2,1,799875
+Terras de Santa Clara,Casa,209,410,6,1,800052
+Jardim das Oliveiras,Apartamento,157,0,2,2,800857
+Parque dos Príncipes,Casa,339,563,7,5,800989
+Vila Garcia,Casa,225,449,7,2,802980
+Centro,Apartamento,102,0,4,2,803688
+Jardim Esperança,Casa,179,221,5,1,803889
+Terras de Santa Clara,Apartamento,116,0,1,2,803996
+Parque dos Príncipes,Apartamento,138,0,1,1,804084
+Jardim Primavera,Casa,146,483,3,4,804314
+Clube de Campo,Apartamento,96,0,4,3,804336
+Veraneio Ijal,Apartamento,132,0,3,2,804408
+Sunset Garden,Casa,147,227,2,1,805104
+Jardim das Oliveiras,Apartamento,170,0,2,2,805800
+Parque dos Príncipes,Terreno,0,587,0,0,807125
+Centro,Terreno,0,814,0,0,807650
+Portal Alvorada,Casa,147,545,3,6,807912
+Jardim Califórnia,Terreno,0,565,0,0,810210
+Nova Jacareí,Casa,243,281,4,4,812106
+Jardim Califórnia,Apartamento,116,0,3,3,812696
+Centro,Casa,260,374,2,4,812812
+Portal Alvorada,Casa,271,236,2,1,813271
+Parque dos Príncipes,Casa,293,234,7,1,816063
+Jardim São José,Casa,379,231,6,6,817124
+Parque Imperial,Casa,419,446,2,3,817469
+Parque dos Príncipes,Casa,138,257,7,4,817746
+Vila Machado,Casa,362,421,6,1,818120
+Terras de Santa Clara,Terreno,0,626,0,0,818182
+Veraneio Ijal,Apartamento,154,0,2,2,818664
+Jardim Esperança,Terreno,0,749,0,0,819406
+Vila Machado,Casa,226,275,2,5,821284
+Jardim Primavera,Casa,223,560,3,1,821309
+Parque Imperial,Apartamento,146,0,1,2,822126
+Jardim Primavera,Casa,323,484,5,1,824296
+Jardim Califórnia,Casa,233,260,6,4,824354
+Clube de Campo,Casa,152,295,6,3,825375
+Jardim das Oliveiras,Terreno,0,765,0,0,825435
+Portal Alvorada,Apartamento,113,0,4,2,826708
+Cidade Salvador,Casa,277,405,3,1,826789
+Vila Machado,Casa,284,545,6,3,827008
+Vila Machado,Terreno,0,776,0,0,827216
+Vila Machado,Casa,382,524,4,3,827412
+Parque dos Príncipes,Terreno,0,875,0,0,829675
+Nova Jacareí,Apartamento,113,0,1,1,830324
+Sunset Garden,Casa,110,234,6,4,831116
+Vila Garcia,Casa,228,393,2,1,831196
+Parque Imperial,Apartamento,135,0,3,1,831870
+Nova Jacareí,Casa,385,500,4,1,833525
+Portal Alvorada,Casa,162,308,6,6,834300
+Sunset Garden,Terreno,0,914,0,0,837681
+Portal Alvorada,Casa,202,432,5,1,838300
+Jardim São José,Casa,412,350,6,5,838420
+Centro,Casa,134,414,4,6,838558
+Villa Branca,Terreno,0,586,0,0,839503
+Jardim São José,Casa,262,264,6,3,839972
+Jardim América,Apartamento,172,0,4,2,840237
+Terras de Santa Clara,Terreno,0,1039,0,0,841590
+Jardim Esperança,Casa,162,504,7,2,841914
+Centro,Casa,143,397,6,3,842498
+Clube de Campo,Casa,168,230,6,2,842587
+Jardim Paraíba,Casa,358,368,7,2,842732
+Vila Garcia,Casa,235,454,5,2,843556
+Jardim das Oliveiras,Casa,314,404,5,4,844032
+Jardim Esperança,Casa,157,432,4,1,845602
+Terras de Santa Clara,Casa,188,457,5,6,845812
+Terras de Santa Clara,Casa,142,353,7,5,846178
+Portal Alvorada,Apartamento,117,0,2,3,848016
+Sunset Garden,Apartamento,115,0,2,3,848711
+Centro,Casa,190,202,6,3,849167
+Jardim São José,Casa,272,283,3,6,849184
+Jardim América,Casa,256,598,3,3,849868
+Cidade Salvador,Apartamento,164,0,4,1,849913
+Parque dos Príncipes,Casa,233,408,3,3,850916
+Veraneio Ijal,Terreno,0,814,0,0,851444
+Jardim Califórnia,Apartamento,125,0,2,3,851500
+Jardim Califórnia,Casa,296,313,3,1,852184
+Villa Branca,Apartamento,122,0,4,2,852316
+Cidade Salvador,Casa,324,402,6,6,853027
+Jardim Califórnia,Apartamento,152,0,1,3,853176
+Jardim Califórnia,Casa,412,321,3,5,854076
+Terras de Santa Clara,Casa,264,562,7,4,854568
+Veraneio Ijal,Terreno,0,596,0,0,854664
+Clube de Campo,Casa,119,327,2,2,856264
+Jardim Paraíba,Casa,319,368,7,5,856515
+Jardim das Oliveiras,Casa,211,522,6,5,857504
+Jardim Paraíba,Apartamento,169,0,3,1,860886
+Jardim Califórnia,Casa,333,506,4,1,861804
+Jardim América,Casa,142,583,4,5,863161
+Veraneio Ijal,Casa,231,385,6,3,863709
+Jardim Califórnia,Casa,259,578,4,4,864801
+Sunset Garden,Terreno,0,657,0,0,865203
+Centro,Casa,408,275,2,4,865286
+Portal Alvorada,Casa,167,375,6,4,865561
+Centro,Casa,203,430,6,5,865957
+Terras de Santa Clara,Terreno,0,1027,0,0,866788
+Jardim América,Apartamento,108,0,3,2,867002
+Jardim Califórnia,Apartamento,165,0,4,2,867240
+Parque dos Príncipes,Casa,372,260,2,3,868731
+Jardim América,Casa,173,382,3,1,869290
+Parque dos Príncipes,Casa,185,440,2,6,869962
+Terras de Santa Clara,Casa,151,378,5,6,870062
+Jardim São José,Casa,210,520,7,5,870660
+Jardim Paraíba,Casa,239,266,2,6,871394
+Centro,Apartamento,156,0,1,2,871556
+Jardim Esperança,Casa,156,411,7,6,871728
+Portal Alvorada,Casa,341,327,3,5,871937
+Sunset Garden,Apartamento,102,0,3,1,872905
+Jardim Esperança,Apartamento,167,0,3,1,872909
+Jardim Califórnia,Apartamento,119,0,2,3,872984
+Sunset Garden,Casa,143,348,7,2,873172
+Parque Imperial,Casa,187,356,5,2,873290
+Vila Garcia,Casa,189,326,6,6,874389
+Jardim Califórnia,Casa,262,342,3,2,875080
+Jardim Califórnia,Casa,191,484,7,2,875162
+Parque Imperial,Apartamento,179,0,4,1,875489
+Clube de Campo,Casa,131,402,2,5,875682
+Clube de Campo,Casa,264,532,4,1,876532
+Parque Imperial,Casa,342,372,6,5,876546
+Jardim Califórnia,Casa,164,320,4,6,879368
+Jardim São José,Apartamento,162,0,3,2,881604
+Vila Machado,Casa,233,460,5,2,882138
+Portal Alvorada,Casa,386,513,3,2,882396
+Jardim Califórnia,Casa,268,421,2,1,884936
+Jardim São José,Casa,355,281,6,1,885370
+Parque dos Príncipes,Apartamento,110,0,4,1,885720
+Jardim Esperança,Casa,174,549,2,1,887748
+Portal Alvorada,Casa,283,582,4,1,888054
+Centro,Casa,363,520,6,1,890039
+Portal Alvorada,Casa,197,584,3,3,891031
+Vila Machado,Terreno,0,1046,0,0,891192
+Nova Jacareí,Casa,292,359,5,2,891768
+Jardim Paraíba,Casa,198,234,6,3,892584
+Vila Garcia,Terreno,0,1037,0,0,893479
+Veraneio Ijal,Apartamento,131,0,1,3,893813
+Portal Alvorada,Casa,392,501,4,4,895720
+Jardim São José,Casa,318,450,7,3,897396
+Clube de Campo,Terreno,0,1075,0,0,899990
+Vila Machado,Casa,301,369,3,3,900291
+Vila Garcia,Apartamento,154,0,1,3,901454
+Clube de Campo,Casa,191,547,5,6,901577
+Portal Alvorada,Casa,407,228,3,5,903133
+Centro,Casa,415,385,4,1,904783
+Parque dos Príncipes,Casa,376,591,2,4,904956
+Centro,Apartamento,161,0,1,2,905158
+Veraneio Ijal,Casa,186,441,3,5,905820
+Parque dos Príncipes,Apartamento,157,0,2,3,905984
+Portal Alvorada,Casa,180,204,2,6,906840
+Jardim América,Apartamento,117,0,1,1,908364
+Terras de Santa Clara,Apartamento,133,0,3,2,908523
+Clube de Campo,Casa,150,343,7,4,908895
+Nova Jacareí,Casa,175,453,7,1,909300
+Sunset Garden,Apartamento,110,0,1,2,909337
+Nova Jacareí,Casa,388,312,7,6,909860
+Clube de Campo,Casa,290,500,5,2,911209
+Vila Garcia,Casa,310,274,2,2,912392
+Terras de Santa Clara,Casa,179,384,7,1,913795
+Sunset Garden,Casa,130,586,6,4,914290
+Nova Jacareí,Casa,176,531,2,5,914496
+Jardim Paraíba,Casa,334,409,5,5,916830
+Parque dos Príncipes,Casa,279,261,6,4,917017
+Veraneio Ijal,Casa,164,503,2,3,919220
+Veraneio Ijal,Casa,154,270,5,1,919534
+Centro,Casa,198,305,3,2,919551
+Terras de Santa Clara,Casa,245,364,4,2,919975
+Vila Garcia,Casa,252,296,2,3,920102
+Jardim Primavera,Apartamento,158,0,2,3,920982
+Jardim Primavera,Apartamento,131,0,3,3,921454
+Portal Alvorada,Terreno,0,899,0,0,921475
+Parque Imperial,Apartamento,130,0,1,1,921830
+Sunset Garden,Apartamento,138,0,3,3,922654
+Portal Alvorada,Casa,193,446,6,2,923505
+Jardim Califórnia,Casa,266,316,5,5,923552
+Jardim Primavera,Apartamento,157,0,2,1,923631
+Jardim América,Apartamento,174,0,4,1,924270
+Parque Imperial,Casa,382,260,3,3,924440
+Jardim Primavera,Casa,393,429,3,4,924729
+Jardim das Oliveiras,Casa,163,580,2,3,925677
+Cidade Salvador,Casa,223,537,4,3,925717
+Jardim Califórnia,Casa,189,212,5,1,927990
+Sunset Garden,Casa,143,392,3,5,929871
+Cidade Salvador,Casa,195,564,3,5,930228
+Centro,Apartamento,117,0,4,1,930372
+Terras de Santa Clara,Casa,355,566,3,6,931520
+Vila Garcia,Apartamento,163,0,4,3,931838
+Centro,Casa,285,473,7,6,932349
+Portal Alvorada,Casa,200,397,4,4,934200
+Vila Garcia,Casa,336,349,3,5,935155
+Villa Branca,Casa,213,370,4,2,935368
+Sunset Garden,Casa,363,345,2,3,937193
+Parque dos Príncipes,Apartamento,123,0,2,1,937629
+Sunset Garden,Apartamento,159,0,1,1,937797
+Jardim São José,Casa,233,557,5,1,939456
+Clube de Campo,Terreno,0,961,0,0,939473
+Jardim das Oliveiras,Casa,417,410,6,2,940752
+Nova Jacareí,Apartamento,180,0,1,3,941940
+Veraneio Ijal,Apartamento,136,0,2,2,942888
+Jardim Paraíba,Casa,405,343,4,1,946890
+Sunset Garden,Apartamento,106,0,3,1,946961
+Parque Imperial,Apartamento,176,0,1,3,947760
+Jardim das Oliveiras,Casa,302,505,4,5,947978
+Jardim América,Casa,146,572,4,1,949627
+Nova Jacareí,Apartamento,153,0,3,2,952119
+Clube de Campo,Apartamento,136,0,3,3,952244
+Villa Branca,Terreno,0,655,0,0,952828
+Jardim Paraíba,Casa,304,327,3,1,953040
+Villa Branca,Casa,360,510,7,6,954252
+Villa Branca,Casa,201,519,6,4,954528
+Jardim São José,Casa,173,242,5,1,954960
+Portal Alvorada,Terreno,0,824,0,0,955016
+Jardim Califórnia,Casa,384,428,5,5,958080
+Jardim Primavera,Casa,248,306,7,2,958520
+Parque dos Príncipes,Apartamento,179,0,4,2,958903
+Jardim São José,Casa,173,265,4,3,959458
+Veraneio Ijal,Casa,253,375,6,6,959629
+Vila Garcia,Apartamento,173,0,1,2,959942
+Veraneio Ijal,Apartamento,171,0,3,3,960849
+Jardim das Oliveiras,Casa,162,551,3,6,963900
+Vila Machado,Casa,301,366,6,3,964103
+Vila Machado,Apartamento,152,0,3,3,965960
+Veraneio Ijal,Casa,354,437,7,3,966420
+Vila Machado,Apartamento,180,0,4,3,966420
+Cidade Salvador,Casa,263,496,2,5,966577
+Clube de Campo,Apartamento,101,0,3,1,967024
+Centro,Casa,173,519,3,2,968436
+Terras de Santa Clara,Casa,214,375,7,5,969206
+Villa Branca,Casa,337,302,7,1,969515
+Vila Garcia,Casa,340,460,4,6,970768
+Jardim Califórnia,Apartamento,165,0,3,1,974820
+Parque dos Príncipes,Apartamento,120,0,3,2,974820
+Centro,Casa,351,447,3,4,978763
+Jardim Paraíba,Casa,180,461,3,6,980460
+Parque dos Príncipes,Terreno,0,1155,0,0,980826
+Portal Alvorada,Casa,231,299,2,2,981288
+Jardim América,Casa,170,229,7,3,982311
+Jardim Esperança,Terreno,0,1124,0,0,982376
+Centro,Terreno,0,887,0,0,982529
+Cidade Salvador,Apartamento,174,0,1,3,982752
+Vila Garcia,Apartamento,175,0,2,3,983500
+Jardim América,Casa,156,590,6,1,984640
+Portal Alvorada,Casa,166,254,6,4,984878
+Vila Garcia,Casa,363,357,6,3,985908
+Parque dos Príncipes,Casa,292,226,4,2,987368
+Jardim América,Terreno,0,659,0,0,988763
+Vila Machado,Apartamento,178,0,1,1,989146
+Nova Jacareí,Casa,196,551,5,6,989408
+Nova Jacareí,Casa,167,477,2,1,990644
+Sunset Garden,Apartamento,162,0,4,2,990662
+Terras de Santa Clara,Casa,169,419,3,4,992537
+Centro,Apartamento,172,0,2,3,994624
+Jardim Esperança,Casa,216,370,7,1,994896
+Veraneio Ijal,Casa,306,318,4,3,995418
+Portal Alvorada,Casa,214,467,7,5,997240
+Jardim Primavera,Casa,183,463,4,2,997533
+Cidade Salvador,Terreno,0,1018,0,0,997640
+Vila Machado,Casa,249,499,6,3,1001478
+Vila Machado,Casa,271,381,7,5,1002700
+Jardim Esperança,Terreno,0,755,0,0,1003395
+Vila Garcia,Casa,304,559,3,1,1005875
+Parque Imperial,Casa,344,373,3,1,1006544
+Jardim Califórnia,Casa,275,509,3,4,1006775
+Nova Jacareí,Casa,246,481,4,2,1006878
+Portal Alvorada,Casa,305,262,4,5,1007415
+Sunset Garden,Casa,297,390,4,3,1008107
+Cidade Salvador,Casa,229,487,3,2,1008516
+Parque Imperial,Terreno,0,1062,0,0,1008900
+Sunset Garden,Casa,364,220,2,6,1014067
+Sunset Garden,Casa,135,354,5,6,1014214
+Jardim Esperança,Apartamento,139,0,4,2,1015812
+Clube de Campo,Casa,307,495,6,2,1016906
+Parque Imperial,Apartamento,177,0,2,2,1017927
+Vila Machado,Terreno,0,770,0,0,1017940
+Jardim São José,Apartamento,176,0,1,1,1017984
+Jardim das Oliveiras,Terreno,0,816,0,0,1018368
+Parque Imperial,Casa,321,302,7,2,1020138
+Jardim Primavera,Casa,293,468,2,5,1020519
+Vila Machado,Casa,223,320,3,1,1021563
+Vila Garcia,Apartamento,175,0,3,1,1021720
+Terras de Santa Clara,Apartamento,149,0,1,1,1023332
+Sunset Garden,Apartamento,146,0,2,3,1024730
+Jardim São José,Apartamento,176,0,4,2,1025728
+Vila Machado,Casa,226,373,5,2,1025814
+Jardim das Oliveiras,Casa,360,317,6,2,1026000
+Jardim Primavera,Apartamento,175,0,4,2,1029350
+Sunset Garden,Casa,171,266,6,3,1029471
+Jardim Primavera,Casa,271,495,2,3,1032239
+Nova Jacareí,Apartamento,160,0,2,2,1032480
+Jardim América,Apartamento,156,0,2,2,1034748
+Cidade Salvador,Casa,332,577,2,5,1036636
+Centro,Apartamento,150,0,2,3,1041810
+Jardim das Oliveiras,Casa,355,385,2,4,1044410
+Vila Machado,Casa,206,262,5,2,1046274
+Vila Garcia,Apartamento,175,0,3,2,1046640
+Parque dos Príncipes,Casa,162,461,6,1,1048172
+Jardim Esperança,Casa,240,565,4,1,1048800
+Jardim Primavera,Casa,329,379,6,3,1051155
+Jardim Primavera,Casa,374,348,3,1,1052436
+Sunset Garden,Terreno,0,603,0,0,1053561
+Clube de Campo,Apartamento,176,0,4,2,1053624
+Portal Alvorada,Casa,283,572,3,4,1053892
+Jardim América,Casa,356,206,4,1,1056145
+Jardim São José,Casa,202,500,6,6,1056864
+Terras de Santa Clara,Casa,395,449,6,4,1060575
+Vila Machado,Casa,413,506,7,6,1061410
+Jardim Califórnia,Apartamento,144,0,2,1,1061424
+Nova Jacareí,Casa,286,379,5,6,1062490
+Jardim América,Casa,295,429,3,3,1063062
+Jardim Esperança,Casa,387,382,2,5,1063476
+Parque dos Príncipes,Apartamento,177,0,3,3,1063646
+Jardim Califórnia,Apartamento,176,0,2,1,1063744
+Parque dos Príncipes,Casa,410,431,4,1,1063909
+Jardim Primavera,Casa,403,491,6,3,1063920
+Jardim Califórnia,Terreno,0,737,0,0,1064228
+Vila Machado,Casa,273,358,3,2,1066065
+Vila Machado,Apartamento,143,0,3,1,1067638
+Parque Imperial,Casa,210,366,6,5,1067640
+Jardim das Oliveiras,Casa,197,306,2,2,1067740
+Portal Alvorada,Casa,294,213,2,2,1067808
+Parque Imperial,Casa,234,456,2,5,1070784
+Sunset Garden,Apartamento,169,0,1,2,1071037
+Jardim Esperança,Casa,302,403,2,3,1071798
+Veraneio Ijal,Casa,209,435,3,3,1072797
+Jardim Esperança,Casa,395,230,6,1,1072820
+Parque Imperial,Casa,249,448,4,4,1073688
+Jardim Esperança,Casa,238,241,4,2,1073856
+Jardim das Oliveiras,Terreno,0,1017,0,0,1074969
+Parque dos Príncipes,Casa,379,577,2,5,1076852
+Jardim São José,Casa,194,316,4,1,1077282
+Vila Machado,Casa,349,280,6,6,1078759
+Jardim Esperança,Casa,384,386,5,5,1081728
+Clube de Campo,Casa,220,537,3,5,1082796
+Parque dos Príncipes,Apartamento,138,0,1,1,1083244
+Cidade Salvador,Casa,313,398,4,1,1083981
+Jardim São José,Apartamento,171,0,3,2,1085166
+Sunset Garden,Casa,170,207,4,6,1087099
+Parque Imperial,Casa,245,403,5,5,1089025
+Jardim Esperança,Casa,273,426,5,2,1089270
+Jardim Primavera,Casa,223,568,2,6,1089801
+Sunset Garden,Casa,196,239,6,3,1090544
+Jardim São José,Casa,234,492,2,6,1092078
+Clube de Campo,Casa,405,591,6,5,1092487
+Sunset Garden,Apartamento,122,0,2,2,1092595
+Parque dos Príncipes,Casa,296,255,2,6,1093039
+Jardim Califórnia,Casa,324,208,7,1,1093500
+Villa Branca,Casa,286,256,6,1,1093835
+Jardim São José,Apartamento,146,0,2,1,1094562
+Jardim das Oliveiras,Casa,277,241,7,2,1095258
+Veraneio Ijal,Apartamento,151,0,1,1,1100941
+Clube de Campo,Casa,236,538,6,6,1102639
+Parque Imperial,Casa,368,378,6,3,1103264
+Parque dos Príncipes,Casa,329,558,3,4,1103433
+Parque Imperial,Casa,317,529,4,4,1106013
+Jardim Esperança,Casa,245,572,4,5,1106910
+Jardim América,Casa,205,237,7,2,1109234
+Veraneio Ijal,Casa,187,558,7,3,1109658
+Jardim Califórnia,Casa,297,239,5,6,1110186
+Terras de Santa Clara,Casa,273,438,2,1,1112475
+Jardim América,Casa,313,374,3,5,1112777
+Sunset Garden,Casa,169,448,2,5,1113219
+Vila Garcia,Casa,384,564,7,6,1115443
+Portal Alvorada,Apartamento,165,0,1,2,1116390
+Vila Garcia,Casa,269,597,3,1,1117318
+Jardim das Oliveiras,Apartamento,161,0,4,1,1117340
+Jardim Paraíba,Apartamento,160,0,3,3,1117920
+Parque dos Príncipes,Casa,252,449,2,6,1117947
+Centro,Casa,358,561,7,2,1119179
+Nova Jacareí,Casa,255,306,3,4,1119450
+Cidade Salvador,Terreno,0,961,0,0,1120141
+Cidade Salvador,Casa,379,468,7,3,1120930
+Clube de Campo,Casa,361,434,5,1,1123034
+Jardim Primavera,Casa,364,355,7,4,1124396
+Vila Garcia,Terreno,0,1178,0,0,1126168
+Vila Garcia,Casa,235,205,7,3,1126496
+Jardim Paraíba,Apartamento,165,0,3,2,1128600
+Portal Alvorada,Casa,283,211,3,4,1129170
+Clube de Campo,Casa,219,545,3,6,1129689
+Jardim Primavera,Casa,277,393,3,4,1132930
+Vila Machado,Casa,331,570,2,5,1133344
+Centro,Casa,195,250,4,2,1134490
+Parque Imperial,Casa,242,352,7,6,1135948
+Cidade Salvador,Casa,262,261,2,1,1138337
+Jardim São José,Casa,291,275,4,6,1140720
+Terras de Santa Clara,Terreno,0,1189,0,0,1141440
+Clube de Campo,Casa,170,471,6,5,1142128
+Veraneio Ijal,Casa,332,305,6,4,1142412
+Jardim Califórnia,Casa,352,241,5,6,1143296
+Sunset Garden,Apartamento,146,0,1,1,1144873
+Portal Alvorada,Casa,227,214,6,4,1145669
+Terras de Santa Clara,Casa,415,337,6,1,1147890
+Vila Garcia,Casa,319,240,4,1,1149420
+Veraneio Ijal,Casa,317,301,3,2,1152929
+Vila Garcia,Casa,337,565,3,5,1155236
+Jardim Califórnia,Terreno,0,1014,0,0,1155960
+Jardim América,Apartamento,152,0,3,2,1156689
+Terras de Santa Clara,Casa,322,459,3,5,1157590
+Portal Alvorada,Apartamento,161,0,4,1,1158556
+Parque Imperial,Casa,332,368,6,2,1160340
+Veraneio Ijal,Casa,347,573,3,6,1160715
+Villa Branca,Apartamento,161,0,3,3,1160987
+Parque Imperial,Casa,313,438,7,3,1162795
+Clube de Campo,Casa,400,574,5,1,1164800
+Parque Imperial,Casa,219,554,6,4,1165080
+Jardim Esperança,Casa,195,335,6,4,1165710
+Veraneio Ijal,Casa,259,551,3,4,1166795
+Parque dos Príncipes,Casa,269,330,4,2,1167621
+Jardim Esperança,Casa,265,487,3,5,1168120
+Jardim das Oliveiras,Casa,336,233,3,1,1168608
+Jardim Paraíba,Terreno,0,905,0,0,1169260
+Parque Imperial,Casa,327,234,6,3,1171314
+Cidade Salvador,Casa,345,280,2,4,1171344
+Vila Garcia,Terreno,0,1147,0,0,1173610
+Clube de Campo,Terreno,0,611,0,0,1173975
+Portal Alvorada,Casa,306,472,3,6,1174122
+Parque dos Príncipes,Terreno,0,944,0,0,1174430
+Clube de Campo,Casa,250,496,2,5,1174875
+Jardim Esperança,Terreno,0,1078,0,0,1176098
+Terras de Santa Clara,Casa,247,221,5,5,1179178
+Vila Garcia,Casa,272,270,7,5,1182003
+Clube de Campo,Casa,207,406,7,4,1182963
+Cidade Salvador,Casa,270,386,7,6,1185192
+Nova Jacareí,Apartamento,168,0,2,2,1185240
+Clube de Campo,Casa,198,504,6,6,1185841
+Jardim São José,Casa,362,282,5,5,1185912
+Jardim São José,Casa,385,206,2,4,1186570
+Villa Branca,Terreno,0,613,0,0,1187381
+Nova Jacareí,Casa,403,538,7,2,1187641
+Veraneio Ijal,Terreno,0,800,0,0,1188800
+Jardim São José,Casa,395,294,5,1,1190530
+Jardim São José,Terreno,0,1144,0,0,1192048
+Clube de Campo,Casa,367,545,7,3,1193704
+Cidade Salvador,Casa,360,289,7,2,1193760
+Clube de Campo,Casa,372,509,5,1,1194492
+Jardim Califórnia,Apartamento,169,0,4,3,1194661
+Jardim Esperança,Apartamento,164,0,1,1,1194740
+Parque Imperial,Casa,378,380,5,5,1195614
+Centro,Apartamento,173,0,4,3,1196225
+Jardim São José,Apartamento,176,0,2,2,1196272
+Vila Machado,Apartamento,167,0,4,2,1196889
+Parque dos Príncipes,Apartamento,171,0,4,3,1198573
+Centro,Casa,187,220,4,4,1198819
+Villa Branca,Casa,200,218,3,5,1199640
+Vila Garcia,Casa,269,379,6,2,1199955
+Clube de Campo,Casa,160,564,4,4,1201408
+Jardim Esperança,Apartamento,177,0,2,1,1201830
+Portal Alvorada,Apartamento,166,0,4,1,1202836
+Sunset Garden,Apartamento,161,0,4,2,1206823
+Jardim Paraíba,Casa,215,412,4,2,1208515
+Veraneio Ijal,Casa,359,353,2,2,1208753
+Cidade Salvador,Casa,369,232,4,6,1209139
+Terras de Santa Clara,Casa,385,588,3,3,1210440
+Jardim Primavera,Casa,331,598,7,4,1210467
+Jardim Paraíba,Casa,212,513,5,5,1212852
+Jardim América,Apartamento,172,0,1,3,1219204
+Sunset Garden,Apartamento,169,0,2,3,1221532
+Cidade Salvador,Casa,299,242,4,5,1221833
+Jardim Esperança,Terreno,0,1087,0,0,1223962
+Veraneio Ijal,Casa,285,213,4,1,1224930
+Centro,Apartamento,177,0,1,3,1226025
+Clube de Campo,Terreno,0,657,0,0,1226487
+Parque dos Príncipes,Apartamento,152,0,2,2,1227080
+Veraneio Ijal,Casa,274,385,2,1,1227520
+Centro,Casa,281,250,2,4,1228363
+Jardim Califórnia,Casa,386,301,3,6,1230568
+Villa Branca,Casa,333,275,3,1,1233765
+Jardim São José,Casa,340,485,5,6,1235220
+Parque Imperial,Apartamento,170,0,1,2,1235730
+Jardim das Oliveiras,Casa,266,458,6,2,1236900
+Jardim Esperança,Casa,395,598,4,6,1237535
+Portal Alvorada,Casa,247,554,5,4,1237964
+Clube de Campo,Terreno,0,655,0,0,1238081
+Vila Machado,Casa,309,415,2,2,1240017
+Villa Branca,Casa,281,287,4,5,1241654
+Nova Jacareí,Casa,299,593,2,2,1242345
+Parque dos Príncipes,Casa,265,495,2,4,1242664
+Jardim das Oliveiras,Casa,238,210,3,4,1245216
+Jardim Primavera,Apartamento,173,0,3,3,1247503
+Jardim Primavera,Casa,271,335,5,2,1250394
+Clube de Campo,Casa,186,458,5,3,1251315
+Centro,Casa,311,493,4,4,1252770
+Centro,Casa,354,588,6,5,1254646
+Veraneio Ijal,Casa,242,361,7,4,1255738
+Centro,Apartamento,156,0,2,1,1255768
+Nova Jacareí,Casa,304,261,3,6,1256432
+Parque Imperial,Casa,401,280,6,2,1256734
+Jardim Califórnia,Apartamento,171,0,4,1,1256850
+Parque dos Príncipes,Casa,195,389,2,1,1262332
+Clube de Campo,Casa,258,278,2,2,1266135
+Jardim São José,Casa,251,333,5,1,1267299
+Villa Branca,Casa,387,365,4,1,1268818
+Clube de Campo,Casa,203,321,7,2,1269622
+Jardim São José,Terreno,0,853,0,0,1275235
+Vila Garcia,Casa,335,304,3,1,1275948
+Centro,Casa,298,512,2,4,1277764
+Villa Branca,Casa,221,487,5,4,1278197
+Nova Jacareí,Casa,272,265,7,4,1278944
+Nova Jacareí,Casa,302,406,4,6,1279876
+Terras de Santa Clara,Casa,277,246,5,3,1281402
+Vila Garcia,Casa,334,300,5,1,1281758
+Jardim Primavera,Casa,417,304,7,3,1282692
+Nova Jacareí,Casa,320,450,3,3,1285760
+Terras de Santa Clara,Casa,279,390,6,3,1286190
+Jardim Esperança,Casa,264,584,5,6,1286472
+Sunset Garden,Casa,247,380,7,5,1288574
+Jardim Esperança,Casa,357,282,2,6,1289484
+Terras de Santa Clara,Casa,250,315,5,3,1291500
+Villa Branca,Casa,325,350,2,3,1291582
+Jardim Primavera,Casa,308,251,3,5,1292060
+Sunset Garden,Casa,374,210,5,5,1292319
+Jardim Paraíba,Casa,414,317,6,5,1296648
+Parque dos Príncipes,Casa,326,378,7,6,1297056
+Sunset Garden,Apartamento,171,0,2,1,1297120
+Vila Machado,Casa,230,231,5,4,1299500
+Portal Alvorada,Apartamento,174,0,3,1,1300476
+Vila Machado,Casa,243,317,6,1,1302480
+Jardim Primavera,Casa,285,260,6,2,1308150
+Nova Jacareí,Apartamento,176,0,3,3,1309968
+Clube de Campo,Casa,261,575,7,2,1310715
+Jardim das Oliveiras,Casa,354,525,4,6,1311216
+Veraneio Ijal,Casa,290,398,5,2,1311380
+Jardim São José,Casa,301,511,3,3,1314166
+Cidade Salvador,Casa,280,304,4,2,1314880
+Centro,Terreno,0,1068,0,0,1315776
+Vila Garcia,Casa,321,302,6,5,1316100
+Jardim Primavera,Casa,236,421,5,4,1322072
+Clube de Campo,Casa,393,236,3,1,1323741
+Jardim Paraíba,Casa,288,383,7,4,1324224
+Jardim Primavera,Casa,331,563,2,1,1327641
+Parque Imperial,Casa,249,219,3,4,1328664
+Centro,Casa,409,536,2,4,1329454
+Terras de Santa Clara,Terreno,0,993,0,0,1329627
+Portal Alvorada,Terreno,0,988,0,0,1331824
+Vila Machado,Casa,270,466,6,1,1331910
+Veraneio Ijal,Casa,406,435,3,4,1338176
+Centro,Casa,263,268,3,6,1338591
+Nova Jacareí,Casa,331,389,7,5,1339888
+Parque dos Príncipes,Casa,220,341,7,3,1341890
+Jardim Esperança,Terreno,0,1049,0,0,1344818
+Sunset Garden,Terreno,0,791,0,0,1345016
+Parque Imperial,Casa,407,267,7,5,1345135
+Centro,Casa,369,428,4,4,1345964
+Jardim Esperança,Casa,271,211,2,2,1347412
+Jardim Paraíba,Casa,297,486,2,3,1354023
+Centro,Apartamento,172,0,2,3,1354482
+Veraneio Ijal,Casa,372,342,3,2,1354824
+Jardim Califórnia,Casa,345,213,3,4,1356885
+Jardim Paraíba,Casa,317,348,5,2,1357711
+Centro,Apartamento,166,0,4,3,1358909
+Vila Machado,Casa,379,255,3,2,1359473
+Parque Imperial,Casa,235,396,4,1,1361825
+Vila Garcia,Casa,312,376,5,2,1363065
+Vila Machado,Casa,295,318,7,6,1364670
+Jardim América,Apartamento,174,0,2,1,1365064
+Clube de Campo,Apartamento,154,0,4,1,1365364
+Jardim Paraíba,Casa,294,294,6,3,1366218
+Jardim Esperança,Casa,356,294,3,3,1368820
+Veraneio Ijal,Casa,291,247,6,6,1369155
+Jardim das Oliveiras,Casa,249,203,3,1,1371492
+Jardim América,Casa,208,466,6,2,1372800
+Terras de Santa Clara,Terreno,0,1165,0,0,1373535
+Sunset Garden,Apartamento,180,0,4,2,1375686
+Parque Imperial,Casa,295,237,2,4,1376470
+Cidade Salvador,Casa,382,597,6,3,1377950
+Nova Jacareí,Casa,315,359,4,4,1378125
+Veraneio Ijal,Casa,289,415,2,4,1379686
+Clube de Campo,Casa,316,289,7,5,1381109
+Portal Alvorada,Casa,322,422,4,4,1382668
+Sunset Garden,Casa,312,382,2,1,1383907
+Villa Branca,Casa,205,303,4,1,1393262
+Jardim Primavera,Casa,320,525,6,5,1394560
+Jardim Paraíba,Casa,318,460,3,1,1394748
+Centro,Casa,286,458,2,3,1396509
+Jardim Esperança,Casa,273,531,2,5,1397487
+Sunset Garden,Apartamento,168,0,1,2,1398852
+Clube de Campo,Casa,352,503,7,3,1399340
+Jardim América,Casa,284,408,6,1,1399864
+Centro,Casa,406,270,4,4,1400537
+Jardim América,Casa,226,226,6,6,1402849
+Terras de Santa Clara,Casa,327,230,5,1,1403157
+Parque Imperial,Casa,291,574,7,3,1405821
+Terras de Santa Clara,Casa,321,204,7,4,1406943
+Terras de Santa Clara,Casa,260,416,4,2,1408160
+Villa Branca,Casa,397,357,5,2,1410501
+Centro,Casa,218,331,3,4,1412422
+Villa Branca,Casa,366,226,7,4,1416456
+Clube de Campo,Casa,385,561,2,2,1416915
+Jardim das Oliveiras,Casa,412,489,3,1,1418516
+Parque dos Príncipes,Casa,311,534,4,5,1422793
+Vila Machado,Casa,410,600,5,5,1426390
+Jardim Primavera,Casa,239,220,6,1,1429698
+Parque dos Príncipes,Terreno,0,899,0,0,1431927
+Clube de Campo,Apartamento,160,0,4,3,1433120
+Villa Branca,Casa,200,339,2,3,1433640
+Cidade Salvador,Casa,330,584,4,3,1436160
+Cidade Salvador,Casa,402,258,7,4,1436265
+Clube de Campo,Casa,371,496,6,5,1438700
+Clube de Campo,Casa,291,220,2,1,1442079
+Clube de Campo,Apartamento,180,0,1,2,1443546
+Vila Machado,Casa,350,203,2,2,1447250
+Jardim das Oliveiras,Casa,406,470,2,2,1450638
+Centro,Casa,322,590,4,4,1452928
+Jardim das Oliveiras,Terreno,0,1127,0,0,1457211
+Terras de Santa Clara,Casa,263,549,7,4,1458072
+Jardim Califórnia,Casa,319,381,3,6,1459106
+Vila Machado,Casa,351,341,6,6,1459458
+Jardim Califórnia,Casa,245,250,6,5,1462405
+Jardim Primavera,Casa,400,201,5,3,1463600
+Jardim Esperança,Casa,365,345,7,5,1464380
+Clube de Campo,Apartamento,155,0,1,2,1464905
+Terras de Santa Clara,Casa,272,282,2,4,1465536
+Jardim América,Casa,262,329,2,3,1466938
+Jardim Esperança,Casa,335,390,4,2,1467970
+Villa Branca,Casa,323,438,2,4,1473849
+Portal Alvorada,Casa,406,400,6,5,1475810
+Parque Imperial,Terreno,0,1072,0,0,1477216
+Jardim das Oliveiras,Casa,318,554,6,5,1478382
+Clube de Campo,Casa,232,368,7,4,1481459
+Clube de Campo,Casa,301,286,2,6,1487331
+Clube de Campo,Casa,271,484,5,4,1489172
+Cidade Salvador,Casa,352,298,4,6,1489382
+Vila Machado,Casa,275,570,6,4,1490775
+Vila Garcia,Casa,339,415,2,6,1492142
+Parque Imperial,Casa,315,531,3,3,1494045
+Jardim América,Casa,290,217,5,6,1494196
+Sunset Garden,Casa,379,542,2,6,1494851
+Villa Branca,Casa,279,409,2,2,1511008
+Parque dos Príncipes,Casa,254,258,5,4,1517980
+Vila Machado,Casa,283,564,5,3,1518861
+Vila Machado,Terreno,0,1157,0,0,1519141
+Cidade Salvador,Casa,340,475,6,5,1520208
+Terras de Santa Clara,Casa,280,554,3,6,1520680
+Jardim Esperança,Casa,366,337,4,6,1521096
+Jardim Primavera,Casa,330,489,2,5,1522950
+Jardim Califórnia,Casa,373,424,2,6,1525570
+Portal Alvorada,Casa,337,538,2,1,1527284
+Parque dos Príncipes,Casa,380,270,4,4,1527790
+Jardim São José,Casa,399,242,5,5,1528569
+Cidade Salvador,Casa,371,353,4,2,1530300
+Jardim Paraíba,Casa,391,237,6,5,1530765
+Jardim Califórnia,Casa,326,290,5,3,1530896
+Centro,Casa,325,571,7,1,1532602
+Jardim América,Casa,325,311,4,2,1532960
+Jardim Esperança,Casa,372,212,2,4,1533756
+Portal Alvorada,Casa,257,233,4,4,1534290
+Sunset Garden,Casa,251,384,3,6,1534588
+Jardim Esperança,Casa,294,273,6,6,1535268
+Jardim América,Casa,292,217,5,3,1536620
+Jardim São José,Casa,281,489,7,5,1537070
+Jardim Paraíba,Terreno,0,1167,0,0,1538106
+Jardim Esperança,Casa,364,523,6,2,1538628
+Clube de Campo,Casa,398,341,3,2,1541852
+Portal Alvorada,Casa,311,312,7,1,1546292
+Vila Machado,Terreno,0,1104,0,0,1547808
+Cidade Salvador,Casa,360,362,6,1,1552320
+Portal Alvorada,Casa,340,285,6,3,1554140
+Terras de Santa Clara,Casa,376,331,7,1,1555888
+Terras de Santa Clara,Casa,308,403,7,6,1556016
+Jardim das Oliveiras,Casa,395,330,4,3,1557485
+Jardim das Oliveiras,Casa,312,477,3,1,1558752
+Jardim das Oliveiras,Casa,316,308,4,2,1562304
+Jardim das Oliveiras,Casa,331,406,3,4,1562651
+Terras de Santa Clara,Casa,273,408,7,5,1567020
+Centro,Casa,296,412,5,4,1568740
+Jardim Paraíba,Casa,285,213,3,5,1570350
+Clube de Campo,Casa,252,295,3,5,1571824
+Jardim São José,Casa,400,384,2,6,1574800
+Jardim Califórnia,Casa,335,482,4,2,1578520
+Cidade Salvador,Casa,390,379,7,4,1583400
+Vila Machado,Casa,349,401,3,3,1585158
+Parque dos Príncipes,Casa,274,336,7,3,1587172
+Jardim das Oliveiras,Casa,287,392,6,1,1589693
+Portal Alvorada,Casa,353,584,2,5,1591677
+Jardim Califórnia,Casa,302,364,5,5,1592446
+Jardim das Oliveiras,Casa,364,383,3,5,1592864
+Jardim América,Casa,245,326,6,4,1598943
+Terras de Santa Clara,Casa,370,582,2,5,1599880
+Portal Alvorada,Casa,385,512,6,2,1601215
+Jardim das Oliveiras,Casa,293,291,3,4,1607984
+Portal Alvorada,Casa,270,327,2,5,1608390
+Villa Branca,Casa,416,391,4,5,1608880
+Jardim das Oliveiras,Casa,368,430,6,2,1611104
+Parque dos Príncipes,Casa,311,422,3,2,1624975
+Villa Branca,Casa,221,446,5,1,1630427
+Jardim América,Casa,263,580,3,5,1630784
+Nova Jacareí,Casa,359,441,6,6,1632014
+Clube de Campo,Casa,267,518,2,3,1634493
+Villa Branca,Casa,263,466,7,1,1636675
+Jardim das Oliveiras,Casa,366,336,3,4,1636752
+Parque dos Príncipes,Casa,304,518,4,5,1638894
+Jardim das Oliveiras,Casa,418,438,7,6,1642322
+Jardim Califórnia,Casa,384,506,4,4,1642368
+Parque Imperial,Casa,358,296,7,5,1644652
+Cidade Salvador,Casa,388,301,6,3,1644809
+Portal Alvorada,Casa,275,365,2,4,1649725
+Vila Machado,Casa,292,569,7,3,1664108
+Vila Machado,Casa,420,331,2,1,1666560
+Veraneio Ijal,Casa,287,230,7,2,1667470
+Terras de Santa Clara,Casa,343,435,7,2,1672811
+Clube de Campo,Casa,245,482,4,5,1674673
+Clube de Campo,Casa,250,586,3,2,1675050
+Clube de Campo,Casa,403,393,4,1,1675432
+Sunset Garden,Terreno,0,1076,0,0,1677161
+Jardim Esperança,Casa,294,221,5,1,1679916
+Portal Alvorada,Casa,415,583,5,2,1684070
+Clube de Campo,Casa,297,368,2,5,1690345
+Parque dos Príncipes,Casa,326,313,4,3,1692233
+Jardim Califórnia,Casa,373,480,6,3,1695658
+Clube de Campo,Casa,241,525,5,5,1697459
+Jardim das Oliveiras,Casa,378,423,3,6,1697976
+Portal Alvorada,Casa,351,361,7,2,1699542
+Jardim das Oliveiras,Casa,394,521,4,6,1700110
+Jardim das Oliveiras,Casa,338,500,2,5,1702506
+Veraneio Ijal,Casa,285,482,7,1,1705725
+Terras de Santa Clara,Casa,409,333,5,1,1707984
+Jardim Califórnia,Casa,361,593,3,2,1714750
+Nova Jacareí,Casa,322,551,3,5,1725598
+Jardim das Oliveiras,Casa,377,532,4,6,1726283
+Sunset Garden,Casa,347,489,5,5,1730419
+Centro,Casa,310,320,5,6,1732621
+Jardim América,Casa,329,415,3,5,1744358
+Jardim Esperança,Casa,323,227,2,4,1747430
+Sunset Garden,Casa,376,452,5,5,1749415
+Parque Imperial,Casa,351,515,4,4,1756404
+Jardim das Oliveiras,Casa,413,527,5,2,1756902
+Jardim Primavera,Casa,369,245,2,5,1764927
+Terras de Santa Clara,Casa,356,518,7,6,1765760
+Parque Imperial,Casa,414,404,4,5,1766124
+Sunset Garden,Casa,381,524,2,3,1766735
+Centro,Casa,276,353,4,4,1773327
+Parque dos Príncipes,Casa,353,448,5,2,1777637
+Jardim América,Casa,359,509,5,2,1777839
+Villa Branca,Casa,274,264,2,5,1779575
+Jardim São José,Casa,313,347,4,2,1780970
+Vila Machado,Casa,333,533,6,4,1785213
+Portal Alvorada,Casa,334,586,5,1,1787902
+Villa Branca,Casa,283,566,7,4,1793512
+Jardim Paraíba,Casa,320,323,6,5,1796480
+Jardim América,Casa,345,586,2,4,1797312
+Terras de Santa Clara,Casa,416,319,6,5,1801280
+Sunset Garden,Casa,394,412,7,6,1802431
+Portal Alvorada,Casa,388,578,6,2,1817780
+Jardim América,Casa,343,269,3,6,1819717
+Clube de Campo,Casa,305,301,6,4,1819935
+Centro,Casa,353,521,4,4,1822291
+Nova Jacareí,Casa,390,277,2,4,1824420
+Vila Machado,Casa,413,546,4,5,1827938
+Jardim Esperança,Casa,408,210,7,6,1835592
+Terras de Santa Clara,Casa,349,227,6,3,1837136
+Portal Alvorada,Casa,408,466,4,5,1837224
+Jardim Paraíba,Casa,340,484,3,6,1844840
+Vila Machado,Casa,340,387,4,2,1847560
+Villa Branca,Casa,392,351,3,3,1849338
+Clube de Campo,Casa,254,285,2,4,1849780
+Jardim São José,Casa,343,405,5,5,1856316
+Jardim São José,Casa,403,201,2,3,1859039
+Nova Jacareí,Casa,394,357,2,5,1869530
+Clube de Campo,Casa,323,512,2,5,1869814
+Jardim Esperança,Casa,395,412,6,1,1869930
+Jardim Primavera,Casa,398,369,2,4,1870202
+Jardim América,Casa,314,299,3,6,1876903
+Portal Alvorada,Casa,380,341,4,1,1879480
+Jardim Califórnia,Casa,370,365,2,4,1880710
+Jardim Califórnia,Casa,363,235,7,4,1881066
+Centro,Casa,387,515,7,4,1881594
+Centro,Casa,327,503,6,6,1884108
+Villa Branca,Casa,417,255,4,6,1896807
+Jardim das Oliveiras,Casa,399,312,5,3,1902432
+Jardim Paraíba,Casa,330,302,6,2,1904430
+Jardim São José,Casa,348,351,3,6,1905300
+Villa Branca,Casa,410,271,5,6,1906008
+Portal Alvorada,Casa,347,472,2,3,1906418
+Vila Machado,Casa,416,465,3,2,1911104
+Jardim Primavera,Casa,319,555,4,6,1911448
+Jardim Califórnia,Casa,365,470,5,2,1920995
+Jardim Esperança,Casa,357,344,3,5,1921017
+Parque Imperial,Casa,412,546,7,2,1921156
+Jardim Paraíba,Casa,329,584,7,2,1921360
+Villa Branca,Casa,359,423,2,4,1930737
+Jardim Califórnia,Casa,416,476,5,3,1933152
+Jardim Califórnia,Casa,382,463,3,4,1934448
+Jardim Califórnia,Casa,419,332,4,1,1937456
+Vila Machado,Casa,420,502,7,4,1943340
+Parque Imperial,Casa,372,361,3,5,1947420
+Jardim Califórnia,Casa,355,542,4,1,1949660
+Nova Jacareí,Casa,405,580,2,6,1960200
+Jardim América,Casa,312,357,5,6,1962417
+Clube de Campo,Casa,360,434,5,5,1966536
+Terras de Santa Clara,Casa,403,511,7,3,1979536
+Villa Branca,Casa,394,320,6,4,1984775
+Sunset Garden,Casa,340,600,6,6,1985022
+Sunset Garden,Casa,308,453,7,3,1985183
+Jardim Paraíba,Casa,404,534,6,3,1986064
+Clube de Campo,Casa,399,325,5,4,1988177
+Jardim das Oliveiras,Casa,347,207,2,2,1988657
+Parque dos Príncipes,Casa,400,301,6,4,1990120
+Portal Alvorada,Casa,344,438,5,6,1993824
+Parque Imperial,Casa,373,410,7,5,1998534
+Veraneio Ijal,Casa,347,421,4,3,2019540
+Jardim Paraíba,Casa,417,411,5,4,2022450
+Veraneio Ijal,Casa,359,296,5,5,2042351
+Centro,Casa,398,323,7,4,2042774
+Clube de Campo,Casa,367,595,5,1,2067751
+Jardim Esperança,Casa,397,309,3,3,2071149
+Jardim América,Casa,373,322,2,5,2073656
+Vila Machado,Casa,384,424,6,2,2073984
+Portal Alvorada,Casa,346,293,4,2,2075654
+Sunset Garden,Casa,275,496,3,4,2076717
+Nova Jacareí,Casa,377,399,3,2,2082171
+Parque dos Príncipes,Casa,330,418,2,4,2082531
+Veraneio Ijal,Casa,377,328,2,1,2083679
+Villa Branca,Casa,275,381,5,2,2083867
+Terras de Santa Clara,Casa,387,504,6,4,2089800
+Terras de Santa Clara,Casa,356,375,5,4,2090788
+Sunset Garden,Casa,419,354,3,4,2098184
+Centro,Casa,390,476,4,3,2100813
+Clube de Campo,Casa,370,583,4,2,2101008
+Vila Machado,Casa,376,434,2,1,2102216
+Jardim América,Casa,366,230,5,2,2106403
+Villa Branca,Terreno,0,1130,0,0,2106546
+Parque Imperial,Casa,370,277,5,6,2118250
+Clube de Campo,Casa,348,290,7,2,2125375
+Clube de Campo,Casa,351,539,3,1,2130921
+Sunset Garden,Casa,299,281,2,6,2131242
+Jardim São José,Casa,381,489,7,3,2140077
+Jardim Esperança,Casa,372,362,6,1,2144580
+Jardim Paraíba,Casa,412,528,3,3,2153524
+Jardim Primavera,Casa,367,271,4,3,2164199
+Jardim das Oliveiras,Casa,411,237,7,3,2170491
+Clube de Campo,Casa,375,471,4,3,2179125
+Parque dos Príncipes,Casa,341,318,7,3,2182331
+Jardim Paraíba,Casa,371,484,3,5,2190013
+Jardim São José,Casa,398,456,3,6,2206512
+Sunset Garden,Casa,330,438,2,3,2217930
+Jardim das Oliveiras,Casa,372,508,3,6,2226048
+Centro,Casa,388,281,6,5,2227042
+Jardim Califórnia,Casa,406,274,7,6,2239496
+Terras de Santa Clara,Casa,419,360,4,6,2242069
+Clube de Campo,Casa,309,574,6,1,2247913
+Jardim América,Casa,376,207,7,6,2253292
+Clube de Campo,Casa,304,271,5,2,2254220
+Terras de Santa Clara,Casa,397,569,5,5,2255357
+Veraneio Ijal,Casa,378,321,3,3,2264976
+Jardim Paraíba,Casa,405,454,6,2,2266380
+Clube de Campo,Casa,322,412,6,1,2271742
+Sunset Garden,Casa,368,520,3,5,2276227
+Jardim São José,Casa,409,254,5,4,2278539
+Jardim São José,Casa,412,428,5,5,2283716
+Jardim Esperança,Casa,384,586,7,1,2289792
+Parque dos Príncipes,Casa,366,594,2,3,2291599
+Parque Imperial,Casa,408,285,3,4,2301528
+Parque dos Príncipes,Casa,403,489,7,5,2302500
+Sunset Garden,Casa,402,531,4,2,2313027
+Veraneio Ijal,Casa,391,598,2,2,2316284
+Sunset Garden,Casa,355,300,2,1,2317653
+Jardim São José,Casa,413,224,3,4,2320647
+Vila Machado,Casa,391,200,7,2,2329578
+Centro,Casa,410,306,3,4,2347906
+Parque dos Príncipes,Casa,397,275,6,2,2384382
+Nova Jacareí,Casa,408,393,7,3,2386800
+Jardim Paraíba,Casa,410,600,4,1,2431710
+Centro,Casa,374,360,6,2,2456469
+Villa Branca,Casa,352,273,5,1,2482937
+Clube de Campo,Casa,345,262,2,5,2490072
+Centro,Casa,406,530,6,2,2563037
+Villa Branca,Casa,418,368,5,1,2573542
+Clube de Campo,Casa,380,515,7,5,2584608
+Villa Branca,Casa,368,594,2,2,2631200
+Sunset Garden,Casa,374,433,4,5,2723692
+Clube de Campo,Casa,368,322,7,3,2731664
+Clube de Campo,Casa,368,448,4,3,2776155
+Villa Branca,Casa,387,527,3,5,2931060

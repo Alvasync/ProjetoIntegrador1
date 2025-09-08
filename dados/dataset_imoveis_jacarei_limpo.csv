@@ -1,0 +1,175 @@
+bairro,tipo_imovel,area_construida,area_terreno,quartos,banheiros,preco
+Centro,Casa,150,300,3,2,680000
+Jardim Paraíba,Casa,120,250,2,1,450000
+Vila Machado,Casa,180,400,4,3,520000
+Jardim América,Apartamento,80,0,2,1,320000
+Parque dos Príncipes,Casa,200,500,4,3,850000
+Jardim das Oliveiras,Casa,110,200,3,2,385000
+Vila Garcia,Casa,90,180,2,1,280000
+Jardim Califórnia,Apartamento,65,0,2,1,245000
+Cidade Salvador,Casa,100,220,2,2,240000
+Jardim São José,Casa,130,280,3,2,390000
+Villa Branca,Casa,250,600,5,4,1300000
+Parque Imperial,Casa,220,480,4,3,1050000
+Jardim Esperança,Casa,85,160,2,1,195000
+Nova Jacareí,Apartamento,70,0,2,1,270000
+Jardim Primavera,Casa,140,320,3,2,480000
+Terras de Santa Clara,Casa,160,350,3,3,620000
+Portal Alvorada,Casa,180,380,4,3,740000
+Sunset Garden,Casa,300,800,6,5,1650000
+Clube de Campo,Casa,350,1000,6,6,2100000
+Veraneio Ijal,Casa,125,270,3,2,425000
+Centro,Apartamento,90,0,3,2,450000
+Jardim Paraíba,Terreno,0,500,0,0,160000
+Vila Machado,Terreno,0,300,0,0,84000
+Jardim América,Casa,170,380,4,3,685000
+Parque dos Príncipes,Apartamento,110,0,3,2,550000
+Jardim das Oliveiras,Terreno,0,400,0,0,140000
+Vila Garcia,Casa,75,150,2,1,225000
+Jardim Califórnia,Casa,145,310,3,2,465000
+Cidade Salvador,Terreno,0,250,0,0,60000
+Jardim São José,Apartamento,85,0,2,2,315000
+Villa Branca,Apartamento,150,0,4,3,780000
+Parque Imperial,Casa,195,420,4,3,945000
+Jardim Esperança,Terreno,0,200,0,0,46000
+Nova Jacareí,Casa,115,240,3,2,390000
+Jardim Primavera,Apartamento,75,0,2,1,285000
+Centro,Comercial,200,300,0,2,900000
+Jardim Paraíba,Casa,135,290,3,2,485000
+Vila Machado,Apartamento,60,0,2,1,210000
+Jardim América,Terreno,0,600,0,0,228000
+Parque dos Príncipes,Casa,240,550,5,4,1150000
+Jardim das Oliveiras,Casa,95,190,2,1,332500
+Vila Garcia,Terreno,0,180,0,0,46800
+Jardim Califórnia,Casa,165,340,3,3,495000
+Cidade Salvador,Casa,88,170,2,1,211200
+Jardim São José,Casa,155,330,4,2,493500
+Villa Branca,Terreno,0,1200,0,0,624000
+Parque Imperial,Apartamento,130,0,3,2,624000
+Jardim Esperança,Casa,70,140,2,1,161000
+Nova Jacareí,Terreno,0,350,0,0,119000
+Jardim Primavera,Casa,190,410,4,3,651000
+Centro,Casa,175,380,4,3,787500
+Jardim Paraíba,Apartamento,95,0,3,2,380000
+Vila Machado,Casa,105,210,3,2,294000
+Jardim América,Casa,220,480,5,4,836000
+Parque dos Príncipes,Terreno,0,800,0,0,336000
+Jardim das Oliveiras,Apartamento,80,0,2,1,280000
+Vila Garcia,Casa,110,200,3,2,286000
+Jardim Califórnia,Terreno,0,450,0,0,135000
+Cidade Salvador,Apartamento,55,0,1,1,132000
+Jardim São José,Casa,145,300,3,3,435000
+Villa Branca,Casa,280,700,5,5,1456000
+Parque Imperial,Casa,210,460,4,3,1008000
+Jardim Esperança,Apartamento,50,0,1,1,115000
+Nova Jacareí,Casa,160,340,4,2,544000
+Jardim Primavera,Terreno,0,280,0,0,86800
+Centro,Apartamento,120,0,3,2,600000
+Jardim Paraíba,Casa,98,195,2,1,313600
+Vila Machado,Comercial,180,250,0,2,504000
+Jardim América,Casa,185,400,4,3,703000
+Parque dos Príncipes,Casa,265,580,5,4,1218000
+Jardim das Oliveiras,Casa,125,260,3,2,437500
+Vila Garcia,Apartamento,65,0,2,1,169000
+Jardim Califórnia,Casa,155,325,3,2,465000
+Cidade Salvador,Casa,92,180,2,2,220800
+Jardim São José,Terreno,0,420,0,0,121800
+Villa Branca,Apartamento,180,0,4,3,936000
+Parque Imperial,Casa,235,510,5,4,1128000
+Jardim Esperança,Casa,78,155,2,1,179400
+Nova Jacareí,Apartamento,88,0,2,1,299200
+Jardim Primavera,Casa,205,440,4,3,701500
+Centro,Casa,165,360,4,3,742500
+Jardim Paraíba,Terreno,0,380,0,0,121600
+Vila Machado,Casa,115,230,3,2,322000
+Jardim América,Apartamento,105,0,3,2,399000
+Parque dos Príncipes,Casa,195,425,4,3,819000
+Jardim das Oliveiras,Terreno,0,320,0,0,112000
+Vila Garcia,Casa,85,170,2,1,221000
+Jardim Califórnia,Apartamento,90,0,2,2,270000
+Cidade Salvador,Terreno,0,200,0,0,48000
+Jardim São José,Casa,170,360,4,3,493000
+Villa Branca,Casa,320,850,6,6,1664000
+Parque Imperial,Terreno,0,600,0,0,288000
+Jardim Esperança,Apartamento,58,0,1,1,133400
+Nova Jacareí,Casa,138,295,3,2,469200
+Jardim Primavera,Casa,175,375,4,3,542500
+Centro,Comercial,250,400,0,3,1125000
+Jardim Paraíba,Casa,142,305,3,2,454400
+Vila Machado,Apartamento,72,0,2,1,201600
+Jardim América,Casa,198,430,4,3,752400
+Parque dos Príncipes,Apartamento,135,0,3,2,567000
+Jardim das Oliveiras,Casa,108,215,3,2,378000
+Vila Garcia,Terreno,0,160,0,0,41600
+Jardim Califórnia,Casa,178,365,4,3,534000
+Cidade Salvador,Casa,95,190,2,2,228000
+Jardim São José,Apartamento,78,0,2,1,226200
+Villa Branca,Casa,295,750,5,5,1534000
+Parque Imperial,Casa,225,490,5,4,1080000
+Jardim Esperança,Casa,82,165,2,1,188600
+Nova Jacareí,Terreno,0,310,0,0,105400
+Jardim Primavera,Apartamento,92,0,2,2,285200
+Centro,Casa,190,420,4,3,850000
+Jardim Paraíba,Comercial,300,400,0,3,1200000
+Vila Machado,Casa,95,180,2,2,266000
+Jardim América,Casa,210,450,4,3,798000
+Parque dos Príncipes,Apartamento,115,0,3,2,483000
+Jardim das Oliveiras,Casa,88,175,2,1,308000
+Vila Garcia,Terreno,0,220,0,0,57200
+Jardim Califórnia,Casa,172,350,4,3,516000
+Cidade Salvador,Apartamento,48,0,1,1,115200
+Jardim São José,Casa,158,320,3,3,474000
+Villa Branca,Casa,270,650,5,4,1404000
+Parque Imperial,Terreno,0,520,0,0,249600
+Jardim Esperança,Casa,76,152,2,1,174800
+Nova Jacareí,Casa,148,295,3,2,502400
+Jardim Primavera,Casa,182,390,4,3,623400
+Centro,Apartamento,98,0,2,2,441000
+Jardim Paraíba,Casa,128,265,3,2,409600
+Vila Machado,Terreno,0,280,0,0,78400
+Jardim América,Apartamento,108,0,3,2,410400
+Parque dos Príncipes,Casa,248,530,5,4,1142400
+Jardim das Oliveiras,Terreno,0,350,0,0,122500
+Vila Garcia,Casa,102,195,2,2,265200
+Jardim Califórnia,Apartamento,82,0,2,1,246000
+Cidade Salvador,Casa,86,168,2,1,206400
+Jardim São José,Terreno,0,380,0,0,110200
+Villa Branca,Apartamento,165,0,4,3,858000
+Parque Imperial,Casa,205,445,4,3,984000
+Jardim Esperança,Apartamento,62,0,2,1,142600
+Nova Jacareí,Terreno,0,290,0,0,98600
+Jardim Primavera,Casa,195,415,4,3,668500
+Centro,Casa,168,365,3,3,756000
+Jardim Paraíba,Apartamento,85,0,2,1,272000
+Vila Machado,Casa,118,240,3,2,330400
+Jardim América,Casa,235,495,5,4,893000
+Parque dos Príncipes,Terreno,0,720,0,0,302400
+Jardim das Oliveiras,Casa,92,185,2,1,322000
+Vila Garcia,Apartamento,58,0,1,1,150800
+Jardim Califórnia,Casa,165,340,3,3,495000
+Cidade Salvador,Terreno,0,190,0,0,45600
+Jardim São José,Casa,142,295,3,2,426500
+Villa Branca,Casa,315,780,6,5,1638000
+Parque Imperial,Apartamento,125,0,3,2,600000
+Jardim Esperança,Casa,81,162,2,1,186300
+Nova Jacareí,Casa,155,325,3,3,527000
+Jardim Primavera,Apartamento,88,0,2,2,273600
+Terras de Santa Clara,Casa,180,380,4,3,702000
+Portal Alvorada,Casa,195,415,4,3,799500
+Sunset Garden,Casa,280,720,5,5,1540000
+Clube de Campo,Casa,380,950,6,6,2280000
+Veraneio Ijal,Casa,135,285,3,2,445500
+Terras de Santa Clara,Apartamento,105,0,3,2,409500
+Portal Alvorada,Terreno,0,600,0,0,246000
+Sunset Garden,Terreno,0,800,0,0,440000
+Clube de Campo,Terreno,0,1200,0,0,720000
+Veraneio Ijal,Apartamento,78,0,2,1,257400
+Terras de Santa Clara,Casa,205,425,4,3,799500
+Portal Alvorada,Casa,168,355,3,3,688400
+Sunset Garden,Casa,320,850,6,5,1760000
+Clube de Campo,Casa,420,1100,7,6,2520000
+Veraneio Ijal,Casa,122,258,3,2,402600
+Terras de Santa Clara,Terreno,0,450,0,0,175500
+Portal Alvorada,Apartamento,92,0,2,2,377200
+Sunset Garden,Apartamento,150,0,4,3,825000
+Veraneio Ijal,Terreno,0,320,0,0,105600

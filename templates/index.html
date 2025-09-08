@@ -230,9 +230,16 @@
         <section id="precificador" class="section">
             <h2 class="section__title">Precificar Imóvel</h2>
             <div class="section__content" style="max-width: 500px; margin: 0 auto;">
-                <p style="margin-bottom: 1.5rem; font-size: 1rem; color: var(--text-color);">
-                    Nosso precificador utiliza <strong>inteligência artificial baseada em regras</strong> e dados reais dos bairros de Jacareí. O sistema ajusta o preço conforme área, quartos e banheiros, simulando o raciocínio de um avaliador humano.
-                </p>
+                <div id="ia-status" style="margin-bottom: 1.5rem; padding: 1rem; border-radius: 0.5rem; background: var(--container-color); border: 1px solid var(--border-color);">
+                    <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+                        <div id="ia-indicator" style="width: 10px; height: 10px; border-radius: 50%; background: #ffa500;"></div>
+                        <strong id="ia-status-text">Verificando status da IA...</strong>
+                    </div>
+                    <p style="font-size: 0.9rem; color: var(--text-color); margin: 0;">
+                        Nosso sistema utiliza <strong>Machine Learning</strong> com dados reais de imóveis. 
+                        O modelo analisa padrões complexos para fornecer avaliações precisas.
+                    </p>
+                </div>
                 <form method="POST" action="#precificador" id="precificar-form" style="display: flex; flex-direction: column; gap: 1rem;">
                     <label for="tipo_imovel">Tipo de Imóvel</label>
                     <select name="tipo_imovel" id="tipo_imovel" required style="padding: 0.75rem; border-radius: 0.5rem; border: 1px solid var(--border-color);">
@@ -437,6 +444,8 @@
 
     <!-- Scripts -->
     <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="{{ url_for('static', filename='js/threeDHouse.js') }}"></script>
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
     <script src="{{ url_for('static', filename='js/magic-navigation-menu-indicator.js') }}"></script>
     <script type="module" src="{{ url_for('static', filename='js/change-theme-button.js') }}"></script>
@@ -464,6 +473,101 @@
             document.getElementById('register-form').style.display = 'none';
             document.getElementById('forgot-password-form').style.display = 'block';
         }
+        
+        // Sistema de Precificação Inteligente
+        class PrecificadorInteligente {
+            constructor() {
+                this.form = document.getElementById('precificar-form');
+                this.iaStatus = {
+                    indicator: document.getElementById('ia-indicator'),
+                    text: document.getElementById('ia-status-text')
+                };
+                this.init();
+            }
+            
+            init() {
+                this.checkIAStatus();
+                this.setupFormHandler();
+                
+                // Verificar status da IA a cada 30 segundos
+                setInterval(() => this.checkIAStatus(), 30000);
+            }
+            
+            async checkIAStatus() {
+                try {
+                    const response = await fetch('/api/status-ia');
+                    const data = await response.json();
+                    
+                    if (data.ia_disponivel && data.modelo_treinado) {
+                        this.updateStatus('online', 'IA Online - Modelo Treinado', '#00ff00');
+                    } else if (data.ia_disponivel) {
+                        this.updateStatus('training', 'IA Online - Treinando Modelo...', '#ffa500');
+                    } else {
+                        this.updateStatus('fallback', 'Modo Fallback - Regras Matemáticas', '#ff6600');
+                    }
+                } catch (error) {
+                    this.updateStatus('offline', 'Sistema Offline', '#ff0000');
+                }
+            }
+            
+            updateStatus(status, text, color) {
+                if (this.iaStatus.indicator && this.iaStatus.text) {
+                    this.iaStatus.indicator.style.background = color;
+                    this.iaStatus.text.textContent = text;
+                }
+            }
+            
+            setupFormHandler() {
+                if (!this.form) return;
+                
+                this.form.addEventListener('submit', async (e) => {
+                    // Permitir o envio normal do form como fallback
+                    // Apenas adicionar feedback visual
+                    const submitBtn = this.form.querySelector('button[type="submit"]');
+                    const originalText = submitBtn.innerHTML;
+                    
+                    submitBtn.innerHTML = '<i class="ri-loader-4-line" style="animation: spin 1s linear infinite;"></i> Calculando...';
+                    submitBtn.disabled = true;
+                    
+                    // Restaurar botão após um tempo (o form será submetido normalmente)
+                    setTimeout(() => {
+                        submitBtn.innerHTML = originalText;
+                        submitBtn.disabled = false;
+                    }, 3000);
+                });
+            }
+        }
+        
+        // Inicializar quando o DOM estiver pronto
+        document.addEventListener('DOMContentLoaded', function() {
+            // Inicializar o precificador inteligente
+            window.precificador = new PrecificadorInteligente();
+            
+            // Adicionar animação de spin para o loader
+            const style = document.createElement('style');
+            style.textContent = `
+                @keyframes spin {
+                    from { transform: rotate(0deg); }
+                    to { transform: rotate(360deg); }
+                }
+                
+                #threejs-container {
+                    transition: all 0.3s ease;
+                }
+                
+                #threejs-container:hover {
+                    transform: scale(1.05) !important;
+                    box-shadow: 0 12px 48px rgba(74,144,226,0.15) !important;
+                }
+                
+                @media (max-width: 768px) {
+                    #threejs-container {
+                        display: none !important;
+                    }
+                }
+            `;
+            document.head.appendChild(style);
+        });
     </script>
 </body>
 </html>
