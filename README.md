@@ -1,6 +1,6 @@
 # Precificador de Imóveis IA
 
-Sistema web para precificação de imóveis em Jacareí utilizando inteligência artificial baseada em regras.
+Sistema web para precificação de imóveis em Jacareí utilizando inteligência artificial 
 
 ## Tutorial rápido: rodando o projeto pelo terminal do VS Code
 
